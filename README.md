@@ -9,13 +9,8 @@
 ## Table of contents
 
 - [Features](#features)
-- [**Build your website in 3 steps**](#build-your-website-in-3-steps)
-- [Add your own content](#add-your-own-content)
 - [Customizing parameters for each page](#customizing-parameters-for-each-page)
 - [Supported parameters](#supported-parameters)
-- [Showcased users (success stories!)](#showcased-users-success-stories)
-- [FAQ and support](#faq-and-support)
-- [Credits and contributions](#credits)
 
 # Features
 
