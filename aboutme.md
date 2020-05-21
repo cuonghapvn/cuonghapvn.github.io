@@ -1,16 +1,106 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hello, I'm Cuong
+subtitle: A project manager | developer | Sr. BrSE | nice guy
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<i class="fa fa-address-card" aria-hidden="true"></i> Hi, my name is Cuong Nguyen and I live in a city called Osaka.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### <i class="fa fa-terminal" aria-hidden="true"></i> Projects
 
-What else do you need?
+Take a look at this [Projects]() page to get an overview of my current work.
 
-### my history
+### <i class="fa fa-heart" aria-hidden="true"></i> Favorite Topics
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Besides I'm very interested in **PowerShell**, **DevOps**, **Phabricator** and **Software Engineering** in general. I love
+exploring [Github](https://github.com/){:target="_blank"}, [Stackoverflow](https://stackoverflow.com/){:target="_blank"} or [Powershell.org](https://powershell.org/){:target="_blank"}
+and discovering new stuff.
+
+Additionally I love building **CI/CD Stacks** with different open-source products to spread the word of **DevOps** and **Containerization**.
+
+### <i class="fa fa-cubes" aria-hidden="true"></i> Skills
+*Here comes a list of subjects I've worked with, grouped by topics...*
+
+#### <i class="fa fa-code" aria-hidden="true"></i> Scripting and Programming Languages
+
+PowerShell &bull; Python &bull; PHP &bull; Object Pascal &bull; C++ &bull; Visual Basic
+
+#### <i class="fa fa-terminal" aria-hidden="true"></i> Operating Systems
+
+Microsoft Windows 98SE - 10 &bull; Microsoft Windows Server 2000 - 2016 &bull;
+CentOS *(and other Red Hat Enterprise Linux derivatives)* &bull; SLES &bull; ubuntu
+
+#### <i class="fa fa-cloud" aria-hidden="true"></i> Cloud Orchestration and Automation
+
+eCloud Manager &bull; FLOWSTER Studio &bull; Citrix Cloud Platform &bull; Citrix Cloud Platform Business Manager
+
+#### <i class="fa fa-gears" aria-hidden="true"></i> Server Roles, Features and Products
+
+Active Directory &bull; File Server &bull; Web Server *(IIS and Apache)* &bull;
+DBs *(MSSQL, MySQL, PostgresSQL, Oracle 10g)* &bull; Backup & Restore *(IBM Tivoli Storage Manager)* &bull;
+Server Hypervisor *(VMWare ESX, HyperV)* &bull; Terminal Server *(Microsoft, Citrix XenApp/ XenDesktop)* &bull;
+Software Virtualization *(VMware ThinApp)* &bull; Software Packaging and Deployment *(Enteo Netinstall, Matrix42)*
+&bull; Monitoring *(Zabbix)* &bull; Build Engines *(Jenkins, AppVeyor)*
+
+#### <i class="fa fa-gear" aria-hidden="true"></i> General Software
+
+git SCM &bull; Phabricator &bull; VSCode &bull; Notepad++
+
+### <i class="fa fa-briefcase" aria-hidden="true"></i> Experience
+
+#### <i class="fa fa-calendar" aria-hidden="true"></i> 2018 - 20<i class="fa fa-question" aria-hidden="true"></i><i class="fa fa-question" aria-hidden="true"></i> <i class="fa fa-building-o" aria-hidden="true"></i> [ITEOS](https://www.iteos.de) as **SysOp** / **DevOps Engineer**
+
+<i class="fa fa-calendar-plus-o" aria-hidden="true"></i> **2019**&nbsp;&nbsp; Internal Self Service Portal
+
+I spent the second half of the year creating a single-page application based on [Vue.js](https://vuejs.org/) for visualizing product changelog and configuration details.
+Therefore I had to relearn javaScript and started working with the [materialize-css](https://materializecss.com/) framework and other well known node modules.
+
+<i class="fa fa-calendar-plus-o" aria-hidden="true"></i> **2019**&nbsp;&nbsp; Release Management Tool MkII
+
+First part of the year I was focused on expanding the Release Management tools and workflows for our cloud hosted applications:
+
+- Added automated aggregation of release details for each hosted application.
+- Added changelog workflow for documenting releases.
+- Defined rollout life cycle states for each new release.
+- ITIL compliant syncing of the release data into centralized CMDB.
+
+<i class="fa fa-calendar-plus-o" aria-hidden="true"></i> **2018**&nbsp;&nbsp; KIVBF merged with its partners to form ITEOS in order to be able to offer uniform services. After adjusting the internal organizational structure, I'm now part of the business unit 4.2 *(Integration-, Security- & Application Managent)*.
+My previous team was reassigned to this new unit as well, and was renamed into CAFS *(Cloud- & Application-Frontend-Services)*.
+So my range of tasks changed slightly.
+
+
+#### <i class="fa fa-calendar" aria-hidden="true"></i> 2012 - 2018 <i class="fa fa-building-o" aria-hidden="true"></i> [KIVBF](https://www.kivbf.de) as **SysOp** / **DevOps Engineer**
+
+<i class="fa fa-calendar-plus-o" aria-hidden="true"></i> **2015**&nbsp;&nbsp; In 2015 I started automating several platform and workload
+related use cases. Unfortunately it's closed source, so I can't talk about details. But to give a glimpse at the
+underlining technologies I can notice they were based on **Microsoft**, **VMware** and **Citrix** products.
+
+<i class="fa fa-calendar-plus-o" aria-hidden="true"></i> **2014**&nbsp;&nbsp; As the automation team got bigger and bigger, we needed to define
+standards. That's why I began using [Phabricator](https://www.phacility.com/phabricator/) as a developer framework in
+combination with [Jenkins](https://jenkins.io/) to build our modules. This enabled us doing code review, lint tests,
+unit test and building our own CI Environment.
+
+
+<i class="fa fa-calendar-plus-o" aria-hidden="true"></i> **2013**&nbsp;&nbsp; I joined into a new team which was building our new cloud
+infrastructure. We purposed to offer our customers IaaS, PaaS, SaaS and EaaS services. My focus shifted
+to automation and cloud orchestration. Back then I started using Powershell.
+
+
+<i class="fa fa-calendar-plus-o" aria-hidden="true"></i> **2012**&nbsp;&nbsp; I needed to get away from those wacky enterprise applications
+which were used in the public sector. So I took the chance to work in much bigger datacenter at
+[KIVBF](https://www.kivbf.de). There I ran the backup and restore solution called IBM Tivoli Storage Manager (TSM).
+
+It was a great place to get to know such large environment and I finally started automating again. At this time I
+implemented the monitoring system [Zabbix](http://www.zabbix.com/). Unfortunately I couldn't find any extension to
+monitor out IBM tape library or TSM data itself. So I developed own interfaces therefore.
+
+#### <i class="fa fa-calendar" aria-hidden="true"></i> 2008 - 2012 <i class="fa fa-building-o" aria-hidden="true"></i> [Pforzheim municipal administration](https://www.pforzheim.de/) as **SysOp**
+
+At the municipal administration of Pforzheim I was responsible for the**Software Packaging and Deployment**,
+ **MS-SQL Servers** and **Web Hosting**.
+
+### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
+
+I successfully finished two undergraduate trainings as **IT Specialist For Application Development** and
+**Management Assistant in IT-Systems**.
+
