@@ -53,7 +53,7 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +818095428233
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -70,7 +70,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "CuongN.com"
+# url-pretty: "CuongN.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -102,7 +102,7 @@ footer-link-col: "#404040"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-167420207-1"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""

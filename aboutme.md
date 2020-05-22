@@ -6,15 +6,14 @@ subtitle: A project manager | developer | Sr. BrSE | nice guy
 
 <i class="fa fa-address-card" aria-hidden="true"></i> Hi, my name is Cuong Nguyen and I live in a city called Osaka.
 
-### <i class="fa fa-terminal" aria-hidden="true"></i> Projects
+<!-- ### <i class="fa fa-terminal" aria-hidden="true"></i> Projects
 
-Take a look at this [Projects]() page to get an overview of my current work.
+Take a look at this [Projects]() page to get an overview of my current work. -->
 
 ### <i class="fa fa-heart" aria-hidden="true"></i> Favorite Topics
 
-Besides I'm very interested in **PowerShell**, **DevOps**, **Phabricator** and **Software Engineering** in general. I love
-exploring [Github](https://github.com/){:target="_blank"}, [Stackoverflow](https://stackoverflow.com/){:target="_blank"} or [Powershell.org](https://powershell.org/){:target="_blank"}
-and discovering new stuff.
+Besides I'm very interested in **Machine Learning/Deep Learning**, **DevOps**, **Data Science** and **Software Engineering** in general. I love
+exploring [Github](https://github.com/){:target="_blank"}, [Stackoverflow](https://stackoverflow.com/){:target="_blank"} and discovering new stuff.
 
 Additionally I love building **CI/CD Stacks** with different open-source products to spread the word of **DevOps** and **Containerization**.
 
@@ -46,7 +45,7 @@ Software Virtualization *(VMware ThinApp)* &bull; Software Packaging and Deploym
 
 git SCM &bull; Phabricator &bull; VSCode &bull; Notepad++
 
-### <i class="fa fa-briefcase" aria-hidden="true"></i> Experience
+<!-- ### <i class="fa fa-briefcase" aria-hidden="true"></i> Experience
 
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2018 - 20<i class="fa fa-question" aria-hidden="true"></i><i class="fa fa-question" aria-hidden="true"></i> <i class="fa fa-building-o" aria-hidden="true"></i> [ITEOS](https://www.iteos.de) as **SysOp** / **DevOps Engineer**
 
@@ -97,10 +96,9 @@ monitor out IBM tape library or TSM data itself. So I developed own interfaces t
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2008 - 2012 <i class="fa fa-building-o" aria-hidden="true"></i> [Pforzheim municipal administration](https://www.pforzheim.de/) as **SysOp**
 
 At the municipal administration of Pforzheim I was responsible for the**Software Packaging and Deployment**,
- **MS-SQL Servers** and **Web Hosting**.
+ **MS-SQL Servers** and **Web Hosting**. -->
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
 
-I successfully finished two undergraduate trainings as **IT Specialist For Application Development** and
-**Management Assistant in IT-Systems**.
+I successfully finished B.E. in Software Engineering at **FPT University**.
 
