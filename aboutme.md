@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello, I'm Cuong
-subtitle: A project manager | developer | Sr. BrSE | nice guy
+subtitle: A developer | project manager | nice guy
 ---
 
 <i class="fa fa-address-card" aria-hidden="true"></i> Hi, my name is Cuong Nguyen and I live in a city called Osaka.
