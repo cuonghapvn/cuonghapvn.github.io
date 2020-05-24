@@ -22,28 +22,24 @@ Additionally I love building **CI/CD Stacks** with different open-source product
 
 #### <i class="fa fa-code" aria-hidden="true"></i> Scripting and Programming Languages
 
-PowerShell &bull; Python &bull; PHP &bull; Object Pascal &bull; C++ &bull; Visual Basic
+Java &bull; Javascript &bull; Python &bull; VBA
 
 #### <i class="fa fa-terminal" aria-hidden="true"></i> Operating Systems
 
-Microsoft Windows 98SE - 10 &bull; Microsoft Windows Server 2000 - 2016 &bull;
-CentOS *(and other Red Hat Enterprise Linux derivatives)* &bull; SLES &bull; ubuntu
+Microsoft Windows XP - 10 &bull; Microsoft Windows Server 2008 - 2016
 
-#### <i class="fa fa-cloud" aria-hidden="true"></i> Cloud Orchestration and Automation
+#### <i class="fa fa-cloud" aria-hidden="true"></i> Cloud
 
-eCloud Manager &bull; FLOWSTER Studio &bull; Citrix Cloud Platform &bull; Citrix Cloud Platform Business Manager
+AWS &bull; GCP
 
 #### <i class="fa fa-gears" aria-hidden="true"></i> Server Roles, Features and Products
 
-Active Directory &bull; File Server &bull; Web Server *(IIS and Apache)* &bull;
-DBs *(MSSQL, MySQL, PostgresSQL, Oracle 10g)* &bull; Backup & Restore *(IBM Tivoli Storage Manager)* &bull;
-Server Hypervisor *(VMWare ESX, HyperV)* &bull; Terminal Server *(Microsoft, Citrix XenApp/ XenDesktop)* &bull;
-Software Virtualization *(VMware ThinApp)* &bull; Software Packaging and Deployment *(Enteo Netinstall, Matrix42)*
-&bull; Monitoring *(Zabbix)* &bull; Build Engines *(Jenkins, AppVeyor)*
+File Server &bull; Web Server *(IIS and Apache)* &bull;
+DBs *(MSSQL, MySQL, PostgresSQL, Oracle 10g)* &bull; Build Engines *(Jenkins, AWS CodeBuild)*
 
 #### <i class="fa fa-gear" aria-hidden="true"></i> General Software
 
-git SCM &bull; Phabricator &bull; VSCode &bull; Notepad++
+git SCM &bull; VSCode &bull; Notepad++ &bull; pyCharm
 
 <!-- ### <i class="fa fa-briefcase" aria-hidden="true"></i> Experience
 
@@ -100,5 +96,5 @@ At the municipal administration of Pforzheim I was responsible for the**Software
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
 
-I successfully finished B.E. in Software Engineering at **FPT University**.
+I successfully finished **B.E. in Software Engineering** at **FPT University**.
 
