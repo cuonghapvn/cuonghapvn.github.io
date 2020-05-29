@@ -17,3 +17,8 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: comments
+  type: text
+  config:
+    required: false
+  label: comments
