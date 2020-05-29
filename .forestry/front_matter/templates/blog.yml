@@ -22,3 +22,5 @@ fields:
   config:
     required: false
   label: comments
+pages:
+- _posts/test-from-forestry.io.md
