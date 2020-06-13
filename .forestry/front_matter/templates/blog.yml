@@ -22,3 +22,9 @@ fields:
   config:
     required: false
   label: comments
+- name: published
+  type: text
+  config:
+    required: false
+  label: published
+  default: 'true'
