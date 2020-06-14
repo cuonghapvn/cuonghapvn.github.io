@@ -30,4 +30,5 @@ fields:
   label: published
   default: 'true'
 pages:
+- _posts/first-blood.md
 - _posts/getting-pmp-certified-study-notes-tips-and-lessons-learned.md
