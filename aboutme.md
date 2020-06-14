@@ -46,7 +46,7 @@ git SCM • VSCode • Notepad++ • pyCharm
 * <i class="fab fa-github-square" aria-hidden="true"></i> [cuonghapvn](https://github.com/cuonghapvn)
 * <i class="fab fa-linkedin" aria-hidden="true"></i> [cuonghapvn](https://www.linkedin.com/in/cuong-nguyen-92988332/)
 * <i class="fab fa-twitter-square" aria-hidden="true"></i> [cuonghapvn](https://twitter.com/cuonghapvn)
-* <i class="fab fa-envelope-square" aria-hidden="true"></i> [cuonghapvn@gmail.com](mailto:cuonghapvn@gmail.com)
+* <i class="fab fa-envelope" aria-hidden="true"></i> [cuonghapvn@gmail.com](mailto:cuonghapvn@gmail.com)
 
 <!-- ### <i class="fa fa-briefcase" aria-hidden="true"></i> Experience
 
