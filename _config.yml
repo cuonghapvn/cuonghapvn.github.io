@@ -14,7 +14,7 @@ author: Cuong Nguyen
 navbar-links:
   Home: "index"
   About Me: "aboutme"
-  CV: "cv"
+#  CV: "cv"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
