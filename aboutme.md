@@ -16,7 +16,7 @@ Một số thông tin về bản thân mình mà bạn có thể quan tâm:
 
 * Mình tốt nghiệp chuyên ngành **Software Engineering** tại **FPT University** khóa 6.
 * Gia nhập **FPT Software** từ 2014 ở vị trí Web Developer, từ đầu năm 2016 thì mình chuyển sang làm BrSE tại **FPT Software Japan** cho đến hiện tại.
-* Mình sở hữu một số chứng chỉ về tech cũng như management như: **PMP, PSM 2, PSPO, Data Science, Machine Learning.** 
+* Mình sở hữu một số chứng chỉ về tech cũng như management như: **PMP, PSM 2, PSPO, Data Science, Machine Learning.**
 * Công việc hằng ngày của mình chủ yếu liên quan đến: **Japanese BrSE, AWS, Deep Learning.**
 
 ### <i class="fa fa-cubes" aria-hidden="true"></i> Skills
@@ -39,6 +39,16 @@ DBs _(MSSQL, MySQL, PostgresSQL, Oracle 10g)_ • Build Engines _(Jenkins, AWS C
 #### <i class="fa fa-gear" aria-hidden="true"></i> General Software
 
 git SCM • VSCode • Notepad++ • pyCharm
+
+#### <i class="fa fa-address-card" aria-hidden="true"></i> Liên hệ với mình tại:
+
+<i class="fab fa-facebook-square" aria-hidden="true"></i> ceno239
+
+<i class="fab fa-github-square" aria-hidden="true"></i> cuonghapvn
+
+<i class="fab fa-linkedin" aria-hidden="true"></i> cuonghapvn
+
+<i class="fab fa-twitter-square" aria-hidden="true"></i> cuonghapvn
 
 <!-- ### <i class="fa fa-briefcase" aria-hidden="true"></i> Experience
 
