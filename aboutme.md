@@ -23,24 +23,24 @@ Một số thông tin về bản thân mình mà bạn có thể quan tâm:
 
 _Một số skills mình biết, mình group lại theo nhóm cho dễ đọc :D_
 
-#### <i class="fa fa-code" aria-hidden="true"></i> Scripting and Programming Languages
+##### <i class="fa fa-code" aria-hidden="true"></i> Scripting and Programming Languages
 
 Java • Javascript • Python • VBA
 
-#### <i class="fa fa-cloud" aria-hidden="true"></i> Cloud
+##### <i class="fa fa-cloud" aria-hidden="true"></i> Cloud
 
 AWS • GCP
 
-#### <i class="fa fa-gears" aria-hidden="true"></i> Server Roles, Features and Products
+##### <i class="fa fa-server" aria-hidden="true"></i> Server Roles, Features and Products
 
 File Server • Web Server _(IIS and Apache)_ •
 DBs _(MSSQL, MySQL, PostgresSQL, Oracle 10g)_ • Build Engines _(Jenkins, AWS CodeBuild)_
 
-#### <i class="fa fa-gear" aria-hidden="true"></i> General Software
+##### <i class="fa fa-tools" aria-hidden="true"></i> General Software
 
 git SCM • VSCode • Notepad++ • pyCharm
 
-#### <i class="fa fa-address-card" aria-hidden="true"></i> Liên hệ với mình tại:
+### <i class="fa fa-address-card" aria-hidden="true"></i> Liên hệ với mình tại:
 
 * <i class="fab fa-facebook-square" aria-hidden="true"></i> [ceno239](https://www.facebook.com/Ceno239/)
 * <i class="fab fa-github-square" aria-hidden="true"></i> [cuonghapvn](https://github.com/cuonghapvn)
