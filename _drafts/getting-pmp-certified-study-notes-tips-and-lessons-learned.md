@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lessons Learned - Kinh nghiệm ôn thi PMP
+title: Lessons Learned - Tổng hợp quá trình đạt được PMP
 subtitle: ''
 cover-img: "/uploads/20200613-pmp-cover.jpg"
 tags: []
@@ -20,4 +20,24 @@ Sau khóa boot camp 3 ngày, mình hừng hực khí thế muốn lao vào luy�
 
 ### Đăng ký thi
 
-Một ngày đẹp trời cuối năm 2019, bỗng nhiên thấy bạn mình khoe đã thi đậu PMP trên facebook. 
+Lúc này, PMI đang có kế hoạch thay đổi đề thi PMP sang outline mới từ 1/7/2020 nên mình có 2 lựa chọn:
+
+1. Cố gắng nộp đơn dự thi sớm, book slot thi và học để kịp thi theo nội dung cũ,
+2. Đợi sau tháng 7/2020 mới học và thi theo outline mới.
+
+Vì thi theo outline cũ thì tài liệu luyện thi khá nhiều nên mình quyết định nộp đơn và đóng tiền dự thi để book slot. Tuy nhiên, ở Osaka bị full slot đến hết tháng 6/2020 nên mình đành đi theo lựa chọn số 2 là đợi và học theo outline mới.
+
+### Học
+
+Do ảnh hưởng của dịch Covid-19 nên PMI hoãn việc thay đổi đề thi sang đầu năm 2021, kèm với công ty cho ở nhà chống dịch 1/2 thời gian nên mình quyết tâm bắt đầu việc học và đặt lịch thi sau.
+
+* Rita PMP Exam Prep 9th: Mình dùng quyển này làm source học chính vì đã có kiến thức cơ bản từ lúc học PMF.
+  * Mình đọc kỹ từng chương sau đó note lại những ý quan trọng. Mình bỏ qua hầu hết các bài exercise vì dài :)) chỉ đọc đáp án rồi fill gaps.
+  * Làm các câu practical exam cuối mỗi chương và note lại kết quả vào file excel. Chủ yếu là xem thử mình đang yếu ở phần nào để tìm hiểu thêm
+  * Sau khi đọc và làm bài tập được 1 lượt thì mình quay lại lượt 2: chỉ đọc note chứ không đọc lại sách. Phần nào k rõ thì mình xem thêm PMBOK.
+
+### Luyện đề
+
+### Ngày thi
+
+### Tổng kết
