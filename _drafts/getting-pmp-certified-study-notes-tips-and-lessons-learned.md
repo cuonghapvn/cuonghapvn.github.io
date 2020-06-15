@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lessons Learned - Tổng hợp quá trình đạt được PMP
+title: Mình đã pass PMP ở lần thi đầu tiên!
 subtitle: ''
 cover-img: "/uploads/20200613-pmp-cover.jpg"
 tags: []
