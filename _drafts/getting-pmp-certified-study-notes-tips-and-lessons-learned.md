@@ -27,16 +27,20 @@ Lúc này, PMI đang có kế hoạch thay đổi đề thi PMP sang outline m�
 
 Vì thi theo outline cũ thì tài liệu luyện thi khá nhiều nên mình quyết định nộp đơn và đóng tiền dự thi để book slot. Tuy nhiên, ở Osaka bị full slot đến hết tháng 6/2020 nên mình đành đi theo lựa chọn số 2 là đợi và học theo outline mới.
 
-### Học
+### Ôn luyện kiến thức
 
-Do ảnh hưởng của dịch Covid-19 nên PMI hoãn việc thay đổi đề thi sang đầu năm 2021, kèm với công ty cho ở nhà chống dịch 1/2 thời gian nên mình quyết tâm bắt đầu việc học và đặt lịch thi sau.
+Do ảnh hưởng của dịch Covid-19 nên PMI hoãn việc thay đổi đề thi sang đầu năm 2021, kèm với công ty cho ở nhà chống dịch 1/2 thời gian nên mình quyết tâm bắt đầu việc học và đặt lịch thi sớm nhất có thể.
 
-* Rita PMP Exam Prep 9th: Mình dùng quyển này làm source học chính vì đã có kiến thức cơ bản từ lúc học PMF.
+* Rita PMP Exam Prep 9th: Mình dùng quyển này làm source học chính.
   * Mình đọc kỹ từng chương sau đó note lại những ý quan trọng. Mình bỏ qua hầu hết các bài exercise vì dài :)) chỉ đọc đáp án rồi fill gaps.
-  * Làm các câu practical exam cuối mỗi chương và note lại kết quả vào file excel. Chủ yếu là xem thử mình đang yếu ở phần nào để tìm hiểu thêm
-  * Sau khi đọc và làm bài tập được 1 lượt thì mình quay lại lượt 2: chỉ đọc note chứ không đọc lại sách. Phần nào k rõ thì mình xem thêm PMBOK.
+  * Làm các câu practical exam cuối mỗi chương và note lại kết quả vào file excel. 
+  * Sau khi đọc và làm bài tập được 1 lượt thì mình quay lại lượt 2: chỉ đọc note chứ không đọc lại sách. Sau đó làm lại practical exam 1 lượt và so sánh với lần đầu.
+* Course luyện thi PMP trên Udemy:
+  * Course này có cung cấp 35 contact hours, có thể sử dụng để đăng ký thi.
+  * Mình chỉ xem video một số chap mà mình quan tâm hoặc ở sách Rita không nói rõ.
+* Clip giải thích flow của các process trong PMBOK của anh Ricardo Vargas
 
-### Luyện đề
+### Giải đề thi
 
 ### Ngày thi
 
