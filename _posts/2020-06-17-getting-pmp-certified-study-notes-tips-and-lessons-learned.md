@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Mình đã pass PMP ở lần thi đầu tiên!
-subtitle: ''
+subtitle: If you want something you've never had, you must be willing to do something
+  you've never done!
 cover-img: "/uploads/20200613-pmp-cover.jpg"
 tags:
 - Lessons Learned
