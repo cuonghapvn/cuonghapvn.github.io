@@ -3,7 +3,6 @@ layout: post
 published: 'true'
 title: Mình đã chuẩn bị cho PSM I như thế nào?
 subtitle: Scrum is like your mother-in-law, it points out ALL your faults - Ken Schwaber
-cover-img: ''
 tags:
 - Scrum
 - Lessons Learned
