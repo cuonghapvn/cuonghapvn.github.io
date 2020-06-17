@@ -39,7 +39,7 @@ May mắn là vì covid nên vào cuối tháng 3/2020 PMI quyết định hoãn
   * Mình đọc kỹ từng chương sau đó note lại những ý quan trọng. Mình bỏ qua hầu hết các bài exercise vì dài :)) chỉ đọc đáp án rồi fill gaps.
   * Làm các câu practical exam cuối mỗi chương và note lại kết quả vào file excel.
   * Mình đọc lại 1 lượt nội dung mình đã note (không đọc lại sách) sau đó làm practical exam thêm một lượt nữa để fill gaps.
-* **PMBOK 6th**: 
+* **PMBOK 6th**:
   * Mọi người khuyên đọc qua quyển này ít nhất 1 lần, tuy nhiên mình không đọc.
   * Mình chỉ sử dụng như là một quyển sách tham khảo khi học theo Rita cũng như giải đề.
 * **Course PMP Exam Prep Seminar - PMBOK Guide 6** của Joseph Phillips:
@@ -64,7 +64,7 @@ May mắn là vì covid nên vào cuối tháng 3/2020 PMI quyết định hoãn
 
 ### Chuẩn bị cho ngày thi
 
-Theo nhiều review trên reddit mà mình đọc thì nếu giải full 3 mock exam đạt được kết quả 70% trở lên ở lần đầu tiên thì nghĩa là khả năng cao sẽ đậu nếu thi thật. 
+Theo nhiều review trên reddit mà mình đọc thì nếu giải full 3 mock exam đạt được kết quả 70% trở lên ở lần đầu tiên thì nghĩa là khả năng cao sẽ đậu nếu thi thật.
 
 Kết quả của mình lần lượt là: 83%, 84%, 84%, 84% nên khá tự tin là mình đã sẵn sàng.
 
@@ -86,12 +86,14 @@ Do ảnh hưởng của Covid nên trung tâm thi Pearson Osaka cancel và open 
   * Kết quả được in ngay lập tức sau khi hoàn thành bài thi và giám thị sẽ đưa cho mình ngay sau khi mình rời phòng thi.
   * Xem kết quả 5ATs, mình nhẹ nhõm lấy đồ đạc và đi về ... ( sau đó là nhắn tin khoe khắp nơi =))) )
 
+![](/uploads/20200617-img_0003.PNG)
+
 ### Kinh nghiệm
 
 Trên kia chủ yếu là quá trình của mình, tổng hợp lại được một số kinh nghiệm mình sẽ viết ra ở đây.
 
 * Nên có plan học tập rõ ràng (đơn giản là được, k cần phức tạp) để tracking.
-* Nên đăng ký hồ sơ dự thi sớm, tốt nhất là khi bắt đầu học thì làm hồ sơ luôn: 
+* Nên đăng ký hồ sơ dự thi sớm, tốt nhất là khi bắt đầu học thì làm hồ sơ luôn:
   * không ảnh hưởng đến kế hoạch thi nếu bị audit
   * đặt deadline rõ ràng, tránh tình trạng câu giờ, day dưa
   * nhận được PMBOK free thay vì phải mua
