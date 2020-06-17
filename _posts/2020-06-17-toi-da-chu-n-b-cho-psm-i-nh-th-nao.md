@@ -68,4 +68,5 @@ Nếu bạn fail, không cần nản chí, đọc thật kỹ kết quả thi ch
 
 Chinh phục được một chứng chỉ là một kết quả đáng tự hào, hãy chia sẻ niềm vui này cho mọi người nhé!
 
+{: .box-note}
 Trong quá trình chuẩn bị, nếu có gặp khó khăn gì, hãy cứ liên lạc cho mình nhé!
