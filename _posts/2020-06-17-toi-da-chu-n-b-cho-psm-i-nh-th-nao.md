@@ -1,6 +1,5 @@
 ---
 layout: post
-published: 'true'
 title: Mình đã chuẩn bị cho PSM I như thế nào?
 subtitle: Scrum is like your mother-in-law, it points out ALL your faults - Ken Schwaber
 tags:
@@ -39,9 +38,9 @@ PSM I (Professional Scrum Master level I) là chứng chỉ đầu tiên trong 0
 * Tài liệu ôn luyện quan trọng nhất chắc chắn là [Scrum Guide](https://scrumguides.org/scrum-guide.html "Scrum Guide"). Nội dung chính của PSM I xoay quanh việc verify kiến thức về Scrum Guide, đôi khi là từng chi tiết nhỏ, nên việc đọc kỹ Scrum Guide là điều thiết yếu nhất.
 * Đọc [Suggested Reading](https://www.scrum.org/resources/suggested-reading-professional-scrum-master "Suggested Reading") của Scrum.org.
 * Đọc [Scrum Glossary](https://www.scrum.org/Resources/Scrum-Glossary) để hiểu rõ các thuật ngữ được sử dụng trong Scrum.
-* Thử làm đề sample với [Open Assessments](https://www.scrum.org/open-assessments). 
-  * Có 3 nội dung cần quan tâm chính là: Scrum Open, Product Owner Open và Developer Open. 
-  * Bạn nên làm nhiều lần đề thi của Scrum Open tới khi nào đạt được 100% trong vòng 10 phút. 
+* Thử làm đề sample với [Open Assessments](https://www.scrum.org/open-assessments).
+  * Có 3 nội dung cần quan tâm chính là: Scrum Open, Product Owner Open và Developer Open.
+  * Bạn nên làm nhiều lần đề thi của Scrum Open tới khi nào đạt được 100% trong vòng 10 phút.
   * Sau đó làm thêm đề của Product Owner Open và Developer Open do trong bài thi PSM I cũng xuất hiện nội dung này.
 * Làm bài mock test nhiều lần trên [http://mlapshin.com/index.php/scrum-quizzes/sm-real-mode/](http://mlapshin.com/index.php/scrum-quizzes/sm-real-mode/ "http://mlapshin.com/index.php/scrum-quizzes/sm-real-mode/"). Theo mình thì nội dung ở đây khá sát với thực tế
 * Một số lesson learned khác có đề cập đến đọc thêm sách về Scrum, tuy mình không đọc nhưng cũng list ra đây để tham khảo:
@@ -57,7 +56,7 @@ Thời gian thi là 60 phút, thi bất kể lúc nào cũng OK nên hãy cố g
 
 Nếu đã luyện các câu hỏi trên Open Assessment kỹ càng thì chỉ cần 30 phút là có thể trả lời hết các câu hỏi trong đề, dành thời gian còn lại để review lại những câu không chắc chắn.
 
-PSM nói riêng và các chứng chỉ khác của Scrum.org đều thuộc dạng open book assessment, nghĩa là bạn được phép tra cứu tài liệu trong lúc thi. Tuy nhiên, với lượng câu hỏi nhiều, có một vài câu hỏi tình huống, bạn sẽ không thể có dư dả thời gian để tra cứu. 
+PSM nói riêng và các chứng chỉ khác của Scrum.org đều thuộc dạng open book assessment, nghĩa là bạn được phép tra cứu tài liệu trong lúc thi. Tuy nhiên, với lượng câu hỏi nhiều, có một vài câu hỏi tình huống, bạn sẽ không thể có dư dả thời gian để tra cứu.
 
 Sau khi hết 60 phút làm bài, hoặc bạn nộp bài sớm, kết quả sẽ hiển thị ngay trên màn hình. Tiếp đó 1-2 phút thì bạn sẽ nhận được mail báo kết quả thi chi tiết từ Scrum.org. Nếu kết quả là passs thì ngay từ lúc này bạn đã có thể truy cập vào Scrum.org để lấy file cert pdf.
 
@@ -65,7 +64,9 @@ Nếu bạn fail, không cần nản chí, đọc thật kỹ kết quả thi ch
 
 ### Kết
 
+Về thời gian để chuẩn bị thì sẽ phụ thuộc vào từng người, background, kinh nghiệm, khả năng đọc hiểu và tiếp thu nên quan trọng nhất chính là biết được bản thân mình đang ở đâu để lên kế hoạch học tập cho phù hợp nhé. Trong trường hợp của mình thì kể từ lúc bắt đầu lên kế hoạch, đọc lesson learned cho đến lúc lấy được chứng chỉ thì mất tổng cộng 5 ngày.
+
 Chinh phục được một chứng chỉ là một kết quả đáng tự hào, hãy chia sẻ niềm vui này cho mọi người nhé!
 
-{: .box-note}
-Trong quá trình chuẩn bị, nếu có gặp khó khăn gì, hãy cứ liên lạc cho mình nhé!
+{: .box-note}   
+Trong quá trình chuẩn bị, nếu có gặp khó khăn gì thì hãy cứ liên lạc cho mình. Mình sẽ cố gắng giải đáp các thắc mắc của các bạn.
