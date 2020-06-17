@@ -111,3 +111,6 @@ Trên kia chủ yếu là quá trình của mình, tổng hợp lại được m
 Đạt được chứng chỉ PMP là một mốc đáng nhớ trong năm 2020 của mình. Pass PMP cũng là động lực để mình bắt đầu viết blog vì thực tế trong suốt quá trình chuẩn bị và ôn thi PMP, mình đã tham khảo được rất nhiều kinh nghiệm từ các blog khác nhau.
 
 PMI sẽ liên tục cập nhật nội dung của các chứng chỉ, mình cũng sẽ cố gắng update liên tục các thông tin mới khi có thể.
+
+{: .box-note}
+Trong quá trình chuẩn bị, nếu có gặp khó khăn gì, hãy cứ liên lạc cho mình nhé!
