@@ -46,7 +46,7 @@ PSM I (Professional Scrum Master level I) là chứng chỉ đầu tiên trong 0
 * Một số lesson learned khác có đề cập đến đọc thêm sách về Scrum, tuy mình không đọc nhưng cũng list ra đây để tham khảo:
   * Scrum Narrative and PSM Exam Guide
   * Scrum – A pocket Guide
-* Mình có đăng ký 1 khóa học về Scrum + PSM trên Udemy, khóa rất hay nhưng lại rất rẻ (2400￥). Trong khóa học này thì giáo viên có minh họa lại Scrum Guide bằng các tình huống trong một dự án, nhiều hình vẽ. Sau khi học xong trên này, đọc lại Scrum Guide mình thấy thấm thật nhiều.
+* Mình có đăng ký 1 khóa học về [Scrum + PSM trên Udemy](https://www.udemy.com/course/scrum-master-certification-preparation-mock-exam-questions-psm-i/), khóa rất hay nhưng lại rất rẻ (2400￥). Trong khóa học này thì giáo viên có minh họa lại Scrum Guide bằng các tình huống trong một dự án, nhiều hình vẽ. Sau khi học xong trên này, đọc lại Scrum Guide mình thấy thấm thật nhiều.
 
 ### Thi PSM I
 
@@ -68,5 +68,5 @@ Về thời gian để chuẩn bị thì sẽ phụ thuộc vào từng người
 
 Chinh phục được một chứng chỉ là một kết quả đáng tự hào, hãy chia sẻ niềm vui này cho mọi người nhé!
 
-{: .box-note}   
+{: .box-note}  
 Trong quá trình chuẩn bị, nếu có gặp khó khăn gì thì hãy cứ liên lạc cho mình. Mình sẽ cố gắng giải đáp các thắc mắc của các bạn.
