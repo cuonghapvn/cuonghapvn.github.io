@@ -35,7 +35,7 @@ May mắn là vì covid nên vào cuối tháng 3/2020 PMI quyết định hoãn
 
 ### Ôn luyện lý thuyết và giải đề
 
-* **Rita PMP Exam Prep 9th:** Mình dùng quyển này làm source học chính.
+* [**Rita PMP Exam Prep 9th:**](https://amzn.to/3dyT0nI) Mình dùng quyển này làm source học chính.
   * Mình đọc kỹ từng chương sau đó note lại những ý quan trọng. Mình bỏ qua hầu hết các bài exercise vì dài :)) chỉ đọc đáp án rồi fill gaps.
   * Làm các câu practical exam cuối mỗi chương và note lại kết quả vào file excel.
   * Mình đọc lại 1 lượt nội dung mình đã note (không đọc lại sách) sau đó làm practical exam thêm một lượt nữa để fill gaps.
