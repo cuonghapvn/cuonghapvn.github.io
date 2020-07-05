@@ -35,19 +35,20 @@ May mắn là vì covid nên vào cuối tháng 3/2020 PMI quyết định hoãn
 
 ### Ôn luyện lý thuyết và giải đề
 
-* **[Rita PMP Exam Prep 9th](https://amzn.to/2D1Pkht):** Mình dùng quyển này làm source học chính.
+* [**Rita PMP Exam Prep 9th**](https://amzn.to/2D1Pkht)**:** Mình dùng quyển này làm source học chính.
   * Mình đọc kỹ từng chương sau đó note lại những ý quan trọng. Mình bỏ qua hầu hết các bài exercise vì dài :)) chỉ đọc đáp án rồi fill gaps.
   * Làm các câu practical exam cuối mỗi chương và note lại kết quả vào file excel.
   * Mình đọc lại 1 lượt nội dung mình đã note (không đọc lại sách) sau đó làm practical exam thêm một lượt nữa để fill gaps.
-* **[PMBOK 6th](https://amzn.to/31L45zN)**:
+* [**PMBOK 6th**](https://amzn.to/31L45zN):
   * Mọi người khuyên đọc qua quyển này ít nhất 1 lần, tuy nhiên mình không đọc.
   * Mình chỉ sử dụng như là một quyển sách tham khảo khi học theo Rita cũng như giải đề.
-* **[Course PMP Exam Prep Seminar - PMBOK Guide 6](https://www.udemy.com/share/101WpECEQaeVpS/)** của Joseph Phillips:
+  * Có 1 version tóm tắt do 1 bạn người nước ngoài tạo. Dùng để review khá là OK. Bạn nào có nhu cầu thì liên lạc mình.
+* [**Course PMP Exam Prep Seminar - PMBOK Guide 6**](https://www.udemy.com/share/101WpECEQaeVpS/) của Joseph Phillips:
   * Course này có cung cấp 35 contact hours, có thể sử dụng để đăng ký thi.
   * Mình chỉ xem video một số chap mà mình quan tâm hoặc ở sách Rita không nói rõ.
 * [Clip giải thích flow của các process trong PMBOK của anh Ricardo Vargas](https://youtu.be/GC7pN8Mjot8).
-* Blog của anh Edward Chung: Trên blog này mình tìm thấy khá nhiều nội dung giải thích hay, nhất là phần [47 PMP Easily Confused Terms w/w In-depth Explanation](https://edward-designer.com/web/pmp-easily-confused-terms/)
-* Giải đề: mình sử dụng các nguồn bên dưới để giải đề
+* **Blog của anh Edward Chung:** Trên blog này mình tìm thấy khá nhiều nội dung giải thích hay, nhất là phần [47 PMP Easily Confused Terms w/w In-depth Explanation](https://edward-designer.com/web/pmp-easily-confused-terms/)
+* **Giải đề:** mình sử dụng các nguồn bên dưới để giải đề
   * [App PMP Exam Prep trên iOS]():
     * Giá: Free (có quảng cáo)
     * Đánh giá: app đẹp, dễ dùng
@@ -72,17 +73,17 @@ Do ảnh hưởng của Covid nên trung tâm thi Pearson Osaka cancel và open 
 
 ### Ngày thi
 
-* Check in
+* **Check in**
   * Mình đến trung tâm sớm hơn giờ hẹn là 40p cho chắc chắn.
   * Thủ tục khá nhanh, vì đang có covid nên có thêm yêu cầu phải đeo khẩu trang và rửa tay bằng cồn trước khi vào trung tâm.
   * Mình phải tắt nguồn điện thoại, smartwatch và đưa cho nhân viên xem để chứng minh là đã tắt @@. Sau đó toàn bộ vật dụng tư trang phải để vào locker.
   * Trước khi vào phòng thi phải cho nhân viên xem túi quần trống rỗng, vỗ vỗ vào chân và tay để chứng minh không nhét gì khác trong người :)). Kính cũng phải được kiểm tra xem có gắn thiết bị thu phát gì không.
-* Làm bài
+* **Làm bài**
   * Đề thi chia làm 2 phần 89-111 câu hỏi. Sau khi làm xong phần đầu thì được break 10p.
   * 96,69% là các câu hỏi tình huống, khoảng 10 câu về Agile, 1 câu EVM và 1 câu critical path.
   * Mình submit bài khi vẫn còn 40p thời gian thừa, nhưng không review lại vì sau 3h liên tục làm bài thì đầu óc không được tỉnh tảo và cơ thể thì khá là mệt.
   * Vài dòng chữ nhỏ hiện lên màn hình, mình chỉ thấy chữ Congratulations là giơ tay để giám thị vào check rồi mau chóng ra khỏi phòng thi.
-* Check out
+* **Check out**
   * Kết quả được in ngay lập tức sau khi hoàn thành bài thi và giám thị sẽ đưa cho mình ngay sau khi mình rời phòng thi.
   * Xem kết quả 5ATs, mình nhẹ nhõm lấy đồ đạc và đi về ... ( sau đó là nhắn tin khoe khắp nơi =))) )
 
@@ -92,7 +93,7 @@ Do ảnh hưởng của Covid nên trung tâm thi Pearson Osaka cancel và open 
 
 Trên kia chủ yếu là quá trình của mình, tổng hợp lại được một số kinh nghiệm mình sẽ viết ra ở đây.
 
-* Nên có plan học tập rõ ràng (đơn giản là được, k cần phức tạp) để tracking.
+* Nên có plan học tập rõ ràng (đơn giản là được, k cần phức tạp) để tracking. 
 * Nên đăng ký hồ sơ dự thi sớm, tốt nhất là khi bắt đầu học thì làm hồ sơ luôn:
   * không ảnh hưởng đến kế hoạch thi nếu bị audit
   * đặt deadline rõ ràng, tránh tình trạng câu giờ, day dưa
@@ -112,5 +113,5 @@ Trên kia chủ yếu là quá trình của mình, tổng hợp lại được m
 
 PMI sẽ liên tục cập nhật nội dung của các chứng chỉ, mình cũng sẽ cố gắng update liên tục các thông tin mới khi có thể.
 
-{: .box-note}
-Trong quá trình chuẩn bị, nếu có gặp khó khăn gì, hãy cứ liên lạc cho mình nhé!
+{: .box-note}   
+Trong quá trình chuẩn bị, nếu có gặp khó khăn gì, hãy cứ liên lạc cho mình nhé! Nếu bạn nào có nhu cầu về tài liệu thì có thể liên lạc cho mình! Do vấn đề bản quyền nên mình sẽ không post link lên trực tiếp ở blog.
