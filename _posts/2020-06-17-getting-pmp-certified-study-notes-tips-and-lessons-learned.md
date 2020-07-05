@@ -8,7 +8,7 @@ tags:
 - Lessons Learned
 - PMP
 comments: 'true'
-published: 'true'
+published: ''
 
 ---
 ### Intro
@@ -35,31 +35,31 @@ May mắn là vì covid nên vào cuối tháng 3/2020 PMI quyết định hoãn
 
 ### Ôn luyện lý thuyết và giải đề
 
-* [**Rita PMP Exam Prep 9th:**](https://amzn.to/3dyT0nI) Mình dùng quyển này làm source học chính.
+* **[Rita PMP Exam Prep 9th](https://amzn.to/2D1Pkht):** Mình dùng quyển này làm source học chính.
   * Mình đọc kỹ từng chương sau đó note lại những ý quan trọng. Mình bỏ qua hầu hết các bài exercise vì dài :)) chỉ đọc đáp án rồi fill gaps.
   * Làm các câu practical exam cuối mỗi chương và note lại kết quả vào file excel.
   * Mình đọc lại 1 lượt nội dung mình đã note (không đọc lại sách) sau đó làm practical exam thêm một lượt nữa để fill gaps.
-* **PMBOK 6th**:
+* **[PMBOK 6th](https://amzn.to/31L45zN)**:
   * Mọi người khuyên đọc qua quyển này ít nhất 1 lần, tuy nhiên mình không đọc.
   * Mình chỉ sử dụng như là một quyển sách tham khảo khi học theo Rita cũng như giải đề.
-* **Course PMP Exam Prep Seminar - PMBOK Guide 6** của Joseph Phillips:
+* **[Course PMP Exam Prep Seminar - PMBOK Guide 6](https://www.udemy.com/share/101WpECEQaeVpS/)** của Joseph Phillips:
   * Course này có cung cấp 35 contact hours, có thể sử dụng để đăng ký thi.
   * Mình chỉ xem video một số chap mà mình quan tâm hoặc ở sách Rita không nói rõ.
-* Clip giải thích flow của các process trong PMBOK của anh Ricardo Vargas.
+* [Clip giải thích flow của các process trong PMBOK của anh Ricardo Vargas](https://youtu.be/GC7pN8Mjot8).
 * Blog của anh Edward Chung: Trên blog này mình tìm thấy khá nhiều nội dung giải thích hay, nhất là phần [47 PMP Easily Confused Terms w/w In-depth Explanation](https://edward-designer.com/web/pmp-easily-confused-terms/)
 * Giải đề: mình sử dụng các nguồn bên dưới để giải đề
-  * App PMP Exam Prep trên iOS:
-    * Free (có quảng cáo)
-    * Đánh giá app đẹp, dễ dùng
+  * [App PMP Exam Prep trên iOS]():
+    * Giá: Free (có quảng cáo)
+    * Đánh giá: app đẹp, dễ dùng
     * Database khoảng 1000+ câu hỏi
-    * Ít câu hỏi tình huống nhưng sử dụng để verify kiến thức đã học khá hiệu quả.
-  * PMP Exam Simulator:
-    * Đắt: 139USD
+    * Ít câu hỏi tình huống nhưng sử dụng để verify kiến thức thì khá hiệu quả.
+  * [PMP Exam Simulator](https://www.project-management-prepcast.com/pmp-exam/the-pmp-exam-simulator):
+    * Giá: 139USD
     * Đánh giá: xứng đáng với số tiền bỏ ra.
     * Cấu trúc ra đề, cách đặt câu hỏi khá giống với đề thi thật (độ khó chắc 8/10 so với đề thi thật)
-  * PMP Practical Exam của PMP:
-    * Free dành cho thành viên PMI.
-    * Khó hơn đề thi thật
+  * [PMP Practical Exam của PMP](https://marketplace.pmi.org/Pages/ProductDetail.aspx?GMProduct=00101620200):
+    * Giá: Free (dành cho thành viên PMI)
+    * Đánh giá: Khó hơn đề thi thật
     * Nên thi thử 1 lần để làm quen cách ra đề của PMI
 
 ### Chuẩn bị cho ngày thi
