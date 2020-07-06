@@ -2,7 +2,6 @@
 layout: post
 title: Kinh nghiệm ôn thi PSPO I
 subtitle: The value is in what gets used, not in what gets built. — Kris Gale
-cover-img: ''
 tags:
 - Lessons Learned
 - Scrum
