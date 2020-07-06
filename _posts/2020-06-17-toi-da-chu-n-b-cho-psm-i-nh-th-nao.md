@@ -62,6 +62,13 @@ Sau khi hết 60 phút làm bài, hoặc bạn nộp bài sớm, kết quả s�
 
 Nếu bạn fail, không cần nản chí, đọc thật kỹ kết quả thi chi tiết để biết được mình đang thiếu sót phần nào, sau đó ôn luyện thêm để re-take.
 
+### Một số kinh nghiệm
+
+* Nên chuẩn bị một cây bút và giấy để ghi lại những câu hỏi cần kiểm tra lại.
+* Thời gian để làm bài hầu như vừa khớp với số câu hỏi nên hãy đánh càng nhanh càng tốt.
+* Nhiều câu hỏi rất dài. Cả cái đáp án nó cũng dài như câu hỏi, nên cần luyện đọc nhanh.
+* Có nhiều nguồn, đề và tài liệu để tham khảo nhưng cần lưu ý độ chính xác của chúng. Đừng học quá nhiều nguồn khiến có nhiều chỉ dẫn rồi không rõ cái nào đúng nào sai. Hãy trở về những điều đơn giản, bám sát Scrum Guide mà thực hiện.
+
 ### Kết
 
 Về thời gian để chuẩn bị thì sẽ phụ thuộc vào từng người, background, kinh nghiệm, khả năng đọc hiểu và tiếp thu nên quan trọng nhất chính là biết được bản thân mình đang ở đâu để lên kế hoạch học tập cho phù hợp nhé. Trong trường hợp của mình thì kể từ lúc bắt đầu lên kế hoạch, đọc lesson learned cho đến lúc lấy được chứng chỉ thì mất tổng cộng 5 ngày.
