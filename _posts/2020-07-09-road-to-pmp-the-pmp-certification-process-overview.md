@@ -64,6 +64,9 @@ Sau khi xem qua infographic về PMP® Certification Process, giờ đây bạn 
 5. Kết quả thi sẽ được in ngay sau khi bạn nhấn nút submit bài thi, nhân viên của PearsonVUE sẽ đưa cho bạn sau khi bạn ra khỏi phòng thi.
    * Nếu bạn pass, xin chúc mừng vì bạn đã chính thức trở thành PMP®!
    * Nếu bạn fail, hãy bình tĩnh lên plan ôn tập và thi lại. Bạn có 2 cơ hội thi lại trong vòng 1 năm kể từ ngày được approve đơn đăng ký.
+6. Đối với các bạn dự thi online:
+   * Bạn sẽ nhận được kết quả pass hoặc fail ngay khi submit. Kết quả chi tiết sẽ được gửi qua mail trong 2-3 ngày hoặc có thể xem online trên trang của PearsonVUE.
+   * Sau khi có kết quả, chú ý phải làm thủ tục kết thúc thi với giám thị trước khi rời máy tính. Thực tế, có một vài bạn đã bị đánh fail vì lỡ hưng phấn ăn mừng kết quả và rời khỏi máy tính trước khi kết thúc thủ tục với giám thị nhé.
 
 ### IV. Thu thập PMP® PDU để renew chứng chỉ.
 
