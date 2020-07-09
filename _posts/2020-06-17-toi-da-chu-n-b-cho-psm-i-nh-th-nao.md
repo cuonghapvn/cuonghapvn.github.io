@@ -35,7 +35,8 @@ PSM I (Professional Scrum Master level I) là chứng chỉ đầu tiên trong 0
 
 ### Ôn luyện PSM I
 
-* Tài liệu ôn luyện quan trọng nhất chắc chắn là [Scrum Guide](https://scrumguides.org/scrum-guide.html "Scrum Guide"). Nội dung chính của PSM I xoay quanh việc verify kiến thức về Scrum Guide, đôi khi là từng chi tiết nhỏ, nên việc đọc kỹ Scrum Guide là điều thiết yếu nhất.
+* Tài liệu ôn luyện quan trọng nhất chắc chắn là [Scrum Guide](https://scrumguides.org/scrum-guide.html "Scrum Guide"). 
+  * Nội dung chính của PSM I xoay quanh việc verify kiến thức về Scrum Guide, đôi khi là từng chi tiết nhỏ, nên việc đọc kỹ Scrum Guide là điều thiết yếu nhất.
 * Đọc [Suggested Reading](https://www.scrum.org/resources/suggested-reading-professional-scrum-master "Suggested Reading") của Scrum.org.
 * Đọc [Scrum Glossary](https://www.scrum.org/Resources/Scrum-Glossary) để hiểu rõ các thuật ngữ được sử dụng trong Scrum.
 * Thử làm đề sample với [Open Assessments](https://www.scrum.org/open-assessments).
