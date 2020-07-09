@@ -26,3 +26,5 @@ fields:
   label: published
   description: published
   default: 'true'
+pages:
+- _posts/road-to-pmp-the-pmp-certification-process-overview.md
