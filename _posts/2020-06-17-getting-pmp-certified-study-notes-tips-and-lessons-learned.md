@@ -55,7 +55,7 @@ May mắn là vì covid nên vào cuối tháng 3/2020 PMI quyết định hoãn
 * [Clip giải thích flow của các process trong PMBOK của anh Ricardo Vargas](https://youtu.be/GC7pN8Mjot8).
 * **Blog của anh Edward Chung:** Trên blog này mình tìm thấy khá nhiều nội dung giải thích hay, nhất là phần [47 PMP Easily Confused Terms w/w In-depth Explanation](https://edward-designer.com/web/pmp-easily-confused-terms/)
 * **Giải đề:** mình sử dụng các nguồn bên dưới để giải đề
-  * [App PMP Exam Prep trên iOS]():
+  * [App PMP Exam Prep trên iOS](https://apps.apple.com/jp/app/pmp-exam-prep-6th-edition/id1502054904):
     * Giá: Free (có quảng cáo)
     * Đánh giá: app đẹp, dễ dùng
     * Database khoảng 1000+ câu hỏi
