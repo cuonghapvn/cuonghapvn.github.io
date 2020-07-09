@@ -25,7 +25,7 @@ Handbook chính thức từ PMI thì các bạn có thể truy cập vào link b
 
 Sau khi xem qua infographic về PMP® Certification Process, giờ đây bạn sẽ có một bức tranh rõ ràng hơn về những gì liên quan đến PMP®. Mình đi vào chi tiết từng mục như sau:
 
-### I. Thỏa mãn điều kiện đầu vào của PMP®:
+### I. Điều kiện đầu vào của PMP®:
 
 1. Phải có đủ kinh nghiệm quản lý dự án theo quy định của PMI
    * Người không có bằng đại học: cần có tối thiểu 5 năm kinh nghiệm làm dự án và 7.500 giờ kinh nghiệm quản lý dự án
