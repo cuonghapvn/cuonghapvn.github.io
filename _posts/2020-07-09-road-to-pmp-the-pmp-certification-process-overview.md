@@ -35,7 +35,7 @@ Sau khi xem qua infographic về PMP® Certification Process, giờ đây bạn 
      * **Tham gia khóa đào tạo offline:** khóa học của công ty cung cấp hoặc tự đăng ký và học. Mình thì sử dụng bằng chứng nhận của [STEVBROS TRAINING AND CONSULTANCY](https://ccrs.pmi.org/search/provider/1000004199) thông qua khóa PMF của công ty.
      * **Tham gia khóa học online:** Có khá nhiều trang web cung cấp khóa ôn thi PMP đạt đủ tiêu chuẩn về 35 contact hours của PMI. Giá thì cũng khá là hên xui, trên udemy thường xuyên sale các khóa như thế này với giá 10-15USD. Hoặc các bạn có thể tham khảo các khóa học nhiều nghìn đô la mỹ khác có kèm theo simulator để luyện thi.
 
-#### Kinh nghiệm quản lý dự án được công nhận bởi PMI là gì?
+##### Kinh nghiệm quản lý dự án được công nhận bởi PMI là gì?
 
 * Không yêu cầu phải có chức danh Project Manager, bạn chỉ cần có kinh nghiệm quản lý dự án với role team lead trở lên là được.
 * Nên nhớ đây là kinh nghiệm quản lý dự án chứ không phải kinh nghiệm làm dự án nhé.
@@ -44,14 +44,13 @@ Sau khi xem qua infographic về PMP® Certification Process, giờ đây bạn 
 ### II. Đăng ký dự thi PMP®online:
 
 1. PMI cung cấp hệ thống đăng ký thi online ở địa chỉ [**http://certification.pmi.org**](http://certification.pmi.org "http://certification.pmi.org").
-2. Bạn cần đăng ký account ở PMI.org, sau đó bạn có thể bắt đầu quá trình hoàn thiện hồ sơ đăng ký dự thi PMP®. Một khi bắt đầu đăng ký dự thi, hồ sơ của bạn sẽ có giá trị trong vòng 90 ngày. Nghĩa là bạn có 90 ngày để hoàn thiện toàn bộ thông tin đăng ký dự thi và nộp lên cho PMI approve nhé. Quá 90 ngày thì hồ sơ sẽ bị xóa và bạn sẽ phải bắt đầu lại từ đầu. 
-3. _\[Optional but highly recommended\]_ Become a member of PMI. Though it is not required to become a paying member of PMI to take the PMP® exam, being a member allow you to enjoy discounted PMP® and other certification fees, a free downloadable copy of PMBOK® Guide and many online PMP® exam reference books. The PMI annual membership fee is US$129 plus US$10 of first-time registration fee. The **money you will save by becoming a member will be much more than the cost of the membership fee for the first year.**
-4. Sau khi hoàn thiện toàn bộ thông tin đăng ký dự thi, bạn submit đơn đăng ký và đợi PMI approve đơn đăng ký. Thời gian xử lý theo lý thuyết là 5 ngày làm việc, tuy nhiên do dịch COVID đang hoành hành, có khả năng phải đợi từ 10 đến 15 ngày làm việc.
-5. Sau khi đơn đăng ký của bạn được approve, bạn sẽ được phép nộp tiền lệ phí thi:
+2. Bạn cần đăng ký account ở PMI.org, sau đó bạn có thể bắt đầu quá trình hoàn thiện hồ sơ đăng ký dự thi PMP®. Một khi bắt đầu đăng ký dự thi, hồ sơ của bạn sẽ có giá trị trong vòng 90 ngày. Nghĩa là bạn có 90 ngày để hoàn thiện toàn bộ thông tin đăng ký dự thi và nộp lên cho PMI approve nhé. Quá 90 ngày thì hồ sơ sẽ bị xóa và bạn sẽ phải bắt đầu lại từ đầu.
+3. Sau khi hoàn thiện toàn bộ thông tin đăng ký dự thi, bạn submit đơn đăng ký và đợi PMI approve đơn đăng ký. Thời gian xử lý theo lý thuyết là 5 ngày làm việc, tuy nhiên do dịch COVID đang hoành hành, có khả năng phải đợi từ 10 đến 15 ngày làm việc.
+4. Sau khi đơn đăng ký của bạn được approve, bạn sẽ được phép nộp tiền lệ phí thi:
    * Member của PMI: 544 USD (405 USD phí thi và 139 USD phí thành viên năm đầu tiên)
      * Mình recommend mọi người chọn cách nộp lệ phí thi kiểu này nhé, không chỉ tiết kiệm được ngay 11 USD, trở thành thành viên của PMI sẽ sở hữu một quyển PMBOK free giá 0 USD và hàng loạt ưu đãi khác.
    * Không phải member PMI: 555 USD
-6. Nếu bạn may mắn lọt vào danh sách audit của PMI, bạn sẽ phải nộp toàn bộ tài liệu chứng nhận về cho PMI thẩm tra. Những tài liệu bao gồm: bằng đại học, chứng nhận có đủ 35 contact hours, kinh nghiệm làm việc... Có 2 thời điểm bạn sẽ ngẫu nhiên bị audit đó là: sau khi nhấn nút submit đơn đăng ký và sau khi nộp tiền lệ phí thi. Dù ở tình huống nào, hãy nhanh chóng hoàn tất toàn bộ giấy tờ và gửi về cho PMI nhé.
+5. Nếu bạn may mắn lọt vào danh sách audit của PMI, bạn sẽ phải nộp toàn bộ tài liệu chứng nhận về cho PMI thẩm tra. Những tài liệu bao gồm: bằng đại học, chứng nhận có đủ 35 contact hours, kinh nghiệm làm việc... Có 2 thời điểm bạn sẽ ngẫu nhiên bị audit đó là: sau khi nhấn nút submit đơn đăng ký và sau khi nộp tiền lệ phí thi. Dù ở tình huống nào, hãy nhanh chóng hoàn tất toàn bộ giấy tờ và gửi về cho PMI nhé.
 
 ### III. Đặt lịch thi, đi thi và pass PMP®:
 
@@ -61,8 +60,8 @@ Sau khi xem qua infographic về PMP® Certification Process, giờ đây bạn 
 2. Ôn tập và giải đề bằng các nguồn tài liệu thích hợp với bạn.
 3. Nếu gần đến ngày thi mà bạn vẫn chưa sẵn sàng, bạn có thể đổi lịch thi với PMI.
 4. Vào ngày dự thi, hãy cố gắng đến phòng thi sớm, chuẩn bị tâm lý thoải mái và làm bài thi,
-5. Kết quả thi sẽ được in ngay sau khi bạn nhấn nút submit bài thi, nhân viên của PearsonVUE sẽ đưa cho bạn sau khi bạn ra khỏi phòng thi. 
-   * Nếu bạn pass, xin chúc mừng vì bạn đã chính thức trở thành PMP®! 
+5. Kết quả thi sẽ được in ngay sau khi bạn nhấn nút submit bài thi, nhân viên của PearsonVUE sẽ đưa cho bạn sau khi bạn ra khỏi phòng thi.
+   * Nếu bạn pass, xin chúc mừng vì bạn đã chính thức trở thành PMP®!
    * Nếu bạn fail, hãy bình tĩnh lên plan ôn tập và thi lại. Bạn có 2 cơ hội thi lại trong vòng 1 năm kể từ ngày được approve đơn đăng ký.
 
 ### IV. Thu thập PMP® PDU để renew chứng chỉ.
