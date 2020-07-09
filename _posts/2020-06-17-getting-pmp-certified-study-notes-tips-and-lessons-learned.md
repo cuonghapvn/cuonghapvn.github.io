@@ -35,6 +35,12 @@ May mắn là vì covid nên vào cuối tháng 3/2020 PMI quyết định hoãn
 
 ### Ôn luyện lý thuyết và giải đề
 
+* [**HeadFirst PMP 4th**](https://amzn.to/2VZJLGV): Mình có lướt sơ qua quyển này, nhưng không sử dụng nhiều
+  * Quyển này phù hợp với bạn nào chưa có nhiều kiến thức PM theo chuẩn của PMI.
+  * Start từ quyển này sẽ dễ có cái nhìn tổng quát về các Knowledge Area.
+  * Ngoài ra quyển này cũng có nhiều hình vẽ, khá phù hợp với các visual learner ^^
+
+
 * [**Rita PMP Exam Prep 9th**](https://amzn.to/2D1Pkht)**:** Mình dùng quyển này làm source học chính.
   * Mình đọc kỹ từng chương sau đó note lại những ý quan trọng. Mình bỏ qua hầu hết các bài exercise vì dài :)) chỉ đọc đáp án rồi fill gaps.
   * Làm các câu practical exam cuối mỗi chương và note lại kết quả vào file excel.
@@ -93,7 +99,7 @@ Do ảnh hưởng của Covid nên trung tâm thi Pearson Osaka cancel và open 
 
 Trên kia chủ yếu là quá trình của mình, tổng hợp lại được một số kinh nghiệm mình sẽ viết ra ở đây.
 
-* Nên có plan học tập rõ ràng (đơn giản là được, k cần phức tạp) để tracking. 
+* Nên có plan học tập rõ ràng (đơn giản là được, k cần phức tạp) để tracking.
 * Nên đăng ký hồ sơ dự thi sớm, tốt nhất là khi bắt đầu học thì làm hồ sơ luôn:
   * không ảnh hưởng đến kế hoạch thi nếu bị audit
   * đặt deadline rõ ràng, tránh tình trạng câu giờ, day dưa
@@ -113,5 +119,5 @@ Trên kia chủ yếu là quá trình của mình, tổng hợp lại được m
 
 PMI sẽ liên tục cập nhật nội dung của các chứng chỉ, mình cũng sẽ cố gắng update liên tục các thông tin mới khi có thể.
 
-{: .box-note}   
+{: .box-note}  
 Trong quá trình chuẩn bị, nếu có gặp khó khăn gì, hãy cứ liên lạc cho mình nhé! Nếu bạn nào có nhu cầu về tài liệu thì có thể liên lạc cho mình! Do vấn đề bản quyền nên mình sẽ không post link lên trực tiếp ở blog.
