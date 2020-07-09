@@ -41,7 +41,7 @@ Sau khi xem qua infographic về PMP® Certification Process, giờ đây bạn 
 * Nên nhớ đây là kinh nghiệm quản lý dự án chứ không phải kinh nghiệm làm dự án nhé.
 * Phải có kinh nghiệm ở đủ 5 nhóm quy trình quản lý dự án đó là: _initiating, planning, executing, monitoring & controlling and closing_. PMI không yêu cầu phải thỏa mãn đủ 5 nhóm quy trình ở 1 project, nghĩa là bạn có thể có kinh nghiệm planning + executing ở dự án A, và initiating, m&c và closing ở dự án B là đã đủ yêu cầu nhé.
 
-### II. Đăng ký dự thi PMP®online:
+### II. Đăng ký dự thi PMP®:
 
 1. PMI cung cấp hệ thống đăng ký thi online ở địa chỉ [**http://certification.pmi.org**](http://certification.pmi.org "http://certification.pmi.org").
 2. Bạn cần đăng ký account ở PMI.org, sau đó bạn có thể bắt đầu quá trình hoàn thiện hồ sơ đăng ký dự thi PMP®. Một khi bắt đầu đăng ký dự thi, hồ sơ của bạn sẽ có giá trị trong vòng 90 ngày. Nghĩa là bạn có 90 ngày để hoàn thiện toàn bộ thông tin đăng ký dự thi và nộp lên cho PMI approve nhé. Quá 90 ngày thì hồ sơ sẽ bị xóa và bạn sẽ phải bắt đầu lại từ đầu.
@@ -57,6 +57,7 @@ Sau khi xem qua infographic về PMP® Certification Process, giờ đây bạn 
 1. Mặc dù bạn sẽ có khoảng thời gian 1 năm để thi và pass PMP, tuy nhiên mình khuyên các bạn nên đặt lịch thi sớm nhất có thể. Lý do:
    * Không phải lúc nào cũng có sẵn slot thi vào ngày bạn mong muốn, nhất là từ thời điểm này đến hết 2020, sẽ có rất nhiều người tranh thủ thi PMP trước khi đổi sang đề mới. Nếu bạn không đăng ký dự thi sớm, bạn sẽ phải di chuyển đến thành phố xa hơn để thi hoặc phải dự thi bằng đề thi mới.
    * Chốt sớm ngày dự thi sẽ giúp bạn có mục tiêu rõ ràng và bắt buộc phải bám sát vào plan học hơn.
+   * Đối với các bạn không ở Nhật, Hàn hoặc Trung Quốc, các bạn có thể đăng ký dự thi online. Không sợ hết slot nhưng mình vẫn khuyên là đăng ký sớm nhé.
 2. Ôn tập và giải đề bằng các nguồn tài liệu thích hợp với bạn.
 3. Nếu gần đến ngày thi mà bạn vẫn chưa sẵn sàng, bạn có thể đổi lịch thi với PMI.
 4. Vào ngày dự thi, hãy cố gắng đến phòng thi sớm, chuẩn bị tâm lý thoải mái và làm bài thi,
