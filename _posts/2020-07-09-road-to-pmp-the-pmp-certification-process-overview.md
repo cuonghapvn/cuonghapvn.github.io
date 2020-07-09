@@ -2,7 +2,7 @@
 layout: post
 comments: 'true'
 published: 'true'
-title: Road to PMP - Toàn bộ quá trình để trở thành PMP
+title: Road to PMP - Quá trình để trở thành PMP
 subtitle: Chapter đầu tiên trong chuỗi bài viết chia sẻ Road to PMP
 tags:
 - Lesson Learned
@@ -30,12 +30,13 @@ Sau khi xem qua infographic về PMP® Certification Process, giờ đây bạn 
 1. Phải có đủ kinh nghiệm quản lý dự án theo quy định của PMI
    * Người không có bằng đại học: cần có tối thiểu 5 năm kinh nghiệm làm dự án và 7.500 giờ kinh nghiệm quản lý dự án
    * Người có bằng đại học trở lên: cần có tối thiểu 3 năm kinh nghiệm làm dự án và 4.500 giờ kinh nghiệm quản lý dự án
-2. Phải trải qua 35 giờ đào tạo quản lý dự án. 
+2. Phải trải qua 35 giờ đào tạo quản lý dự án.
    * PMI yêu cầu bạn phải có đủ 35 giờ đào tạo theo chuẩn của PMI. Và trung tâm đào tạo phải là trung tâm có chứng nhận REP của PMI nhé.
      * **Tham gia khóa đào tạo offline:** khóa học của công ty cung cấp hoặc tự đăng ký và học. Mình thì sử dụng bằng chứng nhận của [STEVBROS TRAINING AND CONSULTANCY](https://ccrs.pmi.org/search/provider/1000004199) thông qua khóa PMF của công ty.
      * **Tham gia khóa học online:** Có khá nhiều trang web cung cấp khóa ôn thi PMP đạt đủ tiêu chuẩn về 35 contact hours của PMI. Giá thì cũng khá là hên xui, trên udemy thường xuyên sale các khóa như thế này với giá 10-15USD. Hoặc các bạn có thể tham khảo các khóa học nhiều nghìn đô la mỹ khác có kèm theo simulator để luyện thi.
 
-##### Kinh nghiệm quản lý dự án được công nhận bởi PMI là gì?
+{: .box-note}
+**Kinh nghiệm quản lý dự án được công nhận bởi PMI là gì?**
 
 * Không yêu cầu phải có chức danh Project Manager, bạn chỉ cần có kinh nghiệm quản lý dự án với role team lead trở lên là được.
 * Nên nhớ đây là kinh nghiệm quản lý dự án chứ không phải kinh nghiệm làm dự án nhé.
