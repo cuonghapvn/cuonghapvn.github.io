@@ -44,9 +44,11 @@ PSM I (Professional Scrum Master level I) là chứng chỉ đầu tiên trong 0
   * Sau đó làm thêm đề của Product Owner Open và Developer Open do trong bài thi PSM I cũng xuất hiện nội dung này.
 * Làm bài mock test nhiều lần trên [http://mlapshin.com/index.php/scrum-quizzes/sm-real-mode/](http://mlapshin.com/index.php/scrum-quizzes/sm-real-mode/ "http://mlapshin.com/index.php/scrum-quizzes/sm-real-mode/"). Theo mình thì nội dung ở đây khá sát với thực tế
 * Một số lesson learned khác có đề cập đến đọc thêm sách về Scrum, tuy mình không đọc nhưng cũng list ra đây để tham khảo:
-  * Scrum Narrative and PSM Exam Guide
-  * Scrum – A pocket Guide
-* Mình có đăng ký 1 khóa học về [Scrum + PSM trên Udemy](https://www.udemy.com/course/scrum-master-certification-preparation-mock-exam-questions-psm-i/), khóa rất hay nhưng lại rất rẻ (2400￥). Trong khóa học này thì giáo viên có minh họa lại Scrum Guide bằng các tình huống trong một dự án, nhiều hình vẽ. Sau khi học xong trên này, đọc lại Scrum Guide mình thấy thấm thật nhiều.
+  * [Scrum Narrative and PSM Exam Guide](https://amzn.to/3e8Epj7)
+  * [Scrum – A pocket Guide](https://amzn.to/2DpAotR)
+* Mình có đăng ký 1 khóa học về [Scrum + PSM trên Udemy](https://www.udemy.com/course/scrum-master-certification-preparation-mock-exam-questions-psm-i/), khóa rất hay nhưng lại rất rẻ (2400￥). 
+  * Trong khóa học này thì giáo viên có minh họa lại Scrum Guide bằng các tình huống trong một dự án, nhiều hình vẽ. 
+  * Sau khi học xong trên này, đọc lại Scrum Guide mình thấy hiểu rõ hơn.
 
 ### Thi PSM I
 
