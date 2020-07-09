@@ -5,7 +5,7 @@ published: 'true'
 title: Road to PMP - Quá trình để trở thành PMP
 subtitle: Chapter đầu tiên trong chuỗi bài viết chia sẻ Road to PMP
 tags:
-- Lesson Learned
+- Lessons Learned
 - PMP
 
 ---
