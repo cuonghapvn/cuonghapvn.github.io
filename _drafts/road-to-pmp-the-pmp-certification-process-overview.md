@@ -2,8 +2,8 @@
 layout: post
 comments: 'true'
 published: 'true'
-title: Road to PMP - Chapter 1 - The PMP Certification Process Overview
-subtitle: ''
+title: Road to PMP - Toàn bộ quá trình để trở thành PMP
+subtitle: Chapter đầu tiên trong chuỗi bài viết chia sẻ Road to PMP
 tags:
 - Lesson Learned
 - PMP
