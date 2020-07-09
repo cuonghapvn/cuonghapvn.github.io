@@ -43,7 +43,7 @@ Sau khi xem qua infographic về PMP® Certification Process, giờ đây bạn 
 
 ### II. Đăng ký dự thi PMP®:
 
-1. PMI cung cấp hệ thống đăng ký thi online ở địa chỉ [**http://certification.pmi.org**](http://certification.pmi.org "http://certification.pmi.org").
+1. PMI cung cấp hệ thống đơn đăng ký thi ở địa chỉ [**http://certification.pmi.org**](http://certification.pmi.org "http://certification.pmi.org").
 2. Bạn cần đăng ký account ở PMI.org, sau đó bạn có thể bắt đầu quá trình hoàn thiện hồ sơ đăng ký dự thi PMP®. Một khi bắt đầu đăng ký dự thi, hồ sơ của bạn sẽ có giá trị trong vòng 90 ngày. Nghĩa là bạn có 90 ngày để hoàn thiện toàn bộ thông tin đăng ký dự thi và nộp lên cho PMI approve nhé. Quá 90 ngày thì hồ sơ sẽ bị xóa và bạn sẽ phải bắt đầu lại từ đầu.
 3. Sau khi hoàn thiện toàn bộ thông tin đăng ký dự thi, bạn submit đơn đăng ký và đợi PMI approve đơn đăng ký. Thời gian xử lý theo lý thuyết là 5 ngày làm việc, tuy nhiên do dịch COVID đang hoành hành, có khả năng phải đợi từ 10 đến 15 ngày làm việc.
 4. Sau khi đơn đăng ký của bạn được approve, bạn sẽ được phép nộp tiền lệ phí thi:
