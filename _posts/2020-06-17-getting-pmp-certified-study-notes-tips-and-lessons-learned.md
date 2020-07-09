@@ -29,7 +29,7 @@ Tiêu chuẩn, cách điền application form thì có khá nhiều trên mạng
 
 Mình điền application form, submit và 5 ngày sau thì có kết quả đã được duyệt. May mắn là không bị audit. Mình nhanh chóng đóng tiền để đặt lịch thi tuy nhiên ở Osaka thì không còn slot trống trước tháng 7/2020. Ở thời điểm tháng 2/2020 mà bị full slot thi thì có thể hiểu được chứng chỉ PMP hot cỡ nào.
 
-May mắn là vì covid nên vào cuối tháng 3/2020 PMI quyết định hoãn lịch triển khai đề thi PMP mới đến hết năm 2020. Mình quyết định tập trung học và đặt lịch thi vào tháng 7/2020.
+May mắn là vì covid nên vào cuối tháng 3/2020 PMI quyết định hoãn lịch triển khai đề thi PMP mới đến hết năm 2020. Mình quyết định tập trung học và đặt lịch thi vào tháng 7/2020. Mình cũng khuyến khích mọi người học và thi trong năm 2020 này vì tài liệu luyện thi theo format cũ khá nhiều và đầy đủ.
 
 À, nói thêm về vụ đặt lịch thi thì từ tháng 4/2020, PMI cũng đã cho phép thi PMP online tại nhà. Tuy nhiên, không biết vì sao mà ở Nhật Bản chỉ có thể thi tại trung tâm. Mình có tìm hiểu qua thì thấy khá nhiều chứng chỉ quốc tế khác đề yêu cầu thi offline nếu đang ở Nhật.
 
@@ -60,6 +60,7 @@ May mắn là vì covid nên vào cuối tháng 3/2020 PMI quyết định hoãn
     * Đánh giá: app đẹp, dễ dùng
     * Database khoảng 1000+ câu hỏi
     * Ít câu hỏi tình huống nhưng sử dụng để verify kiến thức thì khá hiệu quả.
+    * Mình sử dụng app này trong quá trình học theo sách Rita.
   * [PMP Exam Simulator](https://www.project-management-prepcast.com/pmp-exam/the-pmp-exam-simulator):
     * Giá: 139USD
     * Đánh giá: xứng đáng với số tiền bỏ ra.
@@ -85,7 +86,8 @@ Do ảnh hưởng của Covid nên trung tâm thi Pearson Osaka cancel và open 
   * Mình phải tắt nguồn điện thoại, smartwatch và đưa cho nhân viên xem để chứng minh là đã tắt @@. Sau đó toàn bộ vật dụng tư trang phải để vào locker.
   * Trước khi vào phòng thi phải cho nhân viên xem túi quần trống rỗng, vỗ vỗ vào chân và tay để chứng minh không nhét gì khác trong người :)). Kính cũng phải được kiểm tra xem có gắn thiết bị thu phát gì không.
 * **Làm bài**
-  * Đề thi chia làm 2 phần 89-111 câu hỏi. Sau khi làm xong phần đầu thì được break 10p.
+  * Đề thi chia làm 2 phần 89-111 câu hỏi. Sau khi làm xong phần đầu thì được break 10p (không tính vào thời gian làm bài). 
+  * Bạn muốn giải lao nhiêu hơn vẫn OK, tuy nhiên sẽ bị tính vào giờ làm bài nhé.
   * 96,69% là các câu hỏi tình huống, khoảng 10 câu về Agile, 1 câu EVM và 1 câu critical path.
   * Mình submit bài khi vẫn còn 40p thời gian thừa, nhưng không review lại vì sau 3h liên tục làm bài thì đầu óc không được tỉnh tảo và cơ thể thì khá là mệt.
   * Vài dòng chữ nhỏ hiện lên màn hình, mình chỉ thấy chữ Congratulations là giơ tay để giám thị vào check rồi mau chóng ra khỏi phòng thi.
