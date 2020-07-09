@@ -17,3 +17,10 @@ fields:
 - type: text
   name: comments
   label: comments
+- name: published
+  type: text
+  config:
+    required: false
+  label: published
+  description: published
+  default: 'true'
