@@ -6,7 +6,8 @@ tags:
 - Lessons Learned
 - Scrum
 comments: 'true'
-published: ''
+cover-img: ''
+published: 'true'
 
 ---
 ### Product Owner là gì? Ăn được không?
