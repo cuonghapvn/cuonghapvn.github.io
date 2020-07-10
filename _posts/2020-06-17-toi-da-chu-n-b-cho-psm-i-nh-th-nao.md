@@ -8,6 +8,13 @@ tags:
 comments: 'true'
 
 ---
+### Scrum là gì? Scrum Master là ai?
+
+* **Scrum** là một khung làm việc (framework) để phát triển bền vững các sản phẩm phức tạp. Có thể hiểu đây là khung tổ chức công việc tổng quát hướng đến mục đích phát triển các sản phẩm phức tạp, chủ yếu là các sản phẩm phần mềm.
+
+
+* **Scrum Master:** Là người có hiểu biết sâu sắc về Scrum, đảm bảo và tạo điều kiện để team có thể làm việc hiệu quả với Scrum. Ngoài ra, Scrum Master giúp những người ngoài Scrum Team hiểu rõ hơn về đặc thù, tính chất của Scrum, bảo vệ Scrum Team khỏi những tác động từ bên ngoài, nhất là trong môi trường, tổ chức mà Scrum chưa được triển khai triệt để.
+
 ![](/uploads/20200617-b32b7985-7e65-4b0d-b555-8d6d26da6157.png)
 
 ### Giới thiệu về PSM
@@ -35,7 +42,7 @@ PSM I (Professional Scrum Master level I) là chứng chỉ đầu tiên trong 0
 
 ### Ôn luyện PSM I
 
-* Tài liệu ôn luyện quan trọng nhất chắc chắn là [Scrum Guide](https://scrumguides.org/scrum-guide.html "Scrum Guide"). 
+* Tài liệu ôn luyện quan trọng nhất chắc chắn là [Scrum Guide](https://scrumguides.org/scrum-guide.html "Scrum Guide").
   * Nội dung chính của PSM I xoay quanh việc verify kiến thức về Scrum Guide, đôi khi là từng chi tiết nhỏ, nên việc đọc kỹ Scrum Guide là điều thiết yếu nhất.
 * Đọc [Suggested Reading](https://www.scrum.org/resources/suggested-reading-professional-scrum-master "Suggested Reading") của Scrum.org.
 * Đọc [Scrum Glossary](https://www.scrum.org/Resources/Scrum-Glossary) để hiểu rõ các thuật ngữ được sử dụng trong Scrum.
@@ -47,8 +54,8 @@ PSM I (Professional Scrum Master level I) là chứng chỉ đầu tiên trong 0
 * Một số lesson learned khác có đề cập đến đọc thêm sách về Scrum, tuy mình không đọc nhưng cũng list ra đây để tham khảo:
   * [Scrum Narrative and PSM Exam Guide](https://amzn.to/3e8Epj7)
   * [Scrum – A pocket Guide](https://amzn.to/2DpAotR)
-* Mình có đăng ký 1 khóa học về [Scrum + PSM trên Udemy](https://www.udemy.com/course/scrum-master-certification-preparation-mock-exam-questions-psm-i/), khóa rất hay nhưng lại rất rẻ (2400￥). 
-  * Trong khóa học này thì giáo viên có minh họa lại Scrum Guide bằng các tình huống trong một dự án, nhiều hình vẽ. 
+* Mình có đăng ký 1 khóa học về [Scrum + PSM trên Udemy](https://www.udemy.com/course/scrum-master-certification-preparation-mock-exam-questions-psm-i/), khóa rất hay nhưng lại rất rẻ (2400￥).
+  * Trong khóa học này thì giáo viên có minh họa lại Scrum Guide bằng các tình huống trong một dự án, nhiều hình vẽ.
   * Sau khi học xong trên này, đọc lại Scrum Guide mình thấy hiểu rõ hơn.
 
 ### Thi PSM I
