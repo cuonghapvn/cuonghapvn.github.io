@@ -6,7 +6,6 @@ tags:
 - Lessons Learned
 - Scrum
 comments: 'true'
-cover-img: ''
 published: 'true'
 
 ---
