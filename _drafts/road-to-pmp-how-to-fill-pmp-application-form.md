@@ -1,12 +1,12 @@
 ---
 layout: post
 comments: 'true'
-published: 'true'
 title: Road to PMP - Hướng dẫn cách điền đơn đăng ký dự thi
 subtitle: ''
 tags:
 - PMP
 - Lessons Learned
+published: ''
 
 ---
 Cũng giống như các bạn, lúc mình bắt đầu làm hồ sơ thi thì mình cũng đã hoang mang rất nhiều vì không biết bắt đầu từ đâu, fill như thế nào cho phù hợp. Rất may mắn, kể từ tháng 7/2020, PMI đã thay đổi lại format của form đăng ký, giúp quá trình đăng ký trở nên dễ dàng và nhanh chóng hơn. Nội dung thay đổi như sau:
@@ -41,6 +41,16 @@ Sau khi truy cập vào [https://www.pmi.org/certifications/types/project-manage
 #### 1. Education
 
 ![](/uploads/20200709-screencapture-certification-pmi-org-education-2020-07-09-10_12_30.png)
+
+Phần này thực sự không có gì đáng chú ý cả:
+
+* Academic Education: mục này các bạn điền thông tin về bằng cấp đại học của bản thân.
+  * Trình độ: cử nhân, thạc sỹ, tiến sỹ ...
+  * Thời gian đào tạo
+  * Quốc gia
+  * Tên trường/cơ sở đào tạo
+  * Ngành học
+* Professional Education: thông tin về 
 
 ![](/uploads/20200709-screencapture-certification-pmi-org-education-2020-07-09-10_39_13.png)
 
