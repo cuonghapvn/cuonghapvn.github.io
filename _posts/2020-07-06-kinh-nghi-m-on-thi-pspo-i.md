@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Kinh nghiệm ôn thi PSPO I (Professional Scrum Product Owner I))
+title: Kinh nghiệm ôn thi PSPO I (Professional Scrum Product Owner I)
 subtitle: The value is in what gets used, not in what gets built. — Kris Gale
 tags:
 - Lessons Learned
 - Scrum
 comments: 'true'
-published: 'true'
+published: ''
 
 ---
-### Product Owner là gì? Ăn được không?
+### Product Owner là ai? Product Owner làm gì?
 
 **– Product Owner** là một role quan trọng trong Scrum, đóng vai trò là người định hướng sản phẩm trong suốt quá trình sản xuất. Nhiệm vụ của Product Owner là **tối ưu hóa giá trị của sản phẩm** thông qua việc tận dụng tốt nhất năng lực của Development Team.
 
