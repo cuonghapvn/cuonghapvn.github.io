@@ -6,7 +6,7 @@ subtitle: ''
 tags:
 - PMP
 - Lessons Learned
-published: ''
+published: 'true'
 
 ---
 Cũng giống như các bạn, lúc mình bắt đầu làm hồ sơ thi thì mình cũng đã hoang mang rất nhiều vì không biết bắt đầu từ đâu, fill như thế nào cho phù hợp. Rất may mắn, kể từ tháng 7/2020, PMI đã thay đổi lại format của form đăng ký, giúp quá trình đăng ký trở nên dễ dàng và nhanh chóng hơn. Nội dung thay đổi như sau:
@@ -56,7 +56,7 @@ Phần này thực sự không có gì đáng chú ý cả:
 
 ![](/uploads/20200709-screencapture-certification-pmi-org-experience-pmp-2020-07-09-23_05_26.png)
 
-Có lẽ đây chính là phần khiến chúng ta mất thời gian nhiều nhất, điền thông tin kinh nghiệm về dự án. 
+Có lẽ đây chính là phần khiến chúng ta mất thời gian nhiều nhất, điền thông tin kinh nghiệm về dự án.
 
 1. Nên điền theo thứ tự dự án từ thời gian hiện tại lui về quá khứ. PMI chỉ chấp nhận kinh nghiệm dự án 8 năm gần nhất, cho nên bắt đầu điền từ thời gian hiện tại đến lúc đủ yêu cầu là vừa đẹp.
 2. Không cần thiết khai báo toàn bộ thông tin dự án của bạn, chỉ cần khai báo đủ yêu cầu về số tháng kinh nghiệm là được. (ví dụ mình là 36 tháng.)
@@ -66,7 +66,7 @@ Có lẽ đây chính là phần khiến chúng ta mất thời gian nhiều nh�
    * **Organization**: Tên công ty
    * **Job Title**: Chức danh của bạn trong công ty. Chức danh này không nhất thiết phải là role trong dự án.
    * **Functional Reporting Area**: Bộ phận của bạn
-   * **Organization Primary Focus**: 
+   * **Organization Primary Focus**:
    * **Approach/Methodology**: Traditional/Agile/Hybrid
    * **Project Team Size**: chon giá trị tương ứng với dự án của bạn từ dropdown
    * **Project Budget**: chon giá trị tương ứng với dự án của bạn từ dropdown
@@ -149,3 +149,6 @@ Mình không bị audit nên cũng không có kinh nghiệm xử lý trong trư�
 Theo thông tin chính thức thì bạn cần đợi 5 ngày làm việc để form đăng ký của bạn được approved bởi PMI. Bên PMI có bảo là sẽ mail về việc approved form đăng ký, tuy nhiên trong trường hợp của mình (và của nhiều người khác) thì không nhận được mail này. Cho nên 5 ngày sau khi nộp đơn thì bạn nên vào PMI.org để check tình hình nhé.
 
 Sau khi đơn của bạn được approved, bạn sẽ được phép nộp tiền và đặt lịch thi. Nên nhớ, ở thời điểm nộp tiền thi, vẫn có xác suất hồ sơ của bạn bị audit, cho nên ngay sau khi nộp tiền lệ phí thi thì hãy check mail ngay xem có bị audit không nhé.
+
+{: .box-note}  
+Nội dung bài viết được tham khảo từ nhiều nguồn khác nhau. Ngoài ra, do PMI đã có nhiều thay đổi trong process xử lý đơn đăng ký dự thi nên đôi khi thông tin ở đây sẽ không được up-to-date. Mình sẽ cố gắng update liên tục. Các bạn có câu hỏi nào có thể thoải mái contact cho mình nha <3.
