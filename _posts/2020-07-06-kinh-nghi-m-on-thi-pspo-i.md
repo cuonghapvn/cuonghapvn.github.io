@@ -38,17 +38,53 @@ Lý do tương tự với việc học thi PSM I của mình.
 
 ### Ôn luyện PSPO I
 
-* Tương tự với việc ôn luyện cho PSM I, tài liệu quan trọng nhất là  [Scrum Guide](https://scrumguides.org/scrum-guide.html "Scrum Guide"). Nếu bạn nào đã pass PSM I thì cũng nên đọc lại một lần trước khi chuẩn bị cho PSPO. Nếu bạn nào chưa pass PSM I, mình khuyên nên thi PSM I trước, vì theo cảm nhận của mình, 60% kiến thức của PSPO I đến từ PSM I.
-* Đọc [Suggested Reading](https://www.scrum.org/resources/suggested-reading-professional-scrum-product-owner "Suggested Reading") của Scrum.org.
-* Đọc [Scrum Glossary](https://www.scrum.org/Resources/Scrum-Glossary) để hiểu rõ các thuật ngữ được sử dụng trong Scrum.
-* Thử làm đề sample với [Open Assessments](https://www.scrum.org/open-assessments).
-  * Có 2 nội dung cần quan tâm chính là: Scrum Open, Product Owner Open.
-  * Bạn nên làm nhiều lần đề thi của Scrum Open, Product Owner Open tới khi nào đạt được 100% trong vòng 10 phút.
-* Làm bài mock test nhiều lần trên [https://mlapshin.com/index.php/scrum-quizzes/po-learning-mode/](https://mlapshin.com/index.php/scrum-quizzes/po-learning-mode/ "https://mlapshin.com/index.php/scrum-quizzes/po-learning-mode/"). Theo mình thì nội dung ở đây khá sát với thực tế
-* [Evidence-based Management](https://www.scrum.org/resources/evidence-based-management): Một trong những nội dung quan trọng mà một PO cần chú ý. Có khá nhiều câu hỏi đề cập đến nội dung này.
-* Nếu có thêm thời gian, bạn nên đọc thêm về Nexus Guide cũng như những case study về trường hợp nhiều Development Team làm việc chung cho 1 product backlog nhé.
-* Một số lesson learned khác có đề cập đến đọc thêm sách về Scrum, tuy mình không đọc nhưng cũng list ra đây để tham khảo:
-  * Scrum – A pocket Guide
+{: .box-note}  
+Cập nhật lại vào ngày 23/7/2020
+
+#### 1. Ôn lý thuyết
+
+* [Scrum Guide](https://scrumguides.org/scrum-guide.html): đọc lại 1 lần Scrum Guide từ view của một PO để có một cái nhìn khác về nội dung của Guide.
+  * Re-ordered Scrum Guide:
+* [Evidence-Based Management](https://www.scrum.org/resources/evidence-based-management): 
+  * PO là người chịu trách nhiệm cuối cùng về sản phẩm, và một trong những nội dung giúp bạn hiểu về cách PO control được giá trị của sản phẩm chính là EBM.
+  * Thực tế thì trong đề cũng có kha khá câu hỏi về EBM.
+* [Nexus Guide](https://www.scrum.org/resources/online-nexus-guide): 
+  * Thực sự thì có đâu đó 5-10% số câu hỏi về trường hơp có nhiều development team, Nexus guide sẽ giúp clear hơn cách xử lý khi làm việc với nhiều team.
+* [Course về PSPO trên Volkerdon](https://www.volkerdon.com/courses/take/pspo1/texts/6549713-what-is-scrum): 
+  * khóa học free này sẽ cung cấp cho bạn nhiều kiến thức có giá trị đối với việc học ôn PSPO.
+* [Scrum Glossary](https://www.scrum.org/Resources/Scrum-Glossary): Các thuật ngữ strong Scrum
+* Các [Key Focus Area](https://www.scrum.org/professional-scrum-competencies) chính của PSPO:
+  * KFA mình đang _in nghiên_ chính là nội dung có trong PSM. KFA **in đậm** chính là nội dung của riêng PSPO.
+  * Understanding and Applying the Scrum Framework:
+    * _Empiricism_
+    * _Roles_
+    * _Events_
+    * _Artifacts_
+    * _Done_
+  * Developing People and Teams:
+    * _Self-Organizing Teams_
+    * _Leadership_
+  * Managing Products with Agility:
+    * _Forecasting & Release Planning_
+    * **Product Vision**
+    * _Product Value_
+    * _Product Backlog Management_
+    * **Business Strategy**
+    * _Stakeholders & Customers_
+* Một số tài liệu khác:
+  * [Stances of the PO](https://medium.com/the-value-maximizers/stances-of-the-product-owner-cca45af4f20c)
+  * [The New New Product Owner](https://scrumcrazy.wordpress.com/2018/09/22/the-new-new-product-owner/):
+  * [Product Ownership — Maximizing Value with Product Pricing](https://medium.com/the-value-maximizers/product-ownership-the-art-of-maximizing-value-with-product-pricing-206739cf9027)
+  * [What is a Product Owner?](https://medium.com/the-value-maximizers/what-is-a-product-owner-ee60dc276350)
+
+#### 2. Luyện ôn giải đề:
+
+* [Open Assessment ](https://www.scrum.org/open-assessments)
+  * Sử dụng chính công cụ ôn tập của Scrum.org để luyện đề
+  * Cần làm Scrum Open và PO Open
+  * Nên làm đều đặn mỗi ngày, cho đến khi làm được 100% 3 bài liên tiếp bất kỳ.
+* Bài final test của khóa học Volkerdon
+* [Mlapshin](https://mlapshin.com/index.php/scrum-quizzes/po-learning-mode/): Một nguồn câu hỏi luyện thi không thể thiếu nữa đó chính là blog của Mlapshin.
 
 ### Thi PSPO I
 
