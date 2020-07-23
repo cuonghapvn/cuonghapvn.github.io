@@ -32,7 +32,7 @@ Nhiều bạn sẽ đợi sau khi học ôn thi xong xuôi hết, cảm thấy s
 
 1. Điều quan trọng nhất có lẽ là phải trung thực trong suốt quá trình điền thông tin. Không ai dám chắc được là hồ sơ của bạn có bị audit hay không, nếu PMI phát hiện nội dung không đúng sự thật trong hồ sơ thì khả năng cao sẽ bị ban và không bao giờ được thi bất kỳ chứng chỉ nào của PMI nữa.
 2. **Double check** thông tin đã điền vào để tránh sai sót, nhất là phần tên và địa chỉ. Đã có trường hợp bị từ chối thi vì tên trong form đăng ký sai 1 ký tự so với giấy tờ tùy thân.
-3. Sử dụng từ ngữ theo chuẩn của PMI. Trong quá trình điền form đăng ký dự thi, mục kinh nghiệm thực tế yêu cầu bạn mô tả những task bạn đã làm. Sử dụng từ ngữ theo chuẩn PMI sẽ giúp quá trình review diễn ra nhanh hơn.
+3. Sử dụng từ ngữ theo chuẩn của PMI. Trong quá trình điền form đăng ký dự thi, mục kinh nghiệm thực tế yêu cầu bạn mô tả những task bạn đã làm. Sử dụng từ ngữ theo chuẩn PMI sẽ giúp quá trình review diễn ra nhanh hơn. Theo một số thông tin không chính thống thì việc sử dụng từ ngữ theo chuẩn của PMI cũng giúp bạn né được vòng audit.
 
 ### Điền form đăng ký dự thi step-by-step
 
@@ -50,71 +50,102 @@ Phần này thực sự không có gì đáng chú ý cả:
   * Quốc gia
   * Tên trường/cơ sở đào tạo
   * Ngành học
-* Professional Education: thông tin về 
+* Professional Education: thông tin về việc đạt đủ 35 contact hours. Bạn sử dụng thông tin từ phía cung cấp dịch vụ đào tạo để điền vào cho chính xác nhé.
 
-![](/uploads/20200709-screencapture-certification-pmi-org-education-2020-07-09-10_39_13.png)
+#### 2. Experience
 
 ![](/uploads/20200709-screencapture-certification-pmi-org-experience-pmp-2020-07-09-23_05_26.png)
 
+Có lẽ đây chính là phần khiến chúng ta mất thời gian nhiều nhất, điền thông tin kinh nghiệm về dự án. 
+
+1. Nên điền theo thứ tự dự án từ thời gian hiện tại lui về quá khứ. PMI chỉ chấp nhận kinh nghiệm dự án 8 năm gần nhất, cho nên bắt đầu điền từ thời gian hiện tại đến lúc đủ yêu cầu là vừa đẹp.
+2. Không cần thiết khai báo toàn bộ thông tin dự án của bạn, chỉ cần khai báo đủ yêu cầu về số tháng kinh nghiệm là được. (ví dụ mình là 36 tháng.)
+3. Bạn cần khai báo các step bên dưới cho từng dự án nhé, cứ mỗi một dự án là một record.
+4. Về chi tiết thì như sau:
+   * **Project Title:** Sử dụng tên của dự án hoặc tên mô tả mục đích của dự án một cách ngắn gọn.
+   * **Organization**: Tên công ty
+   * **Job Title**: Chức danh của bạn trong công ty. Chức danh này không nhất thiết phải là role trong dự án.
+   * **Functional Reporting Area**: Bộ phận của bạn
+   * **Organization Primary Focus**: 
+   * **Approach/Methodology**: Traditional/Agile/Hybrid
+   * **Project Team Size**: chon giá trị tương ứng với dự án của bạn từ dropdown
+   * **Project Budget**: chon giá trị tương ứng với dự án của bạn từ dropdown
+   * **Project Dates**: chọn tháng/năm bắt đầu và kết thúc đúng với dự án của bạn.
+5. Project Description: bạn cần cung cấp đủ các thông tin sau:
+   * Project Objectives: Mục tiêu của dự án
+   * Outcome: Đầu ra của dự án
+   * Role: Vai trò của bạn trong dự án
+   * Responsibilities: Trách nhiệm của bạn trong dự án
+   * Deliverables: Thành phẩm của dự án
+6. Các mẫu câu để bạn có thể khai báo trong phần trách nhiệm của bạn trong dự án:
+   * **INITIATING:**
+     * Evaluated the feasibility
+     * Gathered project constraints
+     * Had meeting with project sponsors, got expectations and requirements
+     * Had meeting with project key stakeholders, got expectations
+     * Identified key stakeholders and set up project KPIs
+     * Developed high-level project scope
+     * Obtained project charter approval
+     * Identified key stakeholders
+     * Identify relevant stakeholders, collect feedback
+   * **PLANNING:**
+     * Worked closely with functional manager to gather requirements
+     * Defined project scope
+     * Defined activities
+     * Prepared project schedule
+     * Created WBS
+     * Defined project scope & team members
+     * Created WBS with the team to develop the cost, schedule, resource, quality and procurement plans
+     * Defined roles & responsibilities of project team members
+     * Defined project team members
+     * Define project team members with roles & responsibilities
+     * Developed cost, schedule, resource, quality, procurement, risk & change management plans
+     * Finalized project timeline, budget, personnel, quality management and procurement plan
+     * Create budget, schedule, milestone review, risk & change management plan
+     * Get commitment of stakeholders on the plan
+     * Obtained project plan approval
+   * **EXECUTING:**
+     * Execute the project plan
+     * Executed the tasks in the project plan
+     * Implemented approved changes & actions to minimize the impact
+     * Improved team performance by teambuilding activities
+     * Managed changes to the scope, schedule and cost
+     * Ensured deliverables conform to quality standards
+   * **MONITORING & CONTROLLING:**
+     * Monitored & controlled risks
+     * Monitored project status
+     * Monitoring & control project status, quality as planned
+     * Monitor project progress & risks/issues
+   * **CLOSING:**
+     * Documented lessons learned.
+     * Distributed final project report
+     * Obtain final acceptance from stakeholders for the updated process
+     * Training & deploy process in organization
+     * Obtained final acceptance for the project
+
+#### 3. Exam Details
+
+Phần này bạn sẽ phải điền các thông tin cá nhân như:
+
+* Address: PMI sẽ gửi bằng cứng về địa chỉ này sau 6-8 tuần kể từ khi bạn pass kỳ thi.
+* Name on Identification: Tên trên giấy tờ của bạn. Lưu ý phần này là tên phải match 100% với giấy tờ của bạn, nếu không bạn sẽ bị reject không được vào phòng thi nhé.
+* Name on Certificate: Tên bạn muốn hiển thị trên chứng chỉ
+* Email Address: địa chỉ email
+* Phone Number: số điện thoại
+* Exam Location: Tên quốc gia bạn sẽ thi
+* Exam Accommodations: các hỗ trợ cần thiết liên quan đến kỳ thi
+
 ![](/uploads/20200709-screencapture-certification-pmi-org-exam-details-2020-07-09-15_07_41.png)
 
-1. The start date of the first project and the end date of the last project should at least cover a period 3 years (degree holders) or 5 years (secondary degree holders) as required by the PMI.
-2. In order to well prepare for an audit, you are highly advised to contact your project supervisors and notify them of the hours you will claim for each project. Their help is vital in case you are selected for an audit. _Some PMP® aspirants failed the audit because they could not find their supervisors or their supervisors refused to sign the experience verification forms._
-3. It is **not** required nor advised for each and every project you have handled. Include only enough number of projects to reach the required minimum number of hours (i.e. 4,500 hours for degree holders / 7,500 hours for secondary degree holders). Include large projects first as this would save you considerable time in case of an audit.
-4. When adding details of project management experiences to the application form, you will need to:
-   * Give a **title** to each project (usually the project title)
-   * Give your **project role** (**not your job title**) – you can use PMI terms like project leader, project manager, project coordinator, etc.
-   * Insert your **supervisor**‘s name and contact methods (note that you need not fill in the name of the CEO of your company, but someone who works closely with you **and** you have gained the consent form)
-   * Calculate and add the **time** (in number of hours) spent on each project management process groups (you might need to refer to the PMBOK® Guide if you don’t know what these exactly mean):
-     * Initiating the Project
-     * Planning the Project
-     * Executing the Project
-     * Controlling and Monitoring the Project
-     * Closing the Project
-   * PMI advocates work-life balance and will only allow 40 hours for each work week, don’t fill in more than 40 hours for each week of work or PMI will ask you to amend.
-   * Try to estimate your project hours offline (e.g. using Excel or a notebook) first and insert the hours once finalized. Though PMI has not mentioned it, to amend and save the project hours repeatedly on the web server might trigger the need for an audit.
-   * Write the project description of the project (in around 500 characters) including the following:
-     * **a brief description of the project**
-     * **objectives**
-     * **key deliverables**
-     * **project outcome**
-     * **your personal role**
-   * When composing the project descriptions for each project, make good use of PMI terms to demonstrate that you understand what project management is. Include terms found in the PMBOK® Guide like project charter, sponsor, scope, project deliverables, stakeholders, schedule, acceptance of deliverables, quality management, etc. at least 5 times in your description. PMI has the right to require you to rewrite the project description should they found it inadequate.
-5. The above steps have to be performed for each and every project you would submit. Below is a sample form of the project experience record:
+## Trong trường hợp bị Audit
 
-## Preparation for the PMP® Audit
+Mình không bị audit nên cũng không có kinh nghiệm xử lý trong trường hợp này như thế nào, nhưng mình nghĩ 2 point bên dưới là khá quan trọng:
 
-Follow the advice below while filling the PMP® application form to help you well prepared for a PMP® audit (as PMP® audit is selected on a random basis, you don’t know whether you will be selected before settling the PMP® certification fee):
+* Những giấy tờ, thông tin liên quan đến nội dung đã khai báo trong form đăng ký: bằng đại học, giấy chứng nhận 35 contact hours, thông tin chứng minh kinh nghiệm dự án...
+* Cần trao đổi trước với người mà bạn dự định sẽ đăng ký là người references để thống nhất nội dung khai báo. Tốt nhất là gửi luôn form đăng ký của bạn (bạn có thể download file PDF về) cho người reference.
 
-* Keep all supporting documents for your education, project management education as well as work experience in folders (supporting documents may include certificates, e-mails, project plans, meeting minutes or project charters). Do gather enough documents for each and every project you have submitted on your PMP® application form.
-* Contact and seek endorsement from your supervisor/manager on the number of hours to be reported for each and every project on the application form so as to avoid a disagreement during the audit process.
+## Sau khi nộp form đăng ký dự thi
 
-Further reading: [**Common mistakes in PMP® application and how to avoid them**](https://edward-designer.com/web/pmp-application-common-mistakes/)
+Theo thông tin chính thức thì bạn cần đợi 5 ngày làm việc để form đăng ký của bạn được approved bởi PMI. Bên PMI có bảo là sẽ mail về việc approved form đăng ký, tuy nhiên trong trường hợp của mình (và của nhiều người khác) thì không nhận được mail này. Cho nên 5 ngày sau khi nộp đơn thì bạn nên vào PMI.org để check tình hình nhé.
 
-## After You have Submitted the Application
-
-You will need to wait for about 5 days as PMI carry out the “Application Completeness Review”. Should your application form is considered complete, PMI will send you an approval email, asking you to pay for the PMP® Certification fee. You can settle the fee online.
-
-In case you are not a native English speaker and your mother tongue is available as a language aid from PMI, you must specify the **language aid** while you are confirming the payment. The language aid is provided **free of charge** and is often overlooked by many PMP® aspirants. The translated question in the language you have chosen will appear on the same page as the original English question on each screen of the PMP® exam, this feature is extremely useful when dealing with wordy questions.
-
-Currently, PMI provides the following language aid for the PMP® exam:
-
-* Chinese (Traditional)
-* Chinese (Simplified)
-* Arabic
-* Japanese
-* French
-* Korean
-* German
-* Portuguese (Brazilian)
-* Hebrew
-* Spanish
-* Italian
-* Russian
-* Turkish
-
-After you have paid the PMP® Certification fee, **check your email immediately**. You will be notified if a PMP® audit is needed in an email from PMI.
-
-## What’s Next?
-
-If a PMP® audit is required, get to know what is required to help you [pass the audit smoothly](https://edward-designer.com/web/pmp-audit-process/ "How to Pass the PMP Audit Process Smoothly?"). Or if you are not selected for an audit, you will be given the instruction to [schedule your PMP® exam on the Prometric website](https://edward-designer.com/web/schedule-pmp-certification-exam/ "Schedule and Take the PMP Certification Exam").
+Sau khi đơn của bạn được approved, bạn sẽ được phép nộp tiền và đặt lịch thi. Nên nhớ, ở thời điểm nộp tiền thi, vẫn có xác suất hồ sơ của bạn bị audit, cho nên ngay sau khi nộp tiền lệ phí thi thì hãy check mail ngay xem có bị audit không nhé.
