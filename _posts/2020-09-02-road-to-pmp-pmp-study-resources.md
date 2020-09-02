@@ -6,7 +6,7 @@ subtitle: ''
 tags:
 - Lessons Learned
 - PMP
-published: ''
+published: 'true'
 
 ---
 Cũng như nhiều bạn mới bước chân vào con đường luyện thi PMP, mình đã từng trăn trở rất nhiều về việc lựa chọn tài liệu học cho hiệu quả, simulator nào thì chất lượng. Mình dành bài viết thứ 3 để nói sâu hơn về các loại tài liệu dùng để luyện thi PMP.
@@ -32,15 +32,15 @@ Nếu bạn có điều kiện, có thể đăng ký các khóa bootcamp học t
 
 Hiện tại, trên thị trường có khá nhiều các sách phục vụ cho mục đích luyện thi đến từ nhiều nhà xuất bản khác nhau. Tuy nhiên, nổi bật trong số đó là 3 quyển sách bên dưới:
 
-1. **Rita’s PMP® Book**: Là quyển sách nổi tiếng nhất cho việc ôn luyện cho PMP. Được đánh giá cao bởi nhiều PMP-ers.
+1. [**Rita’s PMP® Book**](https://amzn.to/2YX4VHq): Là quyển sách nổi tiếng nhất cho việc ôn luyện cho PMP. Được đánh giá cao bởi nhiều PMP-ers.
    * Đây là quyển sách mình đánh giá là chứa đựng nội dung một cách toàn diện nhất và cũng cực kỳ nhiều chữ. Nếu lựa chọn sách này làm source học chính, bạn phải chuẩn bị tinh thần là cực kỳ buồn ngủ nhé.
    * Sách có giải thích flow các process trong PMP theo Rita Process Chart. Bạn sẽ thấy flow này sẽ dùng các từ ngữ khác với chuẩn của PMI. Tuy nhiên, việc hiểu được Rita Process Chart sẽ giúp bạn trả lời được các câu hỏi tình huống như: sau khi done task abc, bạn nên làm task def.
    * Sách không cover toàn bộ ITTOs, và theo mình thì bạn cũng không cần học thuộc ITTOs của tất cả các process làm gì.
-2. **Andy Crowe PMP® – How to Pass on Your First Try**: Mình không dùng sách này để học chính, tuy nhiên qua nhiều review thì sách này cũng được đánh giá khá cao. Nhiều bạn mình biết sử dụng sách này làm sách học chính thay vì sách Rita.
+2. [**Andy Crowe PMP® – How to Pass on Your First Try**](https://amzn.to/3jDGiqW): Mình không dùng sách này để học chính, tuy nhiên qua nhiều review thì sách này cũng được đánh giá khá cao. Nhiều bạn mình biết sử dụng sách này làm sách học chính thay vì sách Rita.
    * Nội dung sách được đánh giá là cover vừa đủ cho kỳ thi PMP, không nhiều hơn cũng không ít hơn.
    * Giúp bạn tập trung chuẩn bị cho kỳ thi mà k lo bị over-study.
    * Bài tập trong sách này thì khá là dễ hơn so với đề thi thật.
-3. **Head First PMP® Book**: Sách này thì mình có đọc lướt qua chứ không thực sự chú tâm đọc. Tuy nhiên mình recommend quyển này dành cho các bạn chưa có nhiều kinh nghiệm về quản trị dự án.
+3. [**Head First PMP® Book**](https://amzn.to/2GiGDRz): Sách này thì mình có đọc lướt qua chứ không thực sự chú tâm đọc. Tuy nhiên mình recommend quyển này dành cho các bạn chưa có nhiều kinh nghiệm về quản trị dự án.
    * Cách tiếp cận với người học khá thông minh, dựa vào 1 ví dụ thực tế kèm với nhiều hình ảnh. Nếu bạn nào có style visual learner thì sách này khá là chuẩn luôn.
    * Các loại exercise khá đa dạng như điền từ, nối câu, vv.vv cho nên học quyển này sẽ không sợ bị nhàm chán đâu nhé. 
    * Các câu hỏi trong sách khá dễ, nội dung sách thì cover đâu đấy 75% nội dung cần thiết để thi PMP.
