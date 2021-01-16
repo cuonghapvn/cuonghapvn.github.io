@@ -33,6 +33,17 @@ Ngoài ra, khoảng 50% số câu hỏi trong đề thi sẽ tập trung về Ag
 
 Mình nghĩ việc thay đổi mà ảnh hưởng nhiều đó chính là việc có thêm các dạng format câu hỏi mới. Dễ hơn hoặc khó hơn so với 4-chọn-1 thì chưa biết nhưng cần luyện qua các dạng câu hỏi này để tránh việc bị bối rối khi vào phòng thi.
 
+{: .box-note}  
+Review từ một người bạn của mình về đề thi:  
+\- Không có câu hỏi nào về EVM, schedule   
+\- Một câu hỏi về Risk yêu cầu tính toán đơn giản  
+\- Rất rất nhiều câu hỏi về agile/hybrid  
+\- Một vài câu hỏi về ITTO kiểu “what would update next”  
+\- Nhiều câu hỏi dạng kéo thả  
+\- Một câu hỏi kiểu click vào diagram  
+\- Nhiều câu “choose three”, “choose two”   
+\- Một hoặc hai câu hỏi điều vào chỗ trống (đơn giản là type A,B,C,D)
+
 ## Các tài liệu để tham khảo/ôn tập
 
 ### I. Các tài liệu chính thức từ PMI
@@ -66,3 +77,6 @@ Mình nghĩ những tài liệu bên dưới là đủ cho quá trình ôn tập
 * Rita 10th Edition
 * PMBOK 6th Edition + Agile Practice Guide
 * PMP Exam Simulator
+
+{: .box-note}  
+Trong quá trình chuẩn bị, nếu có gặp khó khăn gì thì hãy cứ liên lạc cho mình. Mình sẽ cố gắng giải đáp các thắc mắc của các bạn.
