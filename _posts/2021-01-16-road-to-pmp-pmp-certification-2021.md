@@ -61,8 +61,9 @@ Review từ một người bạn của mình về đề thi:
 
 ### II. Các tài liệu ôn tập từ các bên thứ 3
 
-* Rita PMP 10th edition:  
-  Sách ôn thi thần thánh đối với các PMP candidates đã có version mới, đối ứng cho format mới của PMP. Mình có đọc lướt qua 1 lượt thì thấy sách đã có bổ sung thêm domain mới, mapping các activities theo domain mới và thêm các nội dung liên quan đến Agile vào các activities.
+* Rita PMP 10th edition: [link](https://store.rmcproject.com/pmp-exam-prep-tenth-edition)  
+  Sách ôn thi thần thánh đối với các PMP candidates đã có version mới, đối ứng cho format mới của PMP. Mình có đọc lướt qua 1 lượt thì thấy sách đã có bổ sung thêm domain mới, mapping các activities theo domain mới và thêm các nội dung liên quan đến Agile vào các activities.  
+  "_Đối với các bạn ở VN thì liên lạc mình để mình giới thiệu chỗ bán sách giá rẻ nhé."_
 * PMP Exam Prep Seminar (Udemy): [link ](https://www.udemy.com/course/pmp-pmbok6-35-pdus/)  
   Có lẽ đây là course nổi tiếng nhất trên Udemy để phục vụ cho việc ôn tập thi PMP. Từ đầu năm 2021 thì anh Joseph Phillips đã bổ sung hàng loạt nội dung mới để mapping với thay đổi của bên PMI. Ngoài ra, khóa này cũng cung cấp 35 contact hours phục vụ cho việc làm application. Mọi người không nên bỏ qua nhé.
 * PMP Exam Simulator 2021 (tên thường gọi là Prepcast): [link](https://www.pm-exam-simulator.com/pmp-exam-simulator)  
