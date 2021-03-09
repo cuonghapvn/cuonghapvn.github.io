@@ -8,7 +8,7 @@ tags:
 - Lessons Learned
 - PMP
 comments: 'true'
-published: ''
+published: 'true'
 
 ---
 ### Intro
