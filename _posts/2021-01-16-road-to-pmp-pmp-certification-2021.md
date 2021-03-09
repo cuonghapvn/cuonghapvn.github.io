@@ -4,11 +4,11 @@ comments: 'true'
 published: 'true'
 title: Road to PMP - Các thay đổi trong PMP Exam từ 2021
 subtitle: Một số chia sẻ của mình về những thay đổi của PMP từ năm 2021
-cover-img: "/uploads/20210116-PMP®-Exam-Changes-in-2021.jpg"
 tags:
 - PMP
 
 ---
+![](/uploads/20210116-PMP®-Exam-Changes-in-2021.jpg)
 Sau một thời gian dài bận rộn với những dự án cá nhân, không có nhiều thời gian viết blog thì mình quay trở lại với một bài viết giới thiệu những thay đổi của PMP Exam từ năm 2021. 
 
 Nếu như mọi người có quan tâm về PMP thì đều biết rằng kể từ 2/1/2021, PMI đã apply hàng loạt các update đối với cấu trúc và nội dung đề thi PMP. Khối lượng thay đổi của PMP khá lớn khi mà đến 50% nội dung trong đề thi là mới lạ hơn so với format cũ. Vậy thì làm sao để chuẩn bị tốt nhất nếu mọi người có plan lấy PMP trong năm 2021 này? Qua một thời gian tham khảo các nguồn khác nhau, mình tổng hợp lại ở bài viết này với hi vọng giúp ích mọi người trong quá trình chuẩn bị .
