@@ -2,7 +2,7 @@
 layout: post
 comments: 'true'
 title: Road to PMP - Hướng dẫn cách điền đơn đăng ký dự thi
-subtitle: ''
+subtitle: 'Một số chia sẻ cũng như mẹo khi làm đơn đăng ký dự thi PMP.'
 tags:
 - PMP
 - Lessons Learned

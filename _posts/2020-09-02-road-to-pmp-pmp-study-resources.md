@@ -2,7 +2,7 @@
 layout: post
 comments: 'true'
 title: Road to PMP - Tài liệu học và luyện thi
-subtitle: ''
+subtitle: 'Chia sẻ, đánh giá về một số loại tài liệu phục vụ việc tự ôn thi PMP.'
 tags:
 - Lessons Learned
 - PMP

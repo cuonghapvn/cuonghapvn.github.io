@@ -3,7 +3,7 @@ layout: post
 comments: 'true'
 published: 'true'
 title: Road to PMP - Gia hạn PMP và những điều cần biết
-subtitle: Những việc cần làm sau khi đã pass PMP
+subtitle: 'Những việc cần làm sau khi đã pass PMP'
 tags:
 - PMP
 - Lessons Learned
