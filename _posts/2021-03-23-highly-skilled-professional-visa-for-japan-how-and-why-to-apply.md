@@ -3,7 +3,8 @@ layout: post
 comments: 'true'
 published: 'true'
 title: 'Visa nhân sự chất lượng cao: một số chia sẻ 2021'
-subtitle: ''
+subtitle: Chia sẻ về một số thông tin liên quan đến visa Nhân lực chất lượng cao,
+  ưu điểm, cách apply...
 tags: []
 
 ---
