@@ -60,12 +60,86 @@ Vì có rất nhiều mục tính điểm nên mình sẽ tóm tắt lại một
 * **Công ty có nhận trợ cấp đầu tư từ chính phủ, hoặc công ty vừa và nhỏ: 10 điểm**
 * **Tốt nghiệp từ trường đại học của Nhật Bản: 10 điểm**
 * **Có chứng chỉ tiếng Nhật:** JLPT N1 (hoặc BJT J2) được 15 điểm, JLPT N2 (hoặc BJT J3) được 10 điểm (chú ý N2 không được tính nếu có N1 hoặc tốt nghiệp đại học Nhật)
-* Trường đại học đã tốt nghiệp: 10 điểm
+* **Trường đại học đã tốt nghiệp: 10 điểm**
   * Trường Đại học được xếp hạng trong top 300 của ít nhất 2 trong 3 bảng xếp hạng
   * Trường Đại học thuộc nhóm các trường đang nhận hỗ trợ từ bộ Văn hóa Thể thao Du lịch và Khoa học Nhật Bản
   * Trường Đại học được chỉ định là đối tác của chương trình hợp tác Innovative Asia được thực hiện bởi bộ Ngoại giao Nhật Bản
+  * List các trường có thể tham khảo ở đây:
+    * [http://www.immi-moj.go.jp/newimmiact_3/pdf/h30_10_partner-list.pdf](http://www.immi-moj.go.jp/newimmiact_3/pdf/h30_10_partner-list.pdf "http://www.immi-moj.go.jp/newimmiact_3/pdf/h30_10_partner-list.pdf")
+    * [http://www.immi-moj.go.jp/newimmiact_3/pdf/r02_11_daigaku-ranking.pdf](http://www.immi-moj.go.jp/newimmiact_3/pdf/h30_10_partner-list.pdf "http://www.immi-moj.go.jp/newimmiact_3/pdf/h30_10_partner-list.pdf")
+    * [https://www.mext.go.jp/a_menu/koutou/kaikaku/sekaitenkai/1360288.htm](http://www.immi-moj.go.jp/newimmiact_3/pdf/h30_10_partner-list.pdf "http://www.immi-moj.go.jp/newimmiact_3/pdf/h30_10_partner-list.pdf")
 * Và một số mục khác mà mình cũng k rành/ không nằm trong diện được cộng điểm nên không biết.
+
+{: .box-warning}  
+Những điểm số trên chỉ được tính nếu có giấy tờ chứng minh hợp lệ. VD đi làm trên 10 năm, nhưng không có giấy xác nhận làm việc với thời gian tương ứng thì cũng không được tính.
 
 ### Cách làm hồ sơ
 
-### Case study của bản thân mình
+Về cách làm hồ sơ thì rất đơn giản, chỉ gồm 2 phần như bên dưới:
+
+* Tờ khai xin đổi tư cách lưu trú
+* Bảng tính điểm và các giấy tờ chứng minh số điểm
+
+Các bước thủ tục thì có hướng dẫn chi tiết trên trang của cục: [http://www.moj.go.jp/isa/publications/materials/newimmiact_3_procedure_index.html](http://www.moj.go.jp/isa/publications/materials/newimmiact_3_procedure_index.html "http://www.moj.go.jp/isa/publications/materials/newimmiact_3_procedure_index.html")
+
+#### a. Tờ khai
+
+Có khá nhiều loại tờ khai tùy thuộc vào tình trạng hiện tại của bạn cũng như loại visa bạn sẽ xin. Nên check đúng loại mình cần nhé.
+
+* **Hướng dẫn điền tờ khai:** mình thấy có một trang hướng dẫn rất chi tiết [https://common-s.jp/koudorhsample.html](https://common-s.jp/koudorhsample.html "https://common-s.jp/koudorhsample.html")
+* Phần của công ty thì cần phải nhờ bên công ty điền và đóng dấu hộ nhé.
+* Hồ sơ cần dán ảnh 3x4
+
+#### Bảng tính điểm và các giấy tờ chứng minh
+
+Bạn cần chuẩn bị các giấy tờ bên dưới theo đúng như các mục bạn tính điểm nhé:
+
+* Bằng đại học: Nếu không có bản dịch tiếng anh/nhật, vui lòng đính kèm theo bản dịch.
+* Giấy chứng nhận thời gian làm việc: cái này bạn nhờ bên HR làm cho bạn nhé. Nếu có kinh nghiệm làm việc ở VN thì nhờ công ty ở VN làm giấy này bằng tiếng Anh và scan gửi sang là OK.
+* Giấy chứng nhận thu nhập ước tính (収入見込み証明書): 
+  * Cách tính như bên dưới:
+
+    **給与 (見込み)** = **(Basic salary hiện tại + các khoản allowance hiện tại) * 12 tháng + 賞与(見込み)**
+
+    ※Overtime allowance không bao gồm trong 給与 (見込み)
+
+    ※賞与(見込み) = Tổng bonus được nhận trong năm gần nhất
+* Bản sao các chứng chỉ được tính điểm: [http://www.moj.go.jp/isa/laws/nyukan_hourei_h09.html](http://www.moj.go.jp/isa/laws/nyukan_hourei_h09.html "http://www.moj.go.jp/isa/laws/nyukan_hourei_h09.html")
+* Bản sao các chứng chỉ tiếng Nhật
+* Nếu trường đại học nằm trong danh sách được cộng điểm thì có thể in tài liệu tương ứng
+
+Các tài liệu bên trên mình chỉ nộp bản sao, cũng cẩn thận mang theo bản chính nhưng người ta không hỏi gì đến.
+
+### Quá trình nộp hồ sơ -> nhận kết quả
+
+* Mình ở Osaka nên mình đến làm thủ tục tại: 大阪出入国在留管理局
+
+{: .box-warning}  
+**559-0034  
+大阪府大阪市住之江区南港北一丁目29番53号**
+
+* Trước khi đi thì có thể lên twitter của cục để check xem thời gian đợi là bao lâu để sắp xếp thời gian đi cho hợp lý.
+
+
+* Nộp hồ sơ thì người ta sẽ phát phiếu đợi và postcard để mình điền địa chỉ vào
+* Hồ sơ sau khi được check xong, người ta sẽ gọi số và mình nộp lại postcard và đi về.  
+  Bên cục cũng bấm một tờ giấy xác nhận đã nộp hồ sơ vào passport của mình (chắc sợ rơi)
+
+  [20210323-_marked.bmp](/uploads/20210323-_marked.bmp "20210323-_marked.bmp")
+* Sau tầm hơn 1 tuần thì mình nhận được postcard báo ra cục lấy kết quả.
+
+  [20210323-postcard_marked.bmp](/uploads/20210323-postcard_marked.bmp "20210323-postcard_marked.bmp")
+* Để lấy kết quả thì cần cầm theo:
+  * Post card
+  * Passport
+  * Resident Card
+  * Phiếu nhận hồ sơ
+  * Tem 4000 JPY
+* Quá trình lấy kết quả cũng tương tự, lấy số -> đợi -> nhận kết quả.
+* Người ta bấm thêm 1 tờ giấy xác nhận công ty hiện tại vào passport. Nếu tương lai muốn nghỉ công ty thì lại phải xin lại visa này theo công ty mới.
+
+  [20210323-company-passport-marked.bmp](/uploads/20210323-company-passport-marked.bmp "20210323-company-passport-marked.bmp")
+
+#### Kết quả
+
+[20210323-the-cu-tru_cuong_hsp_front_marked.bmp](/uploads/20210323-the-cu-tru_cuong_hsp_front_marked.bmp "20210323-the-cu-tru_cuong_hsp_front_marked.bmp")
