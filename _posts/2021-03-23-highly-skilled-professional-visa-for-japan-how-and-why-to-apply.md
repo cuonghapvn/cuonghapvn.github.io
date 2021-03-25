@@ -121,7 +121,7 @@ Các tài liệu bên trên mình chỉ nộp bản sao, cũng cẩn thận mang
 大阪府大阪市住之江区南港北一丁目29番53号**
 
 * Trước khi đi thì có thể lên twitter của cục để check xem thời gian đợi là bao lâu để sắp xếp thời gian đi cho hợp lý.
-<a class="twitter-timeline" href="https://twitter.com/IMMI_OSAKA?ref_src=twsrc%5Etfw">Tweets by IMMI_OSAKA</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">こんにちは，大阪出入国在留管理局です。２５日１４時現在の在留申請受付窓口における待ち時間は，<br>在留・認定申請　　　５１分<br>許可・証印　　　　　９６分<br>です。大変混み合っています。</p>&mdash; 大阪出入国在留管理局 (@IMMI_OSAKA) <a href="https://twitter.com/IMMI_OSAKA/status/1374949955912179716?ref_src=twsrc%5Etfw">March 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * Nộp hồ sơ thì người ta sẽ phát phiếu đợi và postcard để mình điền địa chỉ vào
 * Hồ sơ sau khi được check xong, người ta sẽ gọi số và mình nộp lại postcard và đi về.  
