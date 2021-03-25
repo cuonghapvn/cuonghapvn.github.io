@@ -121,7 +121,7 @@ Các tài liệu bên trên mình chỉ nộp bản sao, cũng cẩn thận mang
 大阪府大阪市住之江区南港北一丁目29番53号**
 
 * Trước khi đi thì có thể lên twitter của cục để check xem thời gian đợi là bao lâu để sắp xếp thời gian đi cho hợp lý.
-
+<a class="twitter-timeline" href="https://twitter.com/IMMI_OSAKA?ref_src=twsrc%5Etfw">Tweets by IMMI_OSAKA</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * Nộp hồ sơ thì người ta sẽ phát phiếu đợi và postcard để mình điền địa chỉ vào
 * Hồ sơ sau khi được check xong, người ta sẽ gọi số và mình nộp lại postcard và đi về.  
