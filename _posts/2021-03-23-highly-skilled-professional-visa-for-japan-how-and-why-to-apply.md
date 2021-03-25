@@ -36,7 +36,7 @@ Chi tiết về các ưu đãi thì có trên trang web của bên cục XNC: [h
 Mình tóm gọn lại như sau:
 
 * Được làm nhiều việc khác nhau trong cùng một lĩnh vực
-* Thời gian lưu trú được cấp là 5 năm (lâu nhất trong các loại visa khách vĩnh trú)
+* Thời gian lưu trú được cấp là 5 năm (lâu nhất trong các loại visa khác vĩnh trú)
 * Xin vĩnh trú dễ hơn: 3 năm liên tục 70 điểm hoặc 1 năm liên tục 80 điểm
 * Vợ/chồng được làm việc trái ngành: bằng ĐH bên kinh tế nhưng đi làm bên IT cũng OK
 * Được bảo lãnh bố mẹ của bản thân và bố mẹ của vợ/chồng sang Nhật ở dài hạn. Tất nhiên là kèm nhiều điều kiện khác nữa.
@@ -92,7 +92,7 @@ Có khá nhiều loại tờ khai tùy thuộc vào tình trạng hiện tại c
 * Phần của công ty thì cần phải nhờ bên công ty điền và đóng dấu hộ nhé.
 * Hồ sơ cần dán ảnh 3x4
 
-#### Bảng tính điểm và các giấy tờ chứng minh
+#### b. Bảng tính điểm và các giấy tờ chứng minh
 
 Bạn cần chuẩn bị các giấy tờ bên dưới theo đúng như các mục bạn tính điểm nhé:
 
@@ -124,6 +124,8 @@ Các tài liệu bên trên mình chỉ nộp bản sao, cũng cẩn thận mang
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">こんにちは，大阪出入国在留管理局です。２５日１４時現在の在留申請受付窓口における待ち時間は，<br>在留・認定申請　　　５１分<br>許可・証印　　　　　９６分<br>です。大変混み合っています。</p>&mdash; 大阪出入国在留管理局 (@IMMI_OSAKA) <a href="https://twitter.com/IMMI_OSAKA/status/1374949955912179716?ref_src=twsrc%5Etfw">March 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * Nộp hồ sơ thì người ta sẽ phát phiếu đợi và postcard để mình điền địa chỉ vào
+  Trong thời gian chờ đợi thì có thể check xem số thứ tự của mình đã được gọi chưa tại link này: [http://omatase.jp/h81000/index.php](http://omatase.jp/h81000/index.php)
+
 * Hồ sơ sau khi được check xong, người ta sẽ gọi số và mình nộp lại postcard và đi về.  
   Bên cục cũng bấm một tờ giấy xác nhận đã nộp hồ sơ vào passport của mình (chắc sợ rơi)
 
