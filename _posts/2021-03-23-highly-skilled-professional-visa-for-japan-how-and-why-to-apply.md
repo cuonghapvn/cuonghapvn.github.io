@@ -6,6 +6,7 @@ title: Mình đổi sang visa nhân lực chất lượng cao!
 subtitle: Chia sẻ về một số thông tin liên quan đến visa Nhân lực chất lượng cao,
   ưu điểm, cách apply...
 tags: []
+cover-img: "/uploads/iStock-953620924-Japan-Visa-1020x500.jpg"
 
 ---
 Vừa rồi nhân lúc cần phải gia hạn lại visa lao động 5 năm thì mình có tìm hiểu, và quyết định thay vì gia hạn visa hiện tại thì mình apply chuyển tư cách lưu trú sang 高度専門職・Highly Skilled Professional. Nghe hoành tráng quá đúng không? :v Tiện đây mình viết bài này để chia sẻ lại một số thông tin cũng như note lại quá trình xin visa mới của mình.
@@ -126,10 +127,10 @@ Các tài liệu bên trên mình chỉ nộp bản sao, cũng cẩn thận mang
 * Hồ sơ sau khi được check xong, người ta sẽ gọi số và mình nộp lại postcard và đi về.  
   Bên cục cũng bấm một tờ giấy xác nhận đã nộp hồ sơ vào passport của mình (chắc sợ rơi)
 
-  [20210323-_marked.png](/uploads/20210323-_marked.png "20210323-_marked.png")
+  ![](/uploads/20210323-_marked.png)
 * Sau tầm hơn 1 tuần thì mình nhận được postcard báo ra cục lấy kết quả.
 
-  [20210323-postcard_marked.png](/uploads/20210323-postcard_marked.png "20210323-postcard_marked.png")
+  ![](/uploads/20210323-postcard_marked.png)
 * Để lấy kết quả thì cần cầm theo:
   * Post card
   * Passport
@@ -139,8 +140,8 @@ Các tài liệu bên trên mình chỉ nộp bản sao, cũng cẩn thận mang
 * Quá trình lấy kết quả cũng tương tự, lấy số -> đợi -> nhận kết quả.
 * Người ta bấm thêm 1 tờ giấy xác nhận công ty hiện tại vào passport. Nếu tương lai muốn nghỉ công ty thì lại phải xin lại visa này theo công ty mới.
 
-  [20210323-company-passport-marked.png](/uploads/20210323-company-passport-marked.png "20210323-company-passport-marked.png")
+  ![](/uploads/20210323-company-passport-marked.png)
 
 #### Kết quả
 
-[20210323-the-cu-tru_cuong_hsp_front_marked.png](/uploads/20210323-the-cu-tru_cuong_hsp_front_marked.png "20210323-the-cu-tru_cuong_hsp_front_marked.png")
+![](/uploads/20210323-the-cu-tru_cuong_hsp_front_marked.png)
