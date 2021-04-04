@@ -97,6 +97,8 @@ Do ảnh hưởng của Covid nên trung tâm thi Pearson Osaka cancel và open 
 
 ![](/uploads/20200617-img_0003.PNG)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="40a503f0-3432-4e4c-80a7-d62d6e91f1b6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### Kinh nghiệm
 
 Trên kia chủ yếu là quá trình của mình, tổng hợp lại được một số kinh nghiệm mình sẽ viết ra ở đây.
