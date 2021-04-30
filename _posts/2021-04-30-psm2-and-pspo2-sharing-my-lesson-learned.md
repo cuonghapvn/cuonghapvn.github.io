@@ -9,7 +9,7 @@ tags:
 - Lesson Learned
 
 ---
-Phải chia sẻ với mọi người 1 điều mình khá bất ngờ đó là từ ngày bắt đầu viết blog, mặc dù chỉ có vài bài viết nhưng cũng có khá nhiều bạn biết đến mình, thậm chí có một số bạn cũng nhờ mình làm mentor giúp các bạn học và thi các chứng chỉ PMP, PSM, PSPO. Việc giúp đỡ mọi người thực sự mang lại cho mình khá nhiều niềm vui cũng như là cơ hội cho mình trao dồi lại kiến thức đã học. 
+Phải chia sẻ với mọi người 1 điều mình khá bất ngờ đó là từ ngày bắt đầu viết blog, mặc dù chỉ có vài bài viết nhưng cũng có khá nhiều bạn biết đến mình, thậm chí có một số bạn cũng nhờ mình làm mentor giúp các bạn học và thi các chứng chỉ PMP, PSM, PSPO. Việc giúp đỡ mọi người thực sự mang lại cho mình khá nhiều niềm vui cũng như là cơ hội cho mình trao dồi lại kiến thức đã học.
 
 Vì có một số bạn hỏi han về PSM 2 và PSPO 2 nên nhân đây mình cũng chia sẻ lại một số kinh nghiệm của bản thân mình khi pass 2 chứng chỉ trên vào khoảng gần 1 năm trước.
 
@@ -56,6 +56,7 @@ Tương tự PSM2, PSPO2 cũng yêu cầu level advance với nhiều kinh nghi�
 
 ## Một số điểm chung cho cả 2 cert
 
+* Trước khi bắt đầu ôn tập nên tìm kiếm càng nhiều lesson learned càng tốt, tham khảo và tạo plan ôn tập phù hợp với bản thân. 
 * Nên đọc nhiều blog về Scrum trên Scrum.org cũng như Medium. Thực sự có rất nhiều bài blog hay về Scrum, không chỉ giúp bạn hiểu rõ để chuẩn bị tốt hơn cho kỳ thi mà còn giúp bạn trong công việc khá nhiều.
 * Đây là chứng chỉ advanced nên Scrum.org không cung cấp phần open practice như PSM1 hay PSPO1. Nên việc chuẩn bị khá là quan trọng nếu không muốn bị mất tiền.
 * Đọc nhiều lần Scrum Guide rất có lợi. Cứ mỗi lần đọc thì bản thân mình cũng nhận ra thêm nhiều điểm mới hoặc có cái nhìn mới. Ngoài ra trong nhiều tình huống, bám sát vào các giá trị đề cập trong Scrum Guide sẽ giúp bạn chọn được đáp án đúng.
