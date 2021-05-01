@@ -1,12 +1,12 @@
 ---
 layout: post
 comments: 'true'
-published: 'true'
 title: Chia sẻ kinh nghiệm bản thân về PSM2 và PSPO2
 subtitle: Một bài viết khác về Scrum mà mình muốn chia sẻ đến mọi người
 tags:
+- Lessons Learned
 - Scrum
-- Lesson Learned
+published: ''
 
 ---
 Phải chia sẻ với mọi người 1 điều mình khá bất ngờ đó là từ ngày bắt đầu viết blog, mặc dù chỉ có vài bài viết nhưng cũng có khá nhiều bạn biết đến mình, thậm chí có một số bạn cũng nhờ mình làm mentor giúp các bạn học và thi các chứng chỉ PMP, PSM, PSPO. Việc giúp đỡ mọi người thực sự mang lại cho mình khá nhiều niềm vui cũng như là cơ hội cho mình trao dồi lại kiến thức đã học.
