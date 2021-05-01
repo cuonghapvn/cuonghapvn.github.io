@@ -13,6 +13,7 @@ author: Cuong Nguyen
 
 navbar-links:
   Home: "index"
+  Category: "tags"
   About Me: "aboutme"
 #  CV: "cv"
 #  Resources:
