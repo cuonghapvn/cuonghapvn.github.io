@@ -4,10 +4,11 @@ comments: 'true'
 published: 'true'
 title: Những thay đổi giữa Scrum Guide 2017 và Scrum Guide 2020
 subtitle: ''
-tags: []
+tags:
+- Scrum
 
 ---
-Một điều khá bất ngờ khi mình nói chuyện với một số anh em đang dùng Scrum, có chứng chỉ PSM1 nhưng không biết chuyện Scrum Guide đã có version mới 2020. 
+Một điều khá bất ngờ khi mình nói chuyện với một số anh em đang dùng Scrum, có chứng chỉ PSM1 nhưng không biết chuyện Scrum Guide đã có version mới 2020.
 
 Việc Scrum Guide thay đổi mình nghĩ sẽ có nhiều ảnh hưởng đến tất cả mọi người đã, đang và sẽ làm việc với Scrum. Nhân tiện ngày nghỉ lễ Golden Week, mình có ngồi lượm lặt một số thông tin về việc thay đổi của Scrum Guide để chia sẻ lại với mọi người.
 
@@ -66,3 +67,6 @@ Scrum Guide 2020 chú trọng vào việc loại bỏ những câu chữ dư th�
 * Một số bài quiz để verify lại xem bạn đã nắm được nội dung của version 2020:
   * [Webgate](https://www.notion.so/cuonghapvn/Scrum-Guide-2020-So-s-nh-Scrum-guide-2020-v-Scrum-guide-2017-c2a85a434682418cabba3aa47ee71166#5b4eb13056d747a89dff71c2a4d85908)
   * [FlexiQuiz](https://www.notion.so/cuonghapvn/Scrum-Guide-2020-So-s-nh-Scrum-guide-2020-v-Scrum-guide-2017-c2a85a434682418cabba3aa47ee71166#6c0b173e0feb4de6986fc3eb5a836b9d)
+
+{: .box-note}  
+Một số hình ảnh trong blog được lấy từ: [The Liberators](https://medium.com/the-liberators/what-4-key-changes-to-the-scrum-guide-tell-us-about-scrum-3d4e26a8873d)
