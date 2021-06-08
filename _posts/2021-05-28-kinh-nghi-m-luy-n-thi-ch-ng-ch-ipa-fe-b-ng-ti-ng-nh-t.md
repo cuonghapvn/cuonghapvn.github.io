@@ -5,6 +5,7 @@ published: 'true'
 title: Kinh nghiệm luyện thi chứng chỉ IPA FE bằng tiếng Nhật (Update 2021)
 subtitle: "(基本情報技術者試験 - Fundamental Information Technology Engineer Examination)"
 tags:
+- Japan
 - IPA
 - Lessons Learned
 

@@ -5,6 +5,7 @@ published: 'true'
 title: Kinh nghiệm luyện thi chứng chỉ IPA SG bằng tiếng Nhật (Update 2021)
 subtitle: "(情報セキュリティマネジメント試験 - Information Security Management Examination)"
 tags:
+- Japan
 - IPA
 - Lessons Learned
 
