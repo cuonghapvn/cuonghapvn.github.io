@@ -4,7 +4,9 @@ comments: 'true'
 published: 'true'
 title: 'Decision Making: Giới thiệu về Cynefin framework'
 subtitle: ''
-tags: []
+tags:
+- Soft-skills
+- Cynefin
 
 ---
 Trong hành trình đọc sách về Scrum của mình thì có một điều làm mình cứ thắc mắc đó là Scrum được dùng để giải quyết các vấn đề phức tạp (complex problems). Vậy thì, làm sao để biết được dự án/sản phẩm như thế nào được coi là phức tạp để áp dụng Scrum? Những vấn đề không phức tạp thì mình sẽ làm như thế nào?
@@ -72,12 +74,18 @@ Scrum được sử dụng để giải quyết các vấn đề thuộc khu v�
 
 ### 4. Chaotic: Domain of Rapid Response
 
-Khi mà mọi thứ không nằm trong kiểm soát, tình huống rơi vào khu vực Hỗn loạn. Đó là khi nguyên nhân và kết quả không theo một mối quan hệ rõ ràng nào.
+Trong những vấn đề thuộc khu vực "hỗn loạn", không tồn tại mối quan hệ nào giữa nguyên nhân và kết quả, mọi thứ không nằm trong tầm kiểm soát, vì vậy mục tiêu của chúng ta là cố gắng thiết lập trật tự và ổn định tình hình trước. Các tình huống khủng hoảng và khẩn cấp thường rơi vào khu vực này. 
 
-Ở đây, **điều đầu tiên chúng ta cần đó là thiết lập một sự ổn định để gói gọn tình huống**. Chỉ khi đó chúng ta mới bắt đầu điều tra khảo sát vấn đề và đưa tình huống về khu vực số 3 – Complex.
+Cách xử lý cho trường hợp này đó là: _act–sense–respond_
 
-khu vực hỗn loạn cũng đưa đến một cơ hội cho những cách giải quyết mới lạ vì chúng ta có thể có cách nhìn cởi mở hơn trong tình huống này.
+* hành động (_act_)
+* tìm hiểu vấn đề (_sense_)
+* phản ứng (_respond)_
 
-### Disorder
+### 5. Disorder
 
-Nếu bạn không biết mình đang ở trong tình huống hay khu vực nào, bạn đang ở trong khu vực không theo trật tự. Mục tiêu của chúng ta ở đây đó là **nhanh chóng tìm ra khu vực mà bạn đang rơi vào và tiếp tục giải quyết từ đó**. Chúng ta cũng có thể chia vấn đề ra thành những phần nhỏ và phân loại chúng vào từng khu vực cụ thể.
+Đây là khu vực mà chúng ta không phân biệt được rõ ràng tình huống chúng ta gặp phải là nằm ở khu vực nào ở trên. Mục tiêu chính khi đối diện với tình huống này đó là sử dụng kinh nghiệm, kỹ năng giải quyết vấn đề để thu thập thông tin, phán đoán và đưa vấn đề của chúng ta về khu vực thích hợp. Sau đó, chúng ta sẽ bắt đầu xử lý vấn đề theo cách của từng khu vực.
+
+### Summary
+
+Hi vọng qua bài viết này, bạn biết thêm một kỹ thuật để hỗ trợ trong quá trình ra quyết định. Lần tới, khi gặp vấn đề, hãy nhớ đến Cynefin framework và cố gắng thực hành trong thực tế nhé. Nhắm đến mục tiêu là phân loại vấn đề một cách chính xác, sử dụng phương pháp hiệu quả để xử lý thông tin và giải quyết vấn đề.
