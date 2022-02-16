@@ -10,13 +10,9 @@ tags:
 - Lessons Learned
 
 ---
-### {: .box-warning}  
-Update 2022
-
-* Lệ phí thi thay đổi từ 5700円　➡　7500円
-
-
-* Kỳ thi sẽ được tổ chức theo timeline như sau
+{: .box-warning}  
+Update 2022  
+\- Lệ phí thi thay đổi từ 5700円　➡　7500円
 
 ***
 
