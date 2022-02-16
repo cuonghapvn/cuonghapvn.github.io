@@ -10,6 +10,16 @@ tags:
 - Lessons Learned
 
 ---
+### {: .box-warning}  
+Update 2022
+
+* Lệ phí thi thay đổi từ 5700円　➡　7500円
+
+
+* Kỳ thi sẽ được tổ chức theo timeline như sau
+
+***
+
 Thời gian trước, trong quá trình chuẩn bị xin visa Kodo (visa nhân lực chất lượng cao) thì mình có ôn tập và thi 2 chứng chỉ là SG và FE của IPA. Mình xin chia sẻ một số kinh nghiệm 2 chứng chỉ này như sau.
 
 ### Giới thiệu về chứng chỉ FE
@@ -115,17 +125,17 @@ Việc đăng ký dự thi thì cũng khá đơn giản, sử dụng hệ thốn
 
 ### Tổng kết
 
-Thực sự mà nói thì quá trình chuẩn bị cho FE cũng khá vất vả do phải thi bằng tiếng Nhật, tuy nhiên những kiến thức đạt được trong quá trình chuẩn bị cũng giúp ích cho mình khá nhiều trong công việc. 
+Thực sự mà nói thì quá trình chuẩn bị cho FE cũng khá vất vả do phải thi bằng tiếng Nhật, tuy nhiên những kiến thức đạt được trong quá trình chuẩn bị cũng giúp ích cho mình khá nhiều trong công việc.
 
 Kết quả thi của mình là
 
 * 午前：９１％
 * 午後：
-  *  セキュ：１００％
-  *  選択１：１００％
-  *  選択２：１００％
-  *  アルゴ：１００％
-  *  言語（Java）：８８％
+  * セキュ：１００％
+  * 選択１：１００％
+  * 選択２：１００％
+  * アルゴ：１００％
+  * 言語（Java）：８８％
 
 Hi vọng bài viết này giúp ích được cho các bạn trong quá trình ôn tập.
 
