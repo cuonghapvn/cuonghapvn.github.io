@@ -45,12 +45,12 @@ Cập nhật lại vào ngày 23/7/2020
 
 * [Scrum Guide](https://scrumguides.org/scrum-guide.html): đọc lại 1 lần Scrum Guide từ view của một PO để có một cái nhìn khác về nội dung của Guide.
   * Re-ordered Scrum Guide:
-* [Evidence-Based Management](https://www.scrum.org/resources/evidence-based-management): 
+* [Evidence-Based Management](https://www.scrum.org/resources/evidence-based-management):
   * PO là người chịu trách nhiệm cuối cùng về sản phẩm, và một trong những nội dung giúp bạn hiểu về cách PO control được giá trị của sản phẩm chính là EBM.
   * Thực tế thì trong đề cũng có kha khá câu hỏi về EBM.
-* [Nexus Guide](https://www.scrum.org/resources/online-nexus-guide): 
+* [Nexus Guide](https://www.scrum.org/resources/online-nexus-guide):
   * Thực sự thì có đâu đó 5-10% số câu hỏi về trường hơp có nhiều development team, Nexus guide sẽ giúp clear hơn cách xử lý khi làm việc với nhiều team.
-* [Course về PSPO trên Volkerdon](https://www.volkerdon.com/courses/take/pspo1/texts/6549713-what-is-scrum): 
+* [Course về PSPO trên Volkerdon](https://www.volkerdon.com/courses/take/pspo1/texts/6549713-what-is-scrum):
   * khóa học free này sẽ cung cấp cho bạn nhiều kiến thức có giá trị đối với việc học ôn PSPO.
 * [Scrum Glossary](https://www.scrum.org/Resources/Scrum-Glossary): Các thuật ngữ strong Scrum
 * Các [Key Focus Area](https://www.scrum.org/professional-scrum-competencies) chính của PSPO:
@@ -113,3 +113,7 @@ Về thời gian để chuẩn bị thì sẽ phụ thuộc vào từng người
 
 {: .box-note}  
 Trong quá trình chuẩn bị, nếu có gặp khó khăn gì thì hãy cứ liên lạc cho mình. Mình sẽ cố gắng giải đáp các thắc mắc của các bạn.
+
+#### Bài viết có tham khảo từ:
+
+* [Mình hoàn thành chứng chỉ PSM 1 và PSPO 1 như thế nào?](https://luongnotes.com/2019/12/15/minh-hoan-thanh-chung-chi-psm-1-va-pspo-1-nhu-the-nao/ "Mình hoàn thành chứng chỉ PSM 1 và PSPO 1 như thế nào?")

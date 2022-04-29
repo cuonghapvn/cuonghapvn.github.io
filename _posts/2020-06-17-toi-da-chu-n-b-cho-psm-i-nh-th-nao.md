@@ -11,8 +11,6 @@ comments: 'true'
 ### Scrum là gì? Scrum Master là ai?
 
 * **Scrum** là một khung làm việc (framework) để phát triển bền vững các sản phẩm phức tạp. Có thể hiểu đây là khung tổ chức công việc tổng quát hướng đến mục đích phát triển các sản phẩm phức tạp, chủ yếu là các sản phẩm phần mềm.
-
-
 * **Scrum Master:** Là người có hiểu biết sâu sắc về Scrum, đảm bảo và tạo điều kiện để team có thể làm việc hiệu quả với Scrum. Ngoài ra, Scrum Master giúp những người ngoài Scrum Team hiểu rõ hơn về đặc thù, tính chất của Scrum, bảo vệ Scrum Team khỏi những tác động từ bên ngoài, nhất là trong môi trường, tổ chức mà Scrum chưa được triển khai triệt để.
 
 ![](/uploads/20200617-b32b7985-7e65-4b0d-b555-8d6d26da6157.png)
@@ -87,3 +85,7 @@ Chinh phục được một chứng chỉ là một kết quả đáng tự hào
 
 {: .box-note}  
 Trong quá trình chuẩn bị, nếu có gặp khó khăn gì thì hãy cứ liên lạc cho mình. Mình sẽ cố gắng giải đáp các thắc mắc của các bạn.
+
+#### Bài viết có tham khảo từ:
+
+* [Mình hoàn thành chứng chỉ PSM 1 và PSPO 1 như thế nào?](https://luongnotes.com/2019/12/15/minh-hoan-thanh-chung-chi-psm-1-va-pspo-1-nhu-the-nao/ "Mình hoàn thành chứng chỉ PSM 1 và PSPO 1 như thế nào?")
