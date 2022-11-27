@@ -43,7 +43,7 @@ Cần đảm bảo 3 điều kiện dưới đây:
 
 ### Các trường hợp ngoại lệ
 
-1. Vợ/chồng của người Nhật hoặc người có visa vĩnh trú: Kết hôn trên 3 năm và lưu trú liên tục tại Nhật 1 năm trở lên
+1. Vợ/chồng của người Nhật hoặc người có visa vĩnh trú: Kết hôn trên 3 năm và lưu trú liên tục tại Nhật 1 năm trở lên. **=> Lưu ý là nếu chồng đủ điều kiện xin vĩnh trú, vợ cũng đủ yêu cầu kết hôn và lưu trú thì có thể cùng lúc xin vĩnh trú cho cả gia đình mà không cần xin riêng lẻ từng người.**
 2. Con đẻ của người Nhật hoặc người có visa vĩnh trú: Lưu trú liên tục tại Nhật 1 năm trở lên
 3. Người có visa định trú (定住者): Lưu trú liên tục tại Nhật 5 năm trở lên
 4. Người tị nạn được chấp nhận (難民の認定を受けた者): Lưu trú liên tục tại Nhật 5 năm trở lên
@@ -80,6 +80,7 @@ Với tư cách lưu trú 家族滞在 hoặc 日本人・永住者の配偶者/
 * Giấy chứng nhận đăng ký kết hôn (婚姻証明書) 1 bản
 * Giấy chứng nhận tương đương khác
 
+{: .box-warning}  
 **※Trường hợp tư cách lưu trú không phải 家族滞在 hoặc 日本人・永住者の配偶者/子 nhưng đăng ký cho cả gia đình thì cũng cần phải nộp**
 
 #### **⑥** **Giấy tờ chứng minh công việc**
