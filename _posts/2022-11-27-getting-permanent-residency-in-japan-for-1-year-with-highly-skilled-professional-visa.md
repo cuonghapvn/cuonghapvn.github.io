@@ -50,7 +50,7 @@ Cần đảm bảo 3 điều kiện dưới đây:
 5. Người có cống hiến với Nhật Bản (我が国への貢献がある者): Lưu trú liên tục tại Nhật 5 năm trở lên
 6. Nhân lực chất lượng cao có tổng số điểm xét theo bảng 高度専門職ポイント
    * 70 điểm trở lên：giữ được 70 điểm trong 3 năm liên tục tính ngược trở lại từ thời điểm đăng ký
-   * 80 điểm trở lên：giữ được 80 điểm trong 1 năm liên tục tính ngược trở lại từ thời điểm đăng ký
+   * **80 điểm trở lên：giữ được 80 điểm trong 1 năm liên tục tính ngược trở lại từ thời điểm đăng ký　➡ mình nộp hồ sơ vĩnh trú theo diện này**
 
 ## Hồ sơ cần chuẩn bị
 
