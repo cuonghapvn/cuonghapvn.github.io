@@ -2,9 +2,12 @@
 layout: post
 comments: 'true'
 published: 'true'
-title: Lấy vĩnh trú Nhật Bản chỉ sau 1 năm thông qua visa HSP
-subtitle: ''
-tags: []
+title: Lấy vĩnh trú Nhật Bản chỉ sau 1 năm thông qua visa kodo (chất lượng cao - HSP)
+subtitle: Chính phủ Nhật ưu tiên rút ngắn thời gian lấy PR đối với người có visa HSP,
+  trong bài viết này mình sẽ chia sẻ lại kinh nghiệm của bản thân
+tags:
+- Visa
+- Japan
 
 ---
 Chào mọi người, tình hình là mình mới nhận được vĩnh trú (permanent residency - PR) nên muốn viết 1 bài viết chia sẻ thêm về quá trình đăng ký cho đến lúc nhận được PR của mình.
