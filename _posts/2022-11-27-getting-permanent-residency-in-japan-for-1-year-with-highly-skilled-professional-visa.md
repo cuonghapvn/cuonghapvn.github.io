@@ -140,7 +140,8 @@ Nếu người bảo lãnh không muốn lộ thông tin cá nhân như thu nh�
 ##### (2) **国税の納税 証明書** được phát hành tại **税務署** nơi sinh sống: Mục đích là chứng minh không có nợ thuế
 
 * Có thể xin online bằng My Number được [https://www.e-tax.nta.go.jp/](https://www.e-tax.nta.go.jp/ "https://www.e-tax.nta.go.jp/") (nhớ chọn phát hành bằng PDF, sau đó có thể tự download về và in ra)
-  * Sample
+
+  ![](/uploads/20221127-sample-chung-nhan-thue.jpg)
 * Loại giấy chứng nhận là **納税証明書（その３）**, trong đó chọn đủ 5 mục bên dưới
   * **源泉所得税及び復興特別所得税**
   * **申告所得税及び復興特別所得税**
