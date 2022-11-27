@@ -130,6 +130,12 @@ Nếu người bảo lãnh không muốn lộ thông tin cá nhân như thu nh�
 * Với người đã tư cách lưu trú 高度人材外国人 70 điểm được trên 3 năm hoặc chưa có 高度人材 nhưng tính được 70 điểm trên 3 năm , cần chuẩn bị chứng nhận của **3 năm gần nhất (直近3年分 証明書)**
 * Với người đã tư cách lưu trú 高度人材外国人 80 điểm được trên 1 năm hoặc chưa có 高度人材 nhưng tính được 80 điểm trên 1 năm , cần chuẩn bị chứng nhận của **1 năm gần nhất (直近1年分 証明書)**
 
+Có lẽ đây là mục tốn thời gian nhất đối, nếu mọi người chuyển nhà thường xuyên thì việc xin các giấy tờ này sẽ càng vất vả hơn nữa.
+
+* Nếu chỉ ở tại 1 nơi cư trú => chỉ cần my number là có thể in ở combini lúc nào cũng được
+* Nếu đã từng ở nhiều nơi, cần xác định từng thời điểm ngày 1/1 của mỗi năm thì cư trú ở đâu, và xin giấy xác nhận ở từng nơi tương ứng. 
+* Trước khi chuyển lên Tokyo thì mình chỉ ở Osaka nên việc xin giấy tờ cũng đơn giản. Osaka có triển khai hệ thống dịch vụ hành chính online nên mình dùng thông qua hệ thống này cho tiện: [https://lgpos.task-asp.net/cu/271004/ea/residents/portal/home](https://lgpos.task-asp.net/cu/271004/ea/residents/portal/home "https://lgpos.task-asp.net/cu/271004/ea/residents/portal/home")
+
 ##### (2) **国税の納税 証明書** được phát hành tại **税務署** nơi sinh sống: Mục đích là chứng minh không có nợ thuế
 
 * Có thể xin online bằng My Number được [https://www.e-tax.nta.go.jp/](https://www.e-tax.nta.go.jp/ "https://www.e-tax.nta.go.jp/") (nhớ chọn phát hành bằng PDF, sau đó có thể tự download về và in ra)
