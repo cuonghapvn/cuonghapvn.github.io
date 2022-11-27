@@ -60,7 +60,7 @@ Cần đảm bảo 3 điều kiện dưới đây:
 * Sample:
   * [https://common-s.jp/eijuusample1.html](https://common-s.jp/eijuusample1.html "https://common-s.jp/eijuusample1.html")
 
-  [永住許可申請_Sample.xls](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49fd29d5-cf77-4746-9e54-98fa351c32d5/%E6%B0%B8%E4%BD%8F%E8%A8%B1%E5%8F%AF%E7%94%B3%E8%AB%8B_Sample.xls)
+  [永住許可申請_Sample.xls](https://www.cuongn.com/uploads/docs/永住許可申請_Sample.xls "永住許可申請_Sample.xls")
 
 #### **②** **Ảnh 3x4** (chụp trong 3 tháng gần nhất, ghi tên phía sau, trẻ dưới 16 tuổi không cần)
 
@@ -68,7 +68,7 @@ Cần đảm bảo 3 điều kiện dưới đây:
 
 * Sample:
 
-  [永住申請理由.docx](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1d032e16-d0f8-4bc5-93eb-dfcf927b84bd/%E6%B0%B8%E4%BD%8F%E7%94%B3%E8%AB%8B%E7%90%86%E7%94%B1.docx)
+  [永住申請理由_sample.docx](https://www.cuongn.com/uploads/docs/永住申請理由_sample.docx "永住申請理由_sample.docx")
 
 #### **④** **Giấy chứng nhận công dân cả gia đình** (住民票, 個人番号省略）
 
