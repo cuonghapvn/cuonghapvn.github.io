@@ -76,31 +76,24 @@ Cần đảm bảo 3 điều kiện dưới đây:
 
 Với tư cách lưu trú 家族滞在 hoặc 日本人・永住者の配偶者/子: cần một trong những hồ sơ dưới đây
 
-・ Sổ hộ khẩu (戸籍謄本) 1 bản
-
-・ Giấy chứng sinh (出生証明書) 1 bản
-
-・ Giấy chứng nhận đăng ký kết hôn (婚姻証明書) 1 bản
-
-・ Giấy chứng nhận tương đương khác
+* Sổ hộ khẩu (戸籍謄本) 1 bản
+* Giấy chứng sinh (出生証明書) 1 bản
+* Giấy chứng nhận đăng ký kết hôn (婚姻証明書) 1 bản
+* Giấy chứng nhận tương đương khác
 
 **※Trường hợp tư cách lưu trú không phải 家族滞在 hoặc 日本人・永住者の配偶者/子 nhưng đăng ký cho cả gia đình thì cũng cần phải nộp**
 
 #### **⑥** **Giấy tờ chứng minh công việc**
 
-・ Nếu là NHÂN VIÊN CÔNG TY, cần Giấy chứng nhận nhân viên (在職証明書).
-
-・ Nếu là NGƯỜI KINH DOANH, cần Bản sao giấy khai thuế (確定申告書控えの写し) hoặc Bản sao giấy chứng nhận kinh doanh, nếu có (営業許可書の写し）
-
-・ TRƯỜNG HỢP KHÁC, cần Bản tường trình trong trường hợp không có việc, mẫu tự do (無職の場合、説明書)
+* Nếu là NHÂN VIÊN CÔNG TY, cần Giấy chứng nhận nhân viên (在職証明書).
+* Nếu là NGƯỜI KINH DOANH, cần Bản sao giấy khai thuế (確定申告書控えの写し) hoặc Bản sao giấy chứng nhận kinh doanh, nếu có (営業許可書の写し）
+* TRƯỜNG HỢP KHÁC, cần Bản tường trình trong trường hợp không có việc, mẫu tự do (無職の場合、説明書)
 
 #### **⑦** **Tài liệu chứng minh tài sản hiện có** (資産を証明する資料), một trong những tài liệu dưới đây
 
-(1) Bản sao sổ ngân hàng tiết kiệm 預貯金通帳の写し
-
-(2) Giấy tờ nhà đất đang sở hữu (nếu có) 不動産の登記事項証明書
-
-(3) Các giấy tờ chứng nhận tương đương (1) và (2)
+1. Bản sao sổ ngân hàng tiết kiệm 預貯金通帳の写し
+2. Giấy tờ nhà đất đang sở hữu (nếu có) 不動産の登記事項証明書
+3. Các giấy tờ chứng nhận tương đương (1) và (2)
 
 #### **⑧** **Passport bản gốc** (để đối chiếu)
 
@@ -108,17 +101,17 @@ Với tư cách lưu trú 家族滞在 hoặc 日本人・永住者の配偶者/
 
 #### **⑩** **Giấy tờ liên quan người bảo lãnh**
 
-(1) Giấy chứng nhận bảo lãnh 身元保証書. Cần được đóng dấu hoặc ký tên: [https://www.moj.go.jp/isa/content/930002536.pdf](https://www.moj.go.jp/isa/content/930002536.pdf "https://www.moj.go.jp/isa/content/930002536.pdf")
+##### (1) Giấy chứng nhận bảo lãnh 身元保証書. 
 
-(2) Các giấy tờ liên quan tới người bảo lãnh 身元保証人に係る次の資料
+Cần được đóng dấu hoặc ký tên: [https://www.moj.go.jp/isa/content/930002536.pdf](https://www.moj.go.jp/isa/content/930002536.pdf "https://www.moj.go.jp/isa/content/930002536.pdf")
 
-a Giấy chứng nhận nhân viên 職業を証明する資料
+##### (2) Các giấy tờ liên quan tới người bảo lãnh 身元保証人に係る次の資料
 
-b Giấy chứng nhận thu nhập của 1 năm gần nhất直近（過去１年分）の課税・納税証明書, 源泉徴収票
+1. Giấy chứng nhận nhân viên 職業を証明する資料
+2. Giấy chứng nhận thu nhập của 1 năm gần nhất直近（過去１年分）の課税・納税証明書, 源泉徴収票
+3. Giấy chứng nhận công dân 住民票
 
-c Giấy chứng nhận công dân 住民票
-
-(3) Người bảo lãnh nên là người Nhật hay có vĩnh trú
+##### (3) Người bảo lãnh nên là người Nhật hay có vĩnh trú
 
 {: .box-warning}  
 Từ 2022, 身元保証書 đã thay đổi format nên cần chú ý dùng format mới nhất để đảm bảo không có rắc rối khi nộp hồ sơ.
@@ -148,9 +141,9 @@ Nếu người bảo lãnh không muốn lộ thông tin cá nhân như thu nh�
   * **消費税及び地方消費税**
   * **相続税**
   * **贈与税**
-* **NOTE:**Vui lòng kiểm tra thông tin trên chứng nhận, nếu có thắc mắc (đóng thiếu, v.v.) cần xác nhận lại với 市区町村・税務署. Nếu không phát hành được, đến Cơ quan QLXNC và cư trú gần nhất thảo luận
+* **NOTE:** Vui lòng kiểm tra thông tin trên chứng nhận, nếu có thắc mắc (đóng thiếu, v.v.) cần xác nhận lại với 市区町村・税務署. Nếu không phát hành được, đến Cơ quan QLXNC và cư trú gần nhất thảo luận
 
-(3) その他 Giấy chứng nhận thu nhập
+##### (3) その他 Giấy chứng nhận thu nhập
 
 * Bản copy sổ tiết kiệm hoặc giấy tờ tương đương
 * Có thể in từ sổ tiết kiệm điện tử (**Web通帳の画面)** cũng không có vấn đề gì
@@ -173,13 +166,13 @@ Nếu người bảo lãnh không muốn lộ thông tin cá nhân như thu nh�
 
 Hồ sơ này chỉ dành cho những người chuyển đổi vĩnh trú từ nhân lực chất lượng caoLink tham khảo về hồ sơ nhân lực chất lượng cao: [https://www.moj.go.jp/isa/publications/materials/newimmiact_3_index.html](https://www.moj.go.jp/isa/publications/materials/newimmiact_3_index.html "https://www.moj.go.jp/isa/publications/materials/newimmiact_3_index.html")
 
-(1) Với người đã tư cách lưu trú 高度人材外国人 70 điểm giữ được điểm liên tục trên 3 năm hoặc 80 điểm giữ được điểm liên tục trên 1 năm
+##### (1) Với người đã tư cách lưu trú 高度人材外国人 70 điểm giữ được điểm liên tục trên 3 năm hoặc 80 điểm giữ được điểm liên tục trên 1 năm
 
 * Bảng tính điểm tại thời điểm hiện tại
 * 在留資格「高度専門職」に係る計算結果通知書, nhận được khi nhận thẻ cư trú với tư cách 高度人材外国人
 * Nếu không nộp được chứng nhận trên, cần nộp thêm bảng tính điểm tại thời điểm 3 năm trước/1 năm trước
 
-(2) Với người chưa có tư cách lưu trú 高度人材外国人, nhưng tính được 70 điểm và đã giữ được điểm liên tục trên 3 năm hoặc tính được 80 điểm và đã giữ được điểm liên tục trên 1 năm
+##### (2) Với người chưa có tư cách lưu trú 高度人材外国人, nhưng tính được 70 điểm và đã giữ được điểm liên tục trên 3 năm hoặc tính được 80 điểm và đã giữ được điểm liên tục trên 1 năm
 
 * Bảng tính điểm tại thời điểm hiện tại
 * Bảng tính điểm tại thời điểm 3 năm trước/1 năm trước
