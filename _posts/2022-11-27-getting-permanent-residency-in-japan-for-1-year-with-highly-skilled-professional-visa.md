@@ -81,7 +81,7 @@ Với tư cách lưu trú 家族滞在 hoặc 日本人・永住者の配偶者/
 * Giấy chứng nhận tương đương khác
 
 {: .box-warning}  
-**※Trường hợp tư cách lưu trú không phải 家族滞在 hoặc 日本人・永住者の配偶者/子 nhưng đăng ký cho cả gia đình thì cũng cần phải nộp**
+**※Trường hợp tư cách lưu trú không phải 家族滞在 hoặc 日本人・永住者の配偶者/子 nhưng đăng ký cho cả gia đình thì cũng cần phải nộp giấy chứng minh mối quan hệ này.**
 
 #### **⑥** **Giấy tờ chứng minh công việc**
 
