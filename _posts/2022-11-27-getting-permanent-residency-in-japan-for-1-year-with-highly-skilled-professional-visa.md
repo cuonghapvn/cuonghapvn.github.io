@@ -174,52 +174,38 @@ Nếu người bảo lãnh không muốn lộ thông tin cá nhân như thu nh�
 
 #### **⑭** **Bảng tính điểm nhân lực chất lượng cao** 高度専門職ポイント計算表等
 
-* Hồ sơ này chỉ dành cho những người chuyển đổi vĩnh trú từ nhân lực chất lượng caoLink tham khảo về hồ sơ nhân lực chất lượng cao: [https://www.moj.go.jp/isa/publications/materials/newimmiact_3_index.html](https://www.moj.go.jp/isa/publications/materials/newimmiact_3_index.html "https://www.moj.go.jp/isa/publications/materials/newimmiact_3_index.html")
+Hồ sơ này chỉ dành cho những người chuyển đổi vĩnh trú từ nhân lực chất lượng caoLink tham khảo về hồ sơ nhân lực chất lượng cao: [https://www.moj.go.jp/isa/publications/materials/newimmiact_3_index.html](https://www.moj.go.jp/isa/publications/materials/newimmiact_3_index.html "https://www.moj.go.jp/isa/publications/materials/newimmiact_3_index.html")
 
 (1) Với người đã tư cách lưu trú 高度人材外国人 70 điểm giữ được điểm liên tục trên 3 năm hoặc 80 điểm giữ được điểm liên tục trên 1 năm
 
-・ Bảng tính điểm tại thời điểm hiện tại
-
-・ 在留資格「高度専門職」に係る計算結果通知書, nhận được khi nhận thẻ cư trú với tư cách 高度人材外国人
-
-・ Nếu không nộp được chứng nhận trên, cần nộp thêm bảng tính điểm tại thời điểm 3 năm trước/1 năm trước
+* Bảng tính điểm tại thời điểm hiện tại
+* 在留資格「高度専門職」に係る計算結果通知書, nhận được khi nhận thẻ cư trú với tư cách 高度人材外国人
+* Nếu không nộp được chứng nhận trên, cần nộp thêm bảng tính điểm tại thời điểm 3 năm trước/1 năm trước
 
 (2) Với người chưa có tư cách lưu trú 高度人材外国人, nhưng tính được 70 điểm và đã giữ được điểm liên tục trên 3 năm hoặc tính được 80 điểm và đã giữ được điểm liên tục trên 1 năm
 
-・ Bảng tính điểm tại thời điểm hiện tại
+* Bảng tính điểm tại thời điểm hiện tại
+* Bảng tính điểm tại thời điểm 3 năm trước/1 năm trước
 
-・ Bảng tính điểm tại thời điểm 3 năm trước/1 năm trước
-
-#### ⑮ **Hồ sơ chứng minh các mục trong bảng tính điểm tại mục ⑭**
-
-ポイント計算の各項目に関する疎明資料
+#### ⑮ **Hồ sơ chứng minh các mục trong bảng tính điểm tại mục ⑭**ポイント計算の各項目に関する疎明資料
 
 * Hồ sơ này chỉ dành cho những người chuyển đổi vĩnh trú từ nhân lực chất lượng cao
 * **NOTE:**
-
-・ Nếu nộp 在留資格「高度専門職」に係る計算結果通知書, không cần nộp các hồ sơ chứng minh điểm tại thời điểm tương ứng, hoặc
-
-・ Nếu muốn sử dụng lại hồ sơ đã từng nộp, hãy nộp 資料転用願出書.
-
-Mẫu 願出書 download tại link: [http://www.moj.go.jp/isa/applications/procedures/16-4.html](http://www.moj.go.jp/isa/applications/procedures/16-4.html "http://www.moj.go.jp/isa/applications/procedures/16-4.html")
+  * Nếu nộp 在留資格「高度専門職」に係る計算結果通知書, không cần nộp các hồ sơ chứng minh điểm tại thời điểm tương ứng, hoặc
+  * Nếu muốn sử dụng lại hồ sơ đã từng nộp, hãy nộp 資料転用願出書.
+  * Mẫu 願出書 download tại link: [http://www.moj.go.jp/isa/applications/procedures/16-4.html](http://www.moj.go.jp/isa/applications/procedures/16-4.html "http://www.moj.go.jp/isa/applications/procedures/16-4.html")
 
 ## Các lý do trượt thường gặp
 
-① Không đủ điều kiện về số năm (liên tục 10 năm ở Nhật; ít nhất 5 năm visa lao động)
+1. Không đủ điều kiện về số năm (liên tục 10 năm ở Nhật; ít nhất 5 năm visa lao động)
+2. Thường xuyên sống ở nước ngoài (trên 180 ngày) ➞ Rời Nhật do công việc (vẫn đóng thuế ở Nhật): kèm theo giải thích
+3. Thu nhập dưới 300 man/năm
+4. Số lượng người phụ thuộc nhiều
+5. Vợ/chồng không nộp đầy đủ Thuế, Bảo hiểm y tế, Bảo hiểm hưu
+6. Visa phụ thuộc làm vượt hơn 28h/tuần
+7. Thông tin không thống nhất với các hồ sơ đã nộp trước đây
 
-② Thường xuyên sống ở nước ngoài (trên 180 ngày) ➞ Rời Nhật do công việc (vẫn đóng thuế ở Nhật): kèm theo giải thích
-
-③ Thu nhập dưới 300 man/năm
-
-④ Số lượng người phụ thuộc nhiều
-
-⑤ Vợ/chồng không nộp đầy đủ Thuế, Bảo hiểm y tế, Bảo hiểm hưu
-
-⑥ Visa phụ thuộc làm vượt hơn 28h/tuần
-
-⑦ Thông tin không thống nhất với các hồ sơ đã nộp trước đây
-
-* Anh/chị tham khảo URL dưới đây để biết thêm thông tin chi tiết! [https://www.moj.go.jp/isa/applications/procedures/16-4.html](https://www.moj.go.jp/isa/applications/procedures/16-4.html "https://www.moj.go.jp/isa/applications/procedures/16-4.html")
+   Tham khảo thêm ở đây: [https://www.moj.go.jp/isa/applications/procedures/16-4.html](https://www.moj.go.jp/isa/applications/procedures/16-4.html "https://www.moj.go.jp/isa/applications/procedures/16-4.html")
 
 ## Nơi nộp hồ sơ
 
