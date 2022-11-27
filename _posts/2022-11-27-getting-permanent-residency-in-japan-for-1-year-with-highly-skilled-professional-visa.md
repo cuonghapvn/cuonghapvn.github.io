@@ -60,15 +60,14 @@ Cần đảm bảo 3 điều kiện dưới đây:
 * Sample:
   * [https://common-s.jp/eijuusample1.html](https://common-s.jp/eijuusample1.html "https://common-s.jp/eijuusample1.html")
 
-  [永住許可申請_Sample.xls](https://www.cuongn.com/uploads/docs/永住許可申請_Sample.xls "永住許可申請_Sample.xls")
+
+  * [永住許可申請_Sample.xls](https://www.cuongn.com/uploads/docs/永住許可申請_Sample.xls "永住許可申請_Sample.xls")
 
 #### **②** **Ảnh 3x4** (chụp trong 3 tháng gần nhất, ghi tên phía sau, trẻ dưới 16 tuổi không cần)
 
 #### **③** **Lý do xin vĩnh trú bằng tiếng Nhật** (Form tự do)
 
-* Sample:
-
-  [永住申請理由_sample.docx](https://www.cuongn.com/uploads/docs/永住申請理由_sample.docx "永住申請理由_sample.docx")
+* Sample: [永住申請理由_sample.docx](https://www.cuongn.com/uploads/docs/永住申請理由_sample.docx "永住申請理由_sample.docx")
 
 #### **④** **Giấy chứng nhận công dân cả gia đình** (住民票, 個人番号省略）
 
@@ -101,7 +100,7 @@ Với tư cách lưu trú 家族滞在 hoặc 日本人・永住者の配偶者/
 
 #### **⑩** **Giấy tờ liên quan người bảo lãnh**
 
-##### (1) Giấy chứng nhận bảo lãnh 身元保証書. 
+##### (1) Giấy chứng nhận bảo lãnh 身元保証書.
 
 Cần được đóng dấu hoặc ký tên: [https://www.moj.go.jp/isa/content/930002536.pdf](https://www.moj.go.jp/isa/content/930002536.pdf "https://www.moj.go.jp/isa/content/930002536.pdf")
 
