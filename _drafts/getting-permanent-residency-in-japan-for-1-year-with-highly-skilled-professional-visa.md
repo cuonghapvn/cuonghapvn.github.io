@@ -13,7 +13,7 @@ Bài viết dự kiến sẽ khá dài, mình sẽ chia sẻ lại một cách c
 
 ## Vĩnh trú là gì? Vì sao cần xin vĩnh trú?
 
-Đầu tiên thì vĩnh trú là 1 loại visa hoặc gọi là tư cách lưu trú mà người sở hữu được chính quyền Nhật cho phép lưu trú tại Nhật vĩnh viễn mà không cần gia hạn lại định kỳ như các loại visa khác. 
+Đầu tiên thì vĩnh trú là 1 loại visa hoặc gọi là tư cách lưu trú mà người sở hữu được chính quyền Nhật cho phép lưu trú tại Nhật vĩnh viễn mà không cần gia hạn lại định kỳ như các loại visa khác.
 
 Ưu điểm của vĩnh trú nếu muốn định cư lâu dài tại Nhật có thể kể đến như bên dưới:
 
@@ -105,7 +105,7 @@ Với tư cách lưu trú 家族滞在 hoặc 日本人・永住者の配偶者/
 
 #### **⑩** **Giấy tờ liên quan người bảo lãnh**
 
-(1) Giấy chứng nhận bảo lãnh身元保証書. Cần được đóng dấu hoặc ký tên: [https://www.moj.go.jp/isa/content/930002536.pdf](https://www.moj.go.jp/isa/content/930002536.pdf "https://www.moj.go.jp/isa/content/930002536.pdf")
+(1) Giấy chứng nhận bảo lãnh 身元保証書. Cần được đóng dấu hoặc ký tên: [https://www.moj.go.jp/isa/content/930002536.pdf](https://www.moj.go.jp/isa/content/930002536.pdf "https://www.moj.go.jp/isa/content/930002536.pdf")
 
 (2) Các giấy tờ liên quan tới người bảo lãnh 身元保証人に係る次の資料
 
@@ -116,6 +116,12 @@ b Giấy chứng nhận thu nhập của 1 năm gần nhất直近（過去１�
 c Giấy chứng nhận công dân 住民票
 
 (3) Người bảo lãnh nên là người Nhật hay có vĩnh trú
+
+{: .box-warning}  
+Từ 2022, 身元保証書 đã thay đổi format nên cần chú ý dùng format mới nhất để đảm bảo không có rắc rối khi nộp hồ sơ.
+
+{: .box-warning}  
+Nếu người bảo lãnh không muốn lộ thông tin cá nhân như thu nhập, thuế... thì bạn có thể nộp trước hồ sơ của bản thân. Khi nộp xong nhân viên ở cục sẽ hướng dẫn kèm với 1 phong bì kèm sẵn mã hồ sơ của bạn. Người bảo lãnh chỉ cần gửi giấy tờ kèm mã hồ sơ của bạn về cục là OK
 
 #### **⑪** **Các giấy tờ khác liên quan tới việc đã cống hiến, đóng góp cho nước Nhật** (我が国への貢献に係る資料) (nếu có)
 
@@ -132,8 +138,6 @@ c Giấy chứng nhận công dân 住民票
 
 * Có thể xin online bằng My Number được [https://www.e-tax.nta.go.jp/](https://www.e-tax.nta.go.jp/ "https://www.e-tax.nta.go.jp/") (nhớ chọn phát hành bằng PDF, sau đó có thể tự download về và in ra)
   * Sample
-
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a751d07-d7c4-44e5-a8f8-dfdfc1e0e484/Untitled.png)
 * Loại giấy chứng nhận là **納税証明書（その３）**, trong đó chọn đủ 5 mục bên dưới
   * **源泉所得税及び復興特別所得税**
   * **申告所得税及び復興特別所得税**
@@ -222,10 +226,20 @@ Nộp tại cục quản lý xuất nhập cảnh gần nhất
 
 ## Thời gian, lệ phí
 
-Theo hướng dẫn của cục thì thời gian trung bình là 4 tháng. Mình cũng nhận được kết quả sau 4 tháng từ lúc nộp hồ sơ. Nhiều trường hợp thời gian có thể ngắn hơn 2-3 tháng (như bạn mình ở Osaka), tuy nhiên phần lớn các anh chị mình biết thì tốn tầm 5 tháng \~ 1 năm mới nhận được kết quả. 
+Theo hướng dẫn của cục thì thời gian trung bình là 4 tháng. Mình cũng nhận được kết quả sau 4 tháng từ lúc nộp hồ sơ. Nhiều trường hợp thời gian có thể ngắn hơn 2-3 tháng (như bạn mình ở Osaka), tuy nhiên phần lớn các anh chị mình biết thì tốn tầm 5 tháng \~ 1 năm mới nhận được kết quả.
 
 Vì thời gian tốn khá lâu nên nếu visa hiện tại hết hạn thì vẫn cần phải chú ý đi gia hạn visa.
 
 Về lệ phí thì việc nộp và xét duyệt hồ sơ là hoàn toàn miễn phí. Nếu có kết quả là nhận được vĩnh trú thì cần mua tem 8000 yên/pax để nhận kết quả tại cục
 
-## 
+## Những điều không đổi dù cho có vĩnh trú
+
+Vĩnh trú có rất nhiều ưu điểm, tuy nhiên bạn vẫn chỉ là người nước ngoài nên những yếu tố bên dưới là không đổi:
+
+* Vẫn phải dùng thẻ 在留カード như những tư cách khác: thẻ này có hạn là 7 năm, sau 7 năm cần đi update 1 lần, tuy nhiên thủ tục đơn giản như đổi bằng lái vậy. Không cần xét duyệt lại hồ sơ
+* Không có quyền bầu cử
+* Khi xuất cảnh vẫn cần xin 再入国許可 hoặc　みなし再入国許可, nếu không sẽ bị mất tư cách lưu trú và phải xin lại từ đầu
+* Vẫn có khả năng bị trục xuất nếu vi phạm pháp luật
+
+{: .box-note}  
+Mình cố viết chi tiết nhất có thể, tuy nhiên nếu có thắc mắc gì thì cứ liên lạc với mình nhé. Sẽ cố gắng chia sẻ những gì mình biết cho mọi người.
