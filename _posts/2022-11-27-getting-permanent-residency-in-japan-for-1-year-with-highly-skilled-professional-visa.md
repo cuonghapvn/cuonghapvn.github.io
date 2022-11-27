@@ -1,13 +1,13 @@
 ---
 layout: post
 comments: 'true'
-published: 'true'
 title: Lấy vĩnh trú Nhật Bản chỉ sau 1 năm thông qua visa kodo (chất lượng cao - HSP)
 subtitle: Chính phủ Nhật ưu tiên rút ngắn thời gian lấy PR đối với người có visa HSP,
   trong bài viết này mình sẽ chia sẻ lại kinh nghiệm của bản thân
 tags:
 - Visa
 - Japan
+published: ''
 
 ---
 Chào mọi người, tình hình là mình mới nhận được vĩnh trú (permanent residency - PR) nên muốn viết 1 bài viết chia sẻ thêm về quá trình đăng ký cho đến lúc nhận được PR của mình.
@@ -162,15 +162,11 @@ Nếu người bảo lãnh không muốn lộ thông tin cá nhân như thu nh�
 * Với người đã tư cách lưu trú 高度人材外国人 80 điểm được trên 1 năm hoặc chưa có 高度人材 nhưng tính được 80 điểm trên 1 năm , cần chuẩn bị chứng nhận của **1 năm gần nhất (直近1年分 証明書)**
 * **NOTE:**
   * **年金 保険料証明書** cần bôi đen số Nenkin
-
-    i. ねんきん定期便 「全期間分（封書）」 hoặc bản in 「各月年金記録」 từ [ねんきんネット](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.nenkin.go.jp%2Fn_net%2Findex.html&h=AT1vvV94eCGo4Ui1gH96Um-f8pLWV7Rq_vx3tDd_D9yTf2dSb75yVsxXYaYA0kICfRmfhyqXA079PMwfsYd8QURJsEJ_vN5HuQRSRkp_inKVpDMNY18MlIvGEpnrruiyCmK4PVq9aK5uaC_3&__tn__=-U-UK-R&c%5B0%5D=AT1M6pSv1-3VpTvVff21TNgtIk9WYRf_QPNw99A28_aANd8IS9UuWv9WzaGbVSaLKqsl1f6CkL1Fa3Kksh8ZkbXaxyY4nuoNnhX9UEWpV39Qtyl2VM-jm3rI5Jk-sZCrcP5GgRBkO1E75RFTNzOilmA6s_VBPAWRo9M)
-
-    ii. Nếu có thắc mắc, liên lạc với 年金事務所 nơi sinh sống trực thuộc
+    * i. ねんきん定期便 「全期間分（封書）」 hoặc bản in 「各月年金記録」 từ [ねんきんネット](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.nenkin.go.jp%2Fn_net%2Findex.html&h=AT1vvV94eCGo4Ui1gH96Um-f8pLWV7Rq_vx3tDd_D9yTf2dSb75yVsxXYaYA0kICfRmfhyqXA079PMwfsYd8QURJsEJ_vN5HuQRSRkp_inKVpDMNY18MlIvGEpnrruiyCmK4PVq9aK5uaC_3&__tn__=-U-UK-R&c%5B0%5D=AT1M6pSv1-3VpTvVff21TNgtIk9WYRf_QPNw99A28_aANd8IS9UuWv9WzaGbVSaLKqsl1f6CkL1Fa3Kksh8ZkbXaxyY4nuoNnhX9UEWpV39Qtyl2VM-jm3rI5Jk-sZCrcP5GgRBkO1E75RFTNzOilmA6s_VBPAWRo9M)
+    * ii. Nếu có thắc mắc, liên lạc với 年金事務所 nơi sinh sống trực thuộc
   * **医療 保険料証明書** cần bôi đen số bảo hiểm
-
-    i. 健康保険被保険者証（写し）
-
-    ii. Nếu có tham gia 国民健康保 xen kẽ, đến 市区町村 nơi sinh sống xin 保険料納付証明書
+    * i. 健康保険被保険者証（写し）
+    * ii. Nếu có tham gia 国民健康保 xen kẽ, đến 市区町村 nơi sinh sống xin 保険料納付証明書
 
 #### **⑭** **Bảng tính điểm nhân lực chất lượng cao** 高度専門職ポイント計算表等
 
