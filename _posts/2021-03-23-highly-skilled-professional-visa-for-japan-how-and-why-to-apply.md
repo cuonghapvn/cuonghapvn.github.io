@@ -25,9 +25,9 @@ Highly Skilled Professional chia làm 2 level: sau khi có visa level 1 liên t�
 
 Trong mỗi level thì chia thành 3 loại riêng biệt như sau
 
-1. 高度専門職1号(イ)/Highly Skilled Professional (a): Nghiên cứu học thuật   
+1. 高度専門職1号(イ)/Highly Skilled Professional (a): Nghiên cứu học thuật  
    Hoạt động tham gia giảng dạy, hướng dẫn nghiên cứu hoặc giáo dục dựa trên hợp đồng ký kết với tổ chức công hoặc tư ở Nhật Bản, bao gồm các hoạt động quản lý doanh nghiệp kết hợp với hoạt động nghiên cứu.
-2. 高度専門職1号(ロ)/Highly Skilled Professional (b): Chuyên môn/kỹ thuật   
+2. 高度専門職1号(ロ)/Highly Skilled Professional (b): Chuyên môn/kỹ thuật  
    Hoạt động tham gia vào các dịch vụ đòi hỏi kiến thức hoặc kỹ năng trong lĩnh vực khoa học tự nhiên hoặc khoa học xã hội, dựa trên hợp đồng ký kết với một tổ chức công hoặc tư nhân ở Nhật Bản. **=> Mình xin visa theo loại này**
 3. 高度専門職1号(ハ)/Highly Skilled Professional (c): Quản lý kinh doanh  
    Hoạt động tham gia vào việc quản lý hoạt động kinh doanh của các tổ chức công và tư ở Nhật Bản
@@ -70,9 +70,7 @@ Vì có rất nhiều mục tính điểm nên mình sẽ tóm tắt lại một
   * Trường Đại học thuộc nhóm các trường đang nhận hỗ trợ từ bộ Văn hóa Thể thao Du lịch và Khoa học Nhật Bản
   * Trường Đại học được chỉ định là đối tác của chương trình hợp tác Innovative Asia được thực hiện bởi bộ Ngoại giao Nhật Bản
   * List các trường có thể tham khảo ở đây:
-    * [http://www.immi-moj.go.jp/newimmiact_3/pdf/h30_10_partner-list.pdf](http://www.immi-moj.go.jp/newimmiact_3/pdf/h30_10_partner-list.pdf "http://www.immi-moj.go.jp/newimmiact_3/pdf/h30_10_partner-list.pdf")
-    * [http://www.immi-moj.go.jp/newimmiact_3/pdf/r02_11_daigaku-ranking.pdf](http://www.immi-moj.go.jp/newimmiact_3/pdf/h30_10_partner-list.pdf "http://www.immi-moj.go.jp/newimmiact_3/pdf/h30_10_partner-list.pdf")
-    * [https://www.mext.go.jp/a_menu/koutou/kaikaku/sekaitenkai/1360288.htm](http://www.immi-moj.go.jp/newimmiact_3/pdf/h30_10_partner-list.pdf "http://www.immi-moj.go.jp/newimmiact_3/pdf/h30_10_partner-list.pdf")
+    * [https://www.moj.go.jp/isa/content/001335478.pdf](https://www.moj.go.jp/isa/content/001335478.pdf "https://www.moj.go.jp/isa/content/001335478.pdf")
 * Và một số mục khác mà mình cũng k rành/ không nằm trong diện được cộng điểm nên không biết.
 
 {: .box-warning}  
@@ -101,7 +99,7 @@ Bạn cần chuẩn bị các giấy tờ bên dưới theo đúng như các m�
 
 * Bằng đại học: Nếu không có bản dịch tiếng anh/nhật, vui lòng đính kèm theo bản dịch.
 * Giấy chứng nhận thời gian làm việc: cái này bạn nhờ bên HR làm cho bạn nhé. Nếu có kinh nghiệm làm việc ở VN thì nhờ công ty ở VN làm giấy này bằng tiếng Anh và scan gửi sang là OK.
-* Giấy chứng nhận thu nhập ước tính (収入見込み証明書): 
+* Giấy chứng nhận thu nhập ước tính (収入見込み証明書):
   * Cách tính như bên dưới:
 
     **給与 (見込み)** = **(Basic salary hiện tại + các khoản allowance hiện tại) * 12 tháng + 賞与(見込み)**
@@ -124,11 +122,9 @@ Các tài liệu bên trên mình chỉ nộp bản sao, cũng cẩn thận mang
 大阪府大阪市住之江区南港北一丁目29番53号**
 
 * Trước khi đi thì có thể lên twitter của cục để check xem thời gian đợi là bao lâu để sắp xếp thời gian đi cho hợp lý.
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">こんにちは，大阪出入国在留管理局です。２５日１４時現在の在留申請受付窓口における待ち時間は，<br>在留・認定申請　　　５１分<br>許可・証印　　　　　９６分<br>です。大変混み合っています。</p>&mdash; 大阪出入国在留管理局 (@IMMI_OSAKA) <a href="https://twitter.com/IMMI_OSAKA/status/1374949955912179716?ref_src=twsrc%5Etfw">March 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+  <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">こんにちは，大阪出入国在留管理局です。２５日１４時現在の在留申請受付窓口における待ち時間は，<br>在留・認定申請　　　５１分<br>許可・証印　　　　　９６分<br>です。大変混み合っています。</p>— 大阪出入国在留管理局 (@IMMI_OSAKA) <a href="https://twitter.com/IMMI_OSAKA/status/1374949955912179716?ref_src=twsrc%5Etfw">March 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 * Nộp hồ sơ thì người ta sẽ phát phiếu đợi và postcard để mình điền địa chỉ vào
   Trong thời gian chờ đợi thì có thể check xem số thứ tự của mình đã được gọi chưa tại link này: [http://omatase.jp/h81000/index.php](http://omatase.jp/h81000/index.php)
-
 * Hồ sơ sau khi được check xong, người ta sẽ gọi số và mình nộp lại postcard và đi về.  
   Bên cục cũng bấm một tờ giấy xác nhận đã nộp hồ sơ vào passport của mình (chắc sợ rơi)
 
