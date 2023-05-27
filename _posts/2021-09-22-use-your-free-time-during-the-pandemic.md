@@ -3,12 +3,14 @@ layout: post
 comments: 'true'
 published: 'true'
 title: Làm gì với thời gian dư ra khi ở nhà mùa dịch?
-subtitle: Chia sẻ một số nguồn tài nguyên để học, đọc, nghe... trong thời gian ở nhà
-  mùa dịch
+subtitle: >-
+  Chia sẻ một số nguồn tài nguyên để học, đọc, nghe... trong thời gian ở nhà mùa
+  dịch
 tags:
-- Tips
-
+  - Tips
+_template: blog_with_no_image
 ---
+
 Nhân lúc ngồi chỉnh lý lại đống note trong Notion thì phát hiện ra đống list resources cực kỳ chất lượng mà ngày xưa mình note lại. Giờ tìm lại thì không ra được ai là người share cái list này nên mình đang share lại lên blog cho người cần. Mình cũng sẽ cố gắng update list này thường xuyên khi phát hiện ra cái gì đó hay ho mới mẻ.
 
 ## **Học Online**

@@ -5,10 +5,11 @@ published: 'true'
 title: Road to PMP - Quá trình để trở thành PMP
 subtitle: Chapter đầu tiên trong chuỗi bài viết chia sẻ Road to PMP
 tags:
-- Lessons Learned
-- PMP
-
+  - Lessons Learned
+  - PMP
+_template: blog_with_no_image
 ---
+
 Sau bài chia sẻ quá trình, kinh nghiệm của bản thân mình sau khi pass được chứng chỉ PMP, khá nhiều bạn đã nhắn tin riêng mình để hỏi thêm về PMP. Mình nhận ra phần lớn khó khăn của các bạn đều là **chưa biết bắt đầu từ đâu**. Giữa đống thông tin hỗn loạn trên mạng, kèm theo một đống các loại sách, tài liệu, app phục vụ cho việc học, chúng ta cần bắt đầu từ đâu trong hành trình chinh phục PMP?
 
 Mình bắt đầu series bài viết chia sẻ: Road to PMP

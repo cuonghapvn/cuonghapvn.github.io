@@ -3,13 +3,14 @@ layout: post
 comments: 'true'
 published: 'true'
 title: Kinh nghiệm luyện thi chứng chỉ IPA FE bằng tiếng Nhật (Update 2021)
-subtitle: "(基本情報技術者試験 - Fundamental Information Technology Engineer Examination)"
+subtitle: (基本情報技術者試験 - Fundamental Information Technology Engineer Examination)
 tags:
-- Japan
-- IPA
-- Lessons Learned
-
+  - Japan
+  - IPA
+  - Lessons Learned
+_template: blog_with_no_image
 ---
+
 {: .box-warning}  
 Update 2022  
 \- Lệ phí thi thay đổi từ 5700円　➡　7500円

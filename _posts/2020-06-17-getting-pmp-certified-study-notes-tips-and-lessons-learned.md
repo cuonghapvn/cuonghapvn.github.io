@@ -1,16 +1,18 @@
 ---
 layout: post
 title: Mình đã pass PMP ở lần thi đầu tiên!
-subtitle: If you want something you've never had, you must be willing to do something
+subtitle: >-
+  If you want something you've never had, you must be willing to do something
   you've never done!
-cover-img: "/uploads/20200613-pmp-cover.jpg"
+cover-img: /uploads/20200613-pmp-cover.jpg
 tags:
-- Lessons Learned
-- PMP
+  - Lessons Learned
+  - PMP
 comments: 'true'
 published: 'true'
-
+_template: blog
 ---
+
 ### Intro
 
 Mình đã pass PMP với kết quả 5ATs ở lần thi đầu tiên vào ngày 5/6/2020. Hi vọng thông qua bài viết này, mọi người có thể học được một chút kinh nghiệm và lên kế hoạch ôn thi thật hiệu quả.

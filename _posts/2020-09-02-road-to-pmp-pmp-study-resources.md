@@ -4,11 +4,12 @@ comments: 'true'
 title: Road to PMP - Tài liệu học và luyện thi
 subtitle: 'Chia sẻ, đánh giá về một số loại tài liệu phục vụ việc tự ôn thi PMP.'
 tags:
-- Lessons Learned
-- PMP
+  - Lessons Learned
+  - PMP
 published: 'true'
-
+_template: blog_with_no_image
 ---
+
 Cũng như nhiều bạn mới bước chân vào con đường luyện thi PMP, mình đã từng trăn trở rất nhiều về việc lựa chọn tài liệu học cho hiệu quả, simulator nào thì chất lượng. Mình dành bài viết thứ 3 để nói sâu hơn về các loại tài liệu dùng để luyện thi PMP.
 
 ### 1. Khóa học để lấy 35 contact hours

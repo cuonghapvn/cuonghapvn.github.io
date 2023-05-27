@@ -2,11 +2,12 @@
 layout: post
 comments: 'true'
 published: 'true'
-title: Mình chuyển nhà từ Osaka lên Tokyo, tháng 2/2022
+title: 'Mình chuyển nhà từ Osaka lên Tokyo, tháng 2/2022'
 subtitle: Một số note về kinh nghiệm của mình khi chuyển nhà tại Nhật.
 tags: []
-
+_template: blog_with_no_image
 ---
+
 Vào tháng 2/2022, mình mới chuyển nhà lên Tokyo, chia tay Osaka sau 6 năm gắn bó.
 
 Trong suốt quá trình chuyển nhà có khá nhiều việc cần làm nên viết bài này để lưu lại kinh nghiệm về sau.

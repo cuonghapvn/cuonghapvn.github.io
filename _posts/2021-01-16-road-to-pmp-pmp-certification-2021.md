@@ -5,9 +5,10 @@ published: 'true'
 title: Road to PMP - Các thay đổi trong PMP Exam từ 2021
 subtitle: Một số chia sẻ của mình về những thay đổi của PMP từ năm 2021
 tags:
-- PMP
-
+  - PMP
+_template: blog_with_no_image
 ---
+
 ![](/uploads/20210116-PMP®-Exam-Changes-in-2021.jpg)
 Sau một thời gian dài bận rộn với những dự án cá nhân, không có nhiều thời gian viết blog thì mình quay trở lại với một bài viết giới thiệu những thay đổi của PMP Exam từ năm 2021. 
 

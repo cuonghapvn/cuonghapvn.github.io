@@ -5,10 +5,11 @@ published: 'true'
 title: 'Decision Making: Giới thiệu về Cynefin framework'
 subtitle: ''
 tags:
-- Soft-skills
-- Cynefin
-
+  - Soft-skills
+  - Cynefin
+_template: blog_with_no_image
 ---
+
 Trong hành trình đọc sách về Scrum của mình thì có một điều làm mình cứ thắc mắc đó là Scrum được dùng để giải quyết các vấn đề phức tạp (complex problems). Vậy thì, làm sao để biết được dự án/sản phẩm như thế nào được coi là phức tạp để áp dụng Scrum? Những vấn đề không phức tạp thì mình sẽ làm như thế nào?
 
 Câu trả lời cho câu hỏi bên trên đó là Cynefin framework, (phiên âm [/kəˈnɛvɪn/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English"); đọc là "cơ-nê-vin"), một framework giúp chúng ta phân biệt được tình huống mình đang gặp phải là đơn giản/rắc rối/phức tạp/rối loạn, và cách chúng ta tìm giải pháp thích hợp cho từng tình huống đó.

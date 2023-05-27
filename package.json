@@ -1,0 +1,19 @@
+{
+  "name": "cuonghapvn.github.io",
+  "version": "1.0.0",
+  "description": "[![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.14",
+    "tinacms": "^1.5.6"
+  }
+}

@@ -2,16 +2,18 @@
 layout: post
 comments: 'true'
 title: Mình đổi sang visa nhân lực chất lượng cao!
-subtitle: Chia sẻ về một số thông tin liên quan đến visa Nhân lực chất lượng cao,
-  ưu điểm, cách apply...
+subtitle: >-
+  Chia sẻ về một số thông tin liên quan đến visa Nhân lực chất lượng cao, ưu
+  điểm, cách apply...
 tags:
-- Visa
-- Thủ tục
-- Japan
-cover-img: "/uploads/iStock-953620924-Japan-Visa-1020x500.jpg"
+  - Visa
+  - Thủ tục
+  - Japan
+cover-img: /uploads/iStock-953620924-Japan-Visa-1020x500.jpg
 published: ''
-
+_template: blog_with_no_image
 ---
+
 Vừa rồi nhân lúc cần phải gia hạn lại visa lao động 5 năm thì mình có tìm hiểu, và quyết định thay vì gia hạn visa hiện tại thì mình apply chuyển tư cách lưu trú sang 高度専門職・Highly Skilled Professional. Nghe hoành tráng quá đúng không? :v Tiện đây mình viết bài này để chia sẻ lại một số thông tin cũng như note lại quá trình xin visa mới của mình.
 
 ### Highly Skilled Professional VISA là gì?

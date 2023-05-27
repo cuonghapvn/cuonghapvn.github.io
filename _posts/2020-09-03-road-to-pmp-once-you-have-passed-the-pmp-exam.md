@@ -3,12 +3,13 @@ layout: post
 comments: 'true'
 published: 'true'
 title: Road to PMP - Gia hạn PMP và những điều cần biết
-subtitle: 'Những việc cần làm sau khi đã pass PMP'
+subtitle: Những việc cần làm sau khi đã pass PMP
 tags:
-- PMP
-- Lessons Learned
-
+  - PMP
+  - Lessons Learned
+_template: blog_with_no_image
 ---
+
 Trải qua một khoảng thời gian dài vất vả ôn tập, và một kỳ thi dài 4 tiếng đồng hồ, nếu trên màn hình hiển thị ra chữ congratulations thì xin chúc mừng vì bạn đã chính thức trở thành 1 PMP rồi. Yay!
 
 Tuy nhiên, chặn đường PMP của bạn không dừng lại tại đây. Vẫn còn nhiều việc phía sau cần phải làm sau khi pass kỳ thi PMP nhé.

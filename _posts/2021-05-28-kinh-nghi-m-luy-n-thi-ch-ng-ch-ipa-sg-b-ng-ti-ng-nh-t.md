@@ -3,13 +3,14 @@ layout: post
 comments: 'true'
 published: 'true'
 title: Kinh nghiệm luyện thi chứng chỉ IPA SG bằng tiếng Nhật (Update 2021)
-subtitle: "(情報セキュリティマネジメント試験 - Information Security Management Examination)"
+subtitle: (情報セキュリティマネジメント試験 - Information Security Management Examination)
 tags:
-- Japan
-- IPA
-- Lessons Learned
-
+  - Japan
+  - IPA
+  - Lessons Learned
+_template: blog_with_no_image
 ---
+
 Thời gian trước, trong quá trình chuẩn bị xin visa Kodo (visa nhân lực chất lượng cao) thì mình có ôn tập và thi 2 chứng chỉ là SG và FE của IPA. Mình xin chia sẻ một số kinh nghiệm 2 chứng chỉ này như sau.
 
 ### Giới thiệu về chứng chỉ SG

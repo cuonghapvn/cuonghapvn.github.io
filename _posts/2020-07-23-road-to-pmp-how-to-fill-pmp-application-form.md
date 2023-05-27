@@ -2,13 +2,14 @@
 layout: post
 comments: 'true'
 title: Road to PMP - Hướng dẫn cách điền đơn đăng ký dự thi
-subtitle: 'Một số chia sẻ cũng như mẹo khi làm đơn đăng ký dự thi PMP.'
+subtitle: Một số chia sẻ cũng như mẹo khi làm đơn đăng ký dự thi PMP.
 tags:
-- PMP
-- Lessons Learned
+  - PMP
+  - Lessons Learned
 published: 'true'
-
+_template: blog_with_no_image
 ---
+
 Cũng giống như các bạn, lúc mình bắt đầu làm hồ sơ thi thì mình cũng đã hoang mang rất nhiều vì không biết bắt đầu từ đâu, fill như thế nào cho phù hợp. Rất may mắn, kể từ tháng 7/2020, PMI đã thay đổi lại format của form đăng ký, giúp quá trình đăng ký trở nên dễ dàng và nhanh chóng hơn. Nội dung thay đổi như sau:
 
 * Giảm thời gian điền form và review form bằng cách giảm số màn hình nhập từ 30 màn hình xuống còn 4 màn hình mà thôi.

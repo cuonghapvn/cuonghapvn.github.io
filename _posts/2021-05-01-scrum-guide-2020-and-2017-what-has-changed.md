@@ -2,12 +2,13 @@
 layout: post
 comments: 'true'
 published: 'true'
-title: Những thay đổi giữa Scrum Guide 2017 và Scrum Guide 2020
+title: "Những thay\_đổi giữa Scrum Guide 2017 và Scrum Guide 2020"
 subtitle: ''
 tags:
-- Scrum
-
+  - Scrum
+_template: blog_with_no_image
 ---
+
 Một điều khá bất ngờ khi mình nói chuyện với một số anh em đang dùng Scrum, có chứng chỉ PSM1 nhưng không biết chuyện Scrum Guide đã có version mới 2020.
 
 Việc Scrum Guide thay đổi mình nghĩ sẽ có nhiều ảnh hưởng đến tất cả mọi người đã, đang và sẽ làm việc với Scrum. Nhân tiện ngày nghỉ lễ Golden Week, mình có ngồi lượm lặt một số thông tin về việc thay đổi của Scrum Guide để chia sẻ lại với mọi người.
